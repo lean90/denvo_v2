@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<home>
+		<lblBestSeller>BEST SELLERS</lblBestSeller>
+		<lblNewProduct>NEW PRODUCT</lblNewProduct>
+	</home>
+	<login>
+		<title>PROJECT E Login</title>
+		<loginTitle>Login</loginTitle>
+		<registeTitle>Sign up</registeTitle>
+		<lblUs>Account / Email : </lblUs>
+		<lblPs>Password :</lblPs>
+		<btnLogin>Login</btnLogin>
+		<lblForgetPassword>You can not sign in to account </lblForgetPassword>
+		<lblCreateNewAccount>Register </lblCreateNewAccount>
+		<lblError>Account(email)/ password is not correct</lblError>
+		<lblCreateFristName>First name</lblCreateFristName>
+		<lblCreateLastName> Name </lblCreateLastName>
+		<lblDOB>Date of birth </lblDOB>
+		<lblEmail>Email </lblEmail>
+		<lblPassword>Password </lblPassword>
+		<lblPasswordRetry> Re-password </lblPasswordRetry>
+		<lblSex>Gender </lblSex>
+		<lblSexM>Male</lblSexM>
+		<lblSexF>Female</lblSexF>
+		<lblSexO>Other</lblSexO>
+		<lblQuestion>Questions</lblQuestion>
+		<lblQ0>Which game do you like most?</lblQ0>
+		<lblQ1>Name What is your childhood? </lblQ1>
+		<lblQ2>Your high school name is what?</lblQ2>
+		<lblQ3>Your favorite book?</lblQ3>
+		<lblQ4>Name What is your pet?</lblQ4>
+		<lblQ5>What animal do you like most?</lblQ5>
+		<lblanswer>Answer</lblanswer>
+		<btnResg>Agree to the terms of use and Registration </btnResg>
+		<lblLinkPolice>Details and terms of use of the website charter.</lblLinkPolice>
+		<msgWoringEmail>Email the wrong format or exceed 254 characters</msgWoringEmail>
+		<msgWoringPass>Passwords do not match and contain only characters from
+			0-9, AZ </msgWoringPass>
+		<msgWoringFristName>First Name longer than 50 characters</msgWoringFristName>
+		<msgWoringLastName>Last name longer than 50 characters</msgWoringLastName>
+		<msgWoringAns>Answers longer than 50 characters</msgWoringAns>
+	</login>
+	<registercomplete>
+		<title>Register complete</title>
+		<des>You have successfully registered mail please check to confirm
+			this subscription.</des>
+	</registercomplete>
+	<Details>
+		<label>abc{0}</label>
+	</Details>
+	<layout>
+		<lblSellerOffice>Seller Office</lblSellerOffice>
+		<lblMyOrder>My Order</lblMyOrder>
+		<lblRegister>Register</lblRegister>
+		<lblMadeinVietnam>Made in Vietnam</lblMadeinVietnam>
+		<lblHot>Hot</lblHot>
+
+		<lblHeadSell>SELL</lblHeadSell>
+		<lblLiveChat>LIVE CHAT</lblLiveChat>
+		<lblLanguage>LANGUAGE</lblLanguage>
+		<lblMakeMoneyWithUs>Co-operation and Development</lblMakeMoneyWithUs>
+		<lblSell>Sell</lblSell>
+		<lblAdve>Contact for advertising</lblAdve>
+		<lblCustomerService>Customers</lblCustomerService>
+		<lblFAQs>FAQs</lblFAQs>
+		<lblContact>Contact</lblContact>
+		<lblShippingvsReturn>Shipping and Returns </lblShippingvsReturn>
+		<lblSafeShopping>Buying and selling safety</lblSafeShopping>
+		<lblGuaranteeSecureShopping>Ensure sales</lblGuaranteeSecureShopping>
+		<lblAboutSfriendly>About Sfriendly</lblAboutSfriendly>
+		<lblAbout>About Us</lblAbout>
+		<lblJobs>Jobs</lblJobs>
+		<lblCustomerTestimonials>Customer Testimonials</lblCustomerTestimonials>
+		<lblAssociatesProgram>Associates Program</lblAssociatesProgram>
+		<lblGlossaryofTerms>Glossary of terms</lblGlossaryofTerms>
+		<lblDailyShowDigest>Daily show digest</lblDailyShowDigest>
+		<lblFeedback>Feedback</lblFeedback>
+		<lblHowLikeOurWebsite>How like our website</lblHowLikeOurWebsite>
+		<lblCart>Your Cart</lblCart>
+		<lblViewCartWidthProductNumber>View Cart ({{cart.length}} items)</lblViewCartWidthProductNumber>
+		<lblViewCart>{{cart.length}} items</lblViewCart>
+		<lblCartAlert>Empty Cart</lblCartAlert>
+		<lblCartQuantity>Quantity</lblCartQuantity>
+		<lblUserStatus>Hi, {1} Your account</lblUserStatus>
+		<lblUserStatusNotSign>Sign in</lblUserStatusNotSign>
+		<lblUserLogout>Sign out</lblUserLogout>
+		<lblUserAccount>Account information</lblUserAccount>
+		<lblUserOrder>Order information</lblUserOrder>
+		<lblUserWishlist>Wishlist</lblUserWishlist>
+		<lblUserPinlist>Pinlist</lblUserPinlist>
+		<lblSearch>Search</lblSearch>
+		<lblMenu>Category/Menu</lblMenu>
+	</layout>
+
+	<sitemap>
+		<title>Sitemap</title>
+	</sitemap>
+	<product_details>
+		<title>Product detail - Sfriendly</title>
+		<lblshpping>Free ship</lblshpping>
+		<lblQuantity>Quantity</lblQuantity>
+		<btnBuyNow>Buy now</btnBuyNow>
+		<lblAddTo>Add to</lblAddTo>
+		<btnCart>Cart</btnCart>
+		<btnWishList>Wishlist</btnWishList>
+		<lblShare>Share</lblShare>
+		<lblDes>Description</lblDes>
+		<lblOther>Pro Details</lblOther>
+		<lblWarranty>Warranty &amp; Return</lblWarranty>
+		<lblRelated>Related product</lblRelated>
+		<lblBrand>Brand</lblBrand>
+		<lblMadeIn>Made in</lblMadeIn>
+		<lblImportFrom>Import from</lblImportFrom>
+		<lblReturnPolicy>You can return product in: {0} day(s).</lblReturnPolicy>
+		<lblNoReturnPolicy>This product has no return policy.</lblNoReturnPolicy>
+		<lblWarrantyPolicy>Warranty policy:</lblWarrantyPolicy>
+		<lblWarrantyValue>{0} day(s)</lblWarrantyValue>
+		<lblWarrantyLifeTime>product lifetime.</lblWarrantyLifeTime>
+		<lblNoWarrantyPolicy>This product has no warranty policy.</lblNoWarrantyPolicy>
+	</product_details>
+	<wishlist_show>
+		<title>Wishlist</title>
+		<colProduct>Products</colProduct>
+		<colPrice>Price</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>In stock</lblInstock>
+		<lblInstockQty>Just {{product.stock}} items</lblInstockQty>
+		<lblOutOfstock>Out of stock</lblOutOfstock>
+		<lblAddToCart>Add to cart</lblAddToCart>
+		<lblRemoveItem>Remove</lblRemoveItem>
+		<lblNoProduct>You haven't added any product</lblNoProduct>
+	</wishlist_show>
+	<portalaccount_account>
+		<title>Account information</title>
+	</portalaccount_account>
+	<portalaccount_active>
+		<title>Verify account</title>
+		<msgComplete>Account Verification success</msgComplete>
+		<linkComplete>Back to home</linkComplete>
+		<msgErrorActived>Account has been active</msgErrorActived>
+	</portalaccount_active>
+	<cart_showCart>
+		<title>Cart</title>
+		<lblYourcart>Your Cart</lblYourcart>
+		<lblPlaceOrder>Place order</lblPlaceOrder>
+		<lblShippingInfor>Shipping infor</lblShippingInfor>
+		<lblPaymentInfor>Playment infor</lblPaymentInfor>
+		<lblNotification>Notification</lblNotification>
+		<lblGoBack>Go back</lblGoBack>
+		<colProduct>Products</colProduct>
+		<colPrice>Prices</colPrice>
+		<colQty>QTY</colQty>
+		<colSubtotal>Subtotal</colSubtotal>
+		<colTotal>Total</colTotal>
+		<lblInstock>In stock</lblInstock>
+		<lblInstockQty>Just {{product.stock}} product</lblInstockQty>
+		<lblOutOfstock>Out of stock</lblOutOfstock>
+		<btnRemoveFormCart>Remove from Cart</btnRemoveFormCart>
+		<btnMoveToWishlist>Move to wishlist</btnMoveToWishlist>
+		<lblContinueShopping>Continue shopping</lblContinueShopping>
+		<lblWishlist>Wishlist</lblWishlist>
+		<lblRemoveWishlist>Remove</lblRemoveWishlist>
+		<lblViewWishlist>Show wishlist</lblViewWishlist>
+		<lblCartsum>Cart summary</lblCartsum>
+		<lblProductCount>Product ({{products.length}})</lblProductCount>
+		<lblShipping>Shipping</lblShipping>
+		<lblTax>Taxes</lblTax>
+		<lblTotal>Total</lblTotal>
+		<btncheckout>Checkout</btncheckout>
+		<btnAddToCart>Add to Cart</btnAddToCart>
+		<lblNoProduct>There is no product in your Cart</lblNoProduct>
+	</cart_showCart>
+	<cart_shipping>
+		<title>Shipping information</title>
+		<lblYourcart>Your Cart</lblYourcart>
+		<lblPlaceOrder>Place order</lblPlaceOrder>
+		<lblShippingInfor>Shipping infor</lblShippingInfor>
+		<lblPaymentInfor>Playment infor</lblPaymentInfor>
+		<lblShippingAddress>Shipping address</lblShippingAddress>
+		<lblPhone>Phone number</lblPhone>
+		<lblAddress>Street address</lblAddress>
+		<lblCity>City/district</lblCity>
+		<lblProvince>Province</lblProvince>
+		<lblShippingMethods>Shipping methods</lblShippingMethods>
+		<lblName>Full name</lblName>
+		<colName>Name</colName>
+		<colTime>Transmit time</colTime>
+		<lblGift>Gift</lblGift>
+		<lblIsGift>Is gift</lblIsGift>
+		<lblGiftNoiceLine1>Is gift</lblGiftNoiceLine1>
+		<lblGiftNoice>(Free gift wrap)</lblGiftNoice>
+		<lblIsNotGift>Yes, it's a gift</lblIsNotGift>
+		<btnContinue>Continue</btnContinue>
+		<btnBacktoCart>Back to cart</btnBacktoCart>
+		<lblCartsum>Cart summary</lblCartsum>
+		<lblProduct>Products </lblProduct>
+		<lblShipping>Shipping</lblShipping>
+		<lblTax>Tax</lblTax>
+		<lblSubtotal>Subtotal</lblSubtotal>
+		<lblTotal>Total</lblTotal>
+		<lblAdvanceMode>Advance mode</lblAdvanceMode>
+		<lblSimpleMode>Simple mode</lblSimpleMode>
+		<lblProduct>Product</lblProduct>
+		<lblQuantity>Quantity</lblQuantity>
+		<lblShipTotal>Shipping Total</lblShipTotal>
+	</cart_shipping>
+	<mail>
+		<registerconfirm>Welcome to,Sfriendly website</registerconfirm>
+		<OrderShipping>Your Sfriendly.com order has shipped! (#{order_number})</OrderShipping>
+		<OrderDelivered>Your Sfriendly.com order has delivered
+			(#{order_number})</OrderDelivered>
+		<SellerOrderDelivered>Your Sfriendly.com order has delivered</SellerOrderDelivered>
+		<OrderPlace>Your Sfriendly.com order has placed (#{order_number})</OrderPlace>
+		<OrderAskReview>Would you like to rate your transaction at
+			Sfriendly.com?</OrderAskReview>
+		<SellerPaymentVerified>You sold an item from your customer – Ship now</SellerPaymentVerified>
+		<OrderRejected>Fail to Attempt Your Sfriendly.com order
+			(#{order_number})</OrderRejected>
+		<SellerOrderRejected>Your item failed to attempt your customer!</SellerOrderRejected>
+		<orderCancel>Your Sfriendly.com order has cancelled</orderCancel>
+		<newpasswordNofication>Reset password</newpasswordNofication>
+		<passwordNotify>Changed password</passwordNotify>
+	</mail>
+
+	<portalaccount_resetPassword></portalaccount_resetPassword>
+	<order_placeOrder></order_placeOrder>
+	<pin_showPage>
+		<title>PIN</title>
+		<colProduct>Products</colProduct>
+		<colPrice>Price</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>In stock</lblInstock>
+		<lblInstockQty>Just {{product.stock}} Item</lblInstockQty>
+		<lblOutOfstock>Out of stoc;</lblOutOfstock>
+		<lblAddToCart>Add to cart</lblAddToCart>
+		<lblMoveToWishlist>Move to wishlist </lblMoveToWishlist>
+		<lblRemoveItem>Remove</lblRemoveItem>
+		<lblNoProduct>There is no product in list</lblNoProduct>
+	</pin_showPage>
+	<admin_login></admin_login>
+	<admin_mainpage></admin_mainpage>
+	<portalAdmin_support></portalAdmin_support>
+	<portalHelp_contact_us></portalHelp_contact_us>
+	<portalHelp_contact_by_email></portalHelp_contact_by_email>
+	<portalHelp_contact_by_chat></portalHelp_contact_by_chat>
+	<portalHelp_start_chat></portalHelp_start_chat>
+	<portalOrder_orderCheckinComplete></portalOrder_orderCheckinComplete>
+	<seller_show_products></seller_show_products>
+	<seller_add_product></seller_add_product>
+	<seller_dashboard></seller_dashboard>
+	<seller_product></seller_product>
+	<portalaccount_lostPassword></portalaccount_lostPassword>
+	<portalHelp_policy></portalHelp_policy>
+
+	<portalaccount_userSecurity>
+		<menuItemSecurity>Account security</menuItemSecurity>
+		<menuItemInformation>Account information</menuItemInformation>
+		<menuItemOrderHistory>Order history</menuItemOrderHistory>
+		<title>Account Security</title>
+		<errorMsgWorngOldPassword>Old password does not match</errorMsgWorngOldPassword>
+		<errorMsgWorngNewPassword>The new password does not match</errorMsgWorngNewPassword>
+		<errorMsgWorngComparePassword>The new password is not valid</errorMsgWorngComparePassword>
+		<msgUpdatePasswordComplete>Successfully updated the password</msgUpdatePasswordComplete>
+		<passwordTitle>Changing the password : </passwordTitle>
+		<passwordOld>Old Password : </passwordOld>
+		<passwordNew>New Password : </passwordNew>
+		<passwordRepeat>Re-password: </passwordRepeat>
+		<btnSavePassword>Update password</btnSavePassword>
+
+		<emailInvalidMsg>COMMING SOOM...</emailInvalidMsg>
+		<emailTitle>Change notification email</emailTitle>
+		<lblEmail>Email</lblEmail>
+		<btnEmail>Update email</btnEmail>
+
+		<loginHistoryTitle>10 last login</loginHistoryTitle>
+		<historyIpColTitle>IP</historyIpColTitle>
+		<historyTimeColTitle>Time</historyTimeColTitle>
+		<historyUserAgrentColTitle>User Agrent</historyUserAgrentColTitle>
+		<historySystemColTitle>System</historySystemColTitle>
+
+	</portalaccount_userSecurity>
+	<portalaccount_userInformation>
+		<menuItemSecurity>Account Security</menuItemSecurity>
+		<menuItemInformation>Account information</menuItemInformation>
+		<menuItemOrderHistory>Order history</menuItemOrderHistory>
+		<title>Personal Information</title>
+		<sexM>Male</sexM>
+		<sexF>Female</sexF>
+		<sexO>Other</sexO>
+		<userInformationMsgFirstname>First name is not validate</userInformationMsgFirstname>
+		<userInformationMsgLastName>Name is not validate</userInformationMsgLastName>
+		<userInformationMsgDob>Date of birth is not validate</userInformationMsgDob>
+		<userInformationMsgSex>Gender is not validate</userInformationMsgSex>
+		<userInformationMsgSucess>Updates success</userInformationMsgSucess>
+
+		<lblInformationTitle>Personal Information</lblInformationTitle>
+		<lblFristName>Frist Name</lblFristName>
+		<lblLastName>Name</lblLastName>
+		<lblDob>Date of birth</lblDob>
+		<lblSex>Gender</lblSex>
+		<btnSaveInformation>Save change</btnSaveInformation>
+
+		<lblContactsTitle>List of addresses</lblContactsTitle>
+		<lblContactsFullname>Full name</lblContactsFullname>
+		<lblContactsTelephone>Phone number</lblContactsTelephone>
+		<lblContactsStateProvince>Province</lblContactsStateProvince>
+		<lblContactsCity>City</lblContactsCity>
+		<lblContactsAddress>street address</lblContactsAddress>
+
+		<btnAddNewContact>Add new address</btnAddNewContact>
+		<btnUpdateContact>Editing address</btnUpdateContact>
+		<msgUpdateContactError>Edit Unsuccessful address</msgUpdateContactError>
+		<msgUpdateContactSucess>Update has successfully address</msgUpdateContactSucess>
+	</portalaccount_userInformation>
+	<portalaccount_userOrderHistory>
+		<menuItemSecurity>Account Security</menuItemSecurity>
+		<menuItemInformation>Account information</menuItemInformation>
+		<menuItemOrderHistory>Order history</menuItemOrderHistory>
+		<title>Order history</title>
+		<orderStatusOrderPlace>No authentication</orderStatusOrderPlace>
+		<orderStatusVerifying>Waiting for authentication</orderStatusVerifying>
+		<orderStatusShipping>Moving goods</orderStatusShipping>
+		<orderStatusDelivered>Completed</orderStatusDelivered>
+		<orderStatusRejected>Rejected</orderStatusRejected>
+		<orderStatusOrderCancelled>Cancel</orderStatusOrderCancelled>
+
+		<lblTitleNotify>Announcement</lblTitleNotify>
+		<lblNotifyNoneOrder>You have not orders</lblNotifyNoneOrder>
+		<lblNotifyNoneInvoice>You have not invoices</lblNotifyNoneInvoice>
+		<lblOrderId>Invoice id</lblOrderId>
+		<lblOrderCreatedDate>Created date</lblOrderCreatedDate>
+		<lblOrderTotalPrices>Total</lblOrderTotalPrices>
+		<btnOrdeDetail>Order Detail</btnOrdeDetail>
+		<lblNameProduct>Name</lblNameProduct>
+		<lblQuanityProduct>QTY</lblQuanityProduct>
+		<btnProductDetail>Product detail</btnProductDetail>
+		<btnProductWriteReview>Write review</btnProductWriteReview>
+		<lblDesTitle>Description</lblDesTitle>
+		<lblTaxTitle>Tax</lblTaxTitle>
+		<lblPriceTitle>Price</lblPriceTitle>
+		<lblInvoicePay>Invoice input</lblInvoicePay>
+		<lblInvoiceReturn>Invoice return </lblInvoiceReturn>
+		<lblInvoiceTotal>Total invoice</lblInvoiceTotal>
+		<lblInvoiceId>Invoice id</lblInvoiceId>
+		<lblCreatedDate>Created date</lblCreatedDate>
+		<lblPaidDate>Paid date</lblPaidDate>
+		<lblPaidType>Payment methods</lblPaidType>
+		<lblShippingType>Shipping methods</lblShippingType>
+		<lblPersonInCharge>Recipient</lblPersonInCharge>
+		<lblPersonPhone>Phone</lblPersonPhone>
+		<lblState>State</lblState>
+		<lblDetail>Street address</lblDetail>
+		<lblCity>City</lblCity>
+		<lblStatus>Status</lblStatus>
+	</portalaccount_userOrderHistory>
+	<product_list></product_list>
+	<admin_sellerFind></admin_sellerFind>
+	<category_show>
+		<title>Category</title>
+		<lblLoading>Loading, Please waiting...</lblLoading>
+		<lblShowMore>Show more</lblShowMore>
+		<lblSortNew>New</lblSortNew>
+		<lblSortBestbuy>Best Sellers</lblSortBestbuy>
+		<lblSortPriceDown>Lowest price</lblSortPriceDown>
+		<lblSortPriceUp>Highest Price</lblSortPriceUp>
+		<lblSortSaleoff>Discounts</lblSortSaleoff>
+		<lblSortHot>Hot</lblSortHot>
+		<lblSortLike>Like</lblSortLike>
+	</category_show>
+	<page></page>
+	<portalPayment_orderVefiry></portalPayment_orderVefiry>
+	<portalPayment_paymentChoice></portalPayment_paymentChoice>
+	<portalPayment_orderReview></portalPayment_orderReview>
+	<portalPayment_paymentSuccess>
+		<title>Successful transactions</title>
+		<lblNotify>Successful transactions</lblNotify>
+		<lblSucessMsg>You've successfully payment please mail check. {br}
+			sales staff will contact you as soon as the.</lblSucessMsg>
+		<lblFaileMsg>Payment failure, please check the information.</lblFaileMsg>
+	</portalPayment_paymentSuccess>
+
+	<seller_product_details></seller_product_details>
+	<file_browse_file></file_browse_file>
+	<search_show_page>
+		<title>Search</title>
+		<lblResult>Result</lblResult>
+		<lblResultCount>{{total_record}} Records</lblResultCount>
+		<colProduct>Product</colProduct>
+		<colPrices>Prices</colPrices>
+		<colAction></colAction>
+	</search_show_page>
+	<dialog_findUser>
+		<title>Tìm kiếm user</title>
+	</dialog_findUser>
+	<admin_product>
+
+	</admin_product>
+</data>

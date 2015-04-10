@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<home>
+		<lblBestSeller>베스트 셀러</lblBestSeller>
+		<lblNewProduct>새로운 제품</lblNewProduct>
+	</home>
+	<login>
+		<title>PROJECT E 로그인</title>
+		<loginTitle>로그인</loginTitle>
+		<registeTitle>가입</registeTitle>
+		<lblUs>계정 / 이메일 : </lblUs>
+		<lblPs>암호 :</lblPs>
+		<btnLogin>로그인</btnLogin>
+		<lblForgetPassword>당신은 계정에 로그인 할 수 없습니다 </lblForgetPassword>
+		<lblCreateNewAccount>레지스터 </lblCreateNewAccount>
+		<lblError>계정 (이메일) / 비밀번호가 올바르지 않습니다</lblError>
+		<lblCreateFristName>이름</lblCreateFristName>
+		<lblCreateLastName> 이름 </lblCreateLastName>
+		<lblDOB>생년월일</lblDOB>
+		<lblEmail>이메일 </lblEmail>
+		<lblPassword>암호 </lblPassword>
+		<lblPasswordRetry> 암호를 입력 </lblPasswordRetry>
+		<lblSex>성 </lblSex>
+		<lblSexM>남성</lblSexM>
+		<lblSexF>여성</lblSexF>
+		<lblSexO>다른</lblSexO>
+		<lblQuestion>질문</lblQuestion>
+		<lblQ0>당신은 대부분 게임을 좋아합니까?</lblQ0>
+		<lblQ1>어린 시절은 무엇입니까 이름? </lblQ1>
+		<lblQ2>고등학교의 이름은 무엇입니까?</lblQ2>
+		<lblQ3>좋아하는 책?</lblQ3>
+		<lblQ4>당신의 애완 동물은 무엇입니까 이름?</lblQ4>
+		<lblQ5>당신은 어떤 동물 가장 좋아합니까?</lblQ5>
+		<lblanswer>답변</lblanswer>
+		<btnResg>사용 및 등록의 조건에 동의 </btnResg>
+		<lblLinkPolice>세부 사항 및 웹 사이트 헌장의 규정.</lblLinkPolice>
+		<msgWoringEmail>잘못된 형식으로 이메일을 보내거나 254 문자를 초과 할</msgWoringEmail>
+		<msgWoringPass>비밀번호가 일치 0-9, 애리조나에서만 문자를 포함하지 않는 </msgWoringPass>
+		<msgWoringFristName>50 자보다 긴 이름</msgWoringFristName>
+		<msgWoringLastName>마지막으로 이름을 50 자 이상</msgWoringLastName>
+		<msgWoringAns>50 자보다 긴 답변</msgWoringAns>
+	</login>
+	<registercomplete>
+		<title>전체 등록</title>
+		<des>당신은 성공적으로 메일을 등록이 구독을 확인하는 확인하시기 바랍니다.</des>
+	</registercomplete>
+	<Details>
+		<label>abc{0}</label>
+	</Details>
+	<layout>
+		<lblSellerOffice>판매자 사무실</lblSellerOffice>
+		<lblMyOrder>내 순서</lblMyOrder>
+		<lblRegister>레지스터</lblRegister>
+		<lblMadeinVietnam>베트남 제</lblMadeinVietnam>
+		<lblHot>뜨거운</lblHot>
+
+		<lblHeadSell>판매</lblHeadSell>
+		<lblLiveChat>라이브 채팅</lblLiveChat>
+		<lblLanguage>언어</lblLanguage>
+		<lblMakeMoneyWithUs>개발 협력</lblMakeMoneyWithUs>
+		<lblSell>판매</lblSell>
+		<lblAdve>광고 문의</lblAdve>
+		<lblCustomerService>고객</lblCustomerService>
+		<lblFAQs>FAQs</lblFAQs>
+		<lblContact>접촉</lblContact>
+		<lblShippingvsReturn>배송 및 반품 </lblShippingvsReturn>
+		<lblSafeShopping>안전 구매 및 판매</lblSafeShopping>
+		<lblGuaranteeSecureShopping>판매를 확인</lblGuaranteeSecureShopping>
+		<lblAboutSfriendly>약 Sfriendly</lblAboutSfriendly>
+		<lblAbout>회사 소개</lblAbout>
+		<lblJobs>채용</lblJobs>
+		<lblCustomerTestimonials>고객의 소리</lblCustomerTestimonials>
+		<lblAssociatesProgram>동료 프로그램</lblAssociatesProgram>
+		<lblGlossaryofTerms>용어 설명</lblGlossaryofTerms>
+		<lblDailyShowDigest>데일리 쇼 소화</lblDailyShowDigest>
+		<lblFeedback>Feedback</lblFeedback>
+		<lblHowLikeOurWebsite>어떻게 우리의 웹 사이트와</lblHowLikeOurWebsite>
+		<lblCart>마이 카트 </lblCart>
+		<lblViewCartWidthProductNumber>장바구니 ({{cart.length}})</lblViewCartWidthProductNumber>
+		<lblViewCart>장바구니 {{cart.length}}</lblViewCart>
+		<lblCartAlert>장바구니 (0)</lblCartAlert>
+		<lblCartQuantity>수</lblCartQuantity>
+		<lblUserStatus>안녕하세요, {1} 귀하의 계정</lblUserStatus>
+		<lblUserStatusNotSign>로그인</lblUserStatusNotSign>
+		<lblUserLogout>로그 아웃</lblUserLogout>
+		<lblUserAccount>계정 정보</lblUserAccount>
+		<lblUserOrder>주문 정보</lblUserOrder>
+		<lblUserWishlist>Wishlist</lblUserWishlist>
+		<lblUserPinlist>Pinlist</lblUserPinlist>
+		<lblSearch>검색</lblSearch>
+		<lblMenu>카테고리/메뉴 </lblMenu>
+	</layout>
+
+	<sitemap>
+		<title>Sitemap</title>
+	</sitemap>
+	<product_details>
+		<title>제품 세부 사항 - Sfriendly</title>
+		<productInfomation> 제품 정보</productInfomation>
+		<lblshpping>무료배송</lblshpping>
+		<lblQuantity>수량</lblQuantity>
+		<btnBuyNow>바로구매</btnBuyNow>
+		<lblAddTo>장바구니 </lblAddTo>
+		<btnCart>장바구니</btnCart>
+		<btnWishList>관심상품</btnWishList>
+		<lblShare>공유</lblShare>
+		<lblDes>상품 설명</lblDes>
+		<lblOther>기타 정보</lblOther>
+		<lblWarranty>보증 &amp; 반품</lblWarranty>
+		<lblRelated>Related product</lblRelated>
+		<lblBrand>상표</lblBrand>
+		<lblMadeIn>제</lblMadeIn>
+		<lblImportFrom>에서 가져</lblImportFrom>
+		<lblReturnPolicy>당신의 제품을 반환 할 수 있습니다:{0} 일.</lblReturnPolicy>
+		<lblNoReturnPolicy>이 제품은 반환 정책이 없습니다.</lblNoReturnPolicy>
+		<lblWarrantyPolicy>보장 정책 :</lblWarrantyPolicy>
+		<lblWarrantyValue>{0} 일</lblWarrantyValue>
+		<lblWarrantyLifeTime>제품 수명.</lblWarrantyLifeTime>
+		<lblNoWarrantyPolicy>이 제품은 보증 정책이 없습니다.</lblNoWarrantyPolicy>
+	</product_details>
+	<wishlist_show>
+		<title>Wishlist</title>
+		<colProduct>제품</colProduct>
+		<colPrice>가격</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>재고 있음</lblInstock>
+		<lblInstockQty>그냥 {{product.stock}} 항목</lblInstockQty>
+		<lblOutOfstock>품절</lblOutOfstock>
+		<lblAddToCart>장바구니에 담기</lblAddToCart>
+		<lblRemoveItem>제거</lblRemoveItem>
+		<lblNoProduct>당신은 어떤 제품을 추가하지 않은</lblNoProduct>
+	</wishlist_show>
+	<portalaccount_account>
+		<title>계정 정보</title>
+	</portalaccount_account>
+	<portalaccount_active>
+		<title> 계정 확인 </title>
+		<msgComplete>계정 인증 성공</msgComplete>
+		<linkComplete>홈페이지로 돌아 가기</linkComplete>
+		<msgErrorActived>계정이 활성화되었습니다</msgErrorActived>
+	</portalaccount_active>
+	<cart_showCart>
+		<title>카트</title>
+		<lblYourcart>장바구니</lblYourcart>
+		<lblPlaceOrder>장소 순서</lblPlaceOrder>
+		<lblShippingInfor>선박 정보</lblShippingInfor>
+		<lblPaymentInfor>결제 정보</lblPaymentInfor>
+		<lblNotification>유의사항</lblNotification>
+		<lblGoBack>취소하기</lblGoBack>
+		<colProduct>상품</colProduct>
+		<colPrice>가격</colPrice>
+		<colQty>수량</colQty>
+		<colSubtotal>합계</colSubtotal>
+		<colTotal>합계금액</colTotal>
+		<lblInstock>재고 있음</lblInstock>
+		<lblInstockQty>그냥 {{product.stock}} 제품</lblInstockQty>
+		<lblOutOfstock>품절</lblOutOfstock>
+		<btnRemoveFormCart>삭제</btnRemoveFormCart>
+		<btnMoveToWishlist>Wishlist 보관</btnMoveToWishlist>
+		<lblContinueShopping>계속쇼핑</lblContinueShopping>
+		<lblWishlist>Wishlist</lblWishlist>
+		<lblRemoveWishlist>제거</lblRemoveWishlist>
+		<lblViewWishlist>표시 wishlist</lblViewWishlist>
+		<lblCartsum>카트 요약</lblCartsum>
+		<lblProductCount>상품 ({{products.length}})</lblProductCount>
+		<lblShipping>배송</lblShipping>
+		<lblTotal>합계</lblTotal>
+		<lblTax>세금</lblTax>
+		<btncheckout>주문하기</btncheckout>
+		<btnAddToCart>장바구니에 담기</btnAddToCart>
+		<lblNoProduct>장바구니에 제품이 없습니다</lblNoProduct>
+	</cart_showCart>
+	<cart_shipping>
+		<title>선박 정보</title>
+		<lblYourcart>장바구니</lblYourcart>
+		<lblPlaceOrder>장소 순서</lblPlaceOrder>
+		<lblShippingInfor>선박 정보</lblShippingInfor>
+		<lblPaymentInfor>결제 정보</lblPaymentInfor>
+		<lblShippingAddress>발송 주소</lblShippingAddress>
+		<lblPhone>전화 번호</lblPhone>
+		<lblAddress>거리 주소</lblAddress>
+		<lblCity>도시 / 지역</lblCity>
+		<lblProvince>주</lblProvince>
+		<lblShippingMethods>배송 방법</lblShippingMethods>
+		<lblName>전체 이름</lblName>
+		<colName>이름</colName>
+		<colTime>시간을 전송</colTime>
+		<lblGift>선물</lblGift>
+		<lblIsGift>선물</lblIsGift>
+		<lblGiftNoiceLine1>선물</lblGiftNoiceLine1>
+		<lblGiftNoice>(무료 선물 포장)</lblGiftNoice>
+		<lblIsNotGift>네, 선물이야</lblIsNotGift>
+		<btnContinue>계속</btnContinue>
+		<btnBacktoCart>돌아 가기 쇼핑 카트에</btnBacktoCart>
+		<lblCartsum>카트 요약</lblCartsum>
+		<lblProduct>제품 </lblProduct>
+		<lblShipping>선박</lblShipping>
+		<lblTax>세</lblTax>
+		<lblSubtotal>소계</lblSubtotal>
+		<lblTotal>합계</lblTotal>
+		<lblAdvanceMode>사전 모드</lblAdvanceMode>
+		<lblSimpleMode>단순 모드</lblSimpleMode>
+		<lblProduct>생성물</lblProduct>
+		<lblQuantity>양</lblQuantity>
+		<lblShipTotal>선박 총</lblShipTotal>
+	</cart_shipping>
+	<mail>
+		<registerconfirm>Welcome to,Sfriendly website</registerconfirm>
+		<OrderShipping>Your Sfriendly.com order has shipped! (#{order_number})</OrderShipping>
+		<OrderDelivered>Your Sfriendly.com order has delivered
+			(#{order_number})</OrderDelivered>
+		<SellerOrderDelivered>Your Sfriendly.com order has delivered</SellerOrderDelivered>
+		<OrderPlace>Your Sfriendly.com order has placed (#{order_number})</OrderPlace>
+		<OrderAskReview>Would you like to rate your transaction at
+			Sfriendly.com?</OrderAskReview>
+		<SellerPaymentVerified>You sold an item from your customer – Ship now</SellerPaymentVerified>
+		<OrderRejected>Fail to Attempt Your Sfriendly.com order
+			(#{order_number})</OrderRejected>
+		<SellerOrderRejected>Your item failed to attempt your customer!</SellerOrderRejected>
+		<orderCancel>Your Sfriendly.com order has cancelled</orderCancel>
+		<newpasswordNofication>Reset password</newpasswordNofication>
+		<passwordNotify>Changed password</passwordNotify>
+	</mail>
+
+	<portalaccount_resetPassword></portalaccount_resetPassword>
+	<order_placeOrder></order_placeOrder>
+	<pin_showPage>
+		<title>PIN</title>
+		<colProduct>제품</colProduct>
+		<colPrice>가격</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>재고 있음</lblInstock>
+		<lblInstockQty>그냥 {{product.stock}} 항목</lblInstockQty>
+		<lblOutOfstock>품절</lblOutOfstock>
+		<lblAddToCart>장바구니에 담기</lblAddToCart>
+		<lblMoveToWishlist>이동 wishlist </lblMoveToWishlist>
+		<lblRemoveItem>제거</lblRemoveItem>
+		<lblNoProduct>목록에 제품이 없습니다</lblNoProduct>
+	</pin_showPage>
+	<admin_login></admin_login>
+	<admin_mainpage></admin_mainpage>
+	<portalAdmin_support></portalAdmin_support>
+	<portalHelp_contact_us></portalHelp_contact_us>
+	<portalHelp_contact_by_email></portalHelp_contact_by_email>
+	<portalHelp_contact_by_chat></portalHelp_contact_by_chat>
+	<portalHelp_start_chat></portalHelp_start_chat>
+	<portalOrder_orderCheckinComplete></portalOrder_orderCheckinComplete>
+	<seller_show_products></seller_show_products>
+	<seller_add_product></seller_add_product>
+	<seller_dashboard></seller_dashboard>
+	<seller_product></seller_product>
+	<portalaccount_lostPassword>
+		<title>비밀 번호를 복구</title>
+		<lblStepDes>단계는 암호 재설정을 포함 </lblStepDes>
+		<lblStep1>당신은 당신의 이메일 주소를 입력해야</lblStep1>
+		<lblStep2>귀하의 이메일을 확인하고 암호 정보를 얻을</lblStep2>
+		<lblStep3>새 암호 정보로 로그인</lblStep3>
+		<lblMail>E-메일 주소</lblMail>
+		<btnMailler>확인</btnMailler>
+		<lblMsgOk>암호 재설정에 성공, 당신은 더 많은 정보를 귀하의 이메일을 확인.</lblMsgOk>
+		<lblMsgNotOk>입력하신 메일은 정확하지 않습니다.</lblMsgNotOk>
+	</portalaccount_lostPassword>
+	<portalHelp_policy></portalHelp_policy>
+
+	<portalaccount_userSecurity>
+		<menuItemSecurity>계정 보안</menuItemSecurity>
+		<menuItemInformation>계정 정보</menuItemInformation>
+		<menuItemOrderHistory>순서의 역사</menuItemOrderHistory>
+		<menuItemLogout>로그 아웃</menuItemLogout>
+		<title>계정 보안</title>
+		<errorMsgWorngOldPassword>이전 암호가 일치하지 않습니다</errorMsgWorngOldPassword>
+		<errorMsgWorngNewPassword>새 암호가 일치하지 않습니다</errorMsgWorngNewPassword>
+		<errorMsgWorngComparePassword>새 암호가 유효하지 않습니다</errorMsgWorngComparePassword>
+		<msgUpdatePasswordComplete>성공적으로 암호를 업데이트</msgUpdatePasswordComplete>
+		<passwordTitle>비밀번호 변경 : </passwordTitle>
+		<passwordOld>이전 암호 : </passwordOld>
+		<passwordNew>새 암호: </passwordNew>
+		<passwordRepeat>새 암호를 입력 : </passwordRepeat>
+		<btnSavePassword>암호를 업데이트</btnSavePassword>
+
+		<emailInvalidMsg>출시 예정...</emailInvalidMsg>
+		<emailTitle>알림 이메일</emailTitle>
+		<lblEmail>이메일</lblEmail>
+		<btnEmail>이메일 업데이트</btnEmail>
+
+		<loginHistoryTitle>최근 10 로그인</loginHistoryTitle>
+		<historyIpColTitle>IP</historyIpColTitle>
+		<historyTimeColTitle>시간</historyTimeColTitle>
+		<historyUserAgrentColTitle>User Agrent</historyUserAgrentColTitle>
+		<historySystemColTitle>체계</historySystemColTitle>
+
+	</portalaccount_userSecurity>
+	<portalaccount_userInformation>
+		<menuItemSecurity>계정 보안</menuItemSecurity>
+		<menuItemInformation>계정 정보</menuItemInformation>
+		<menuItemOrderHistory>순서의 역사</menuItemOrderHistory>
+		<menuItemLogout>로그 아웃</menuItemLogout>
+		<title>개인 정보</title>
+		<sexM>남성</sexM>
+		<sexF>여성</sexF>
+		<sexO>다른</sexO>
+		<userInformationMsgFirstname>이름이 잘못되었습니다</userInformationMsgFirstname>
+		<userInformationMsgLastName>이름이 잘못되었습니다</userInformationMsgLastName>
+		<userInformationMsgDob>출생의 날짜가 잘못되었습니다</userInformationMsgDob>
+		<userInformationMsgSex>성별은 유효하지 않습니다</userInformationMsgSex>
+		<userInformationMsgSucess>업데이트 성공</userInformationMsgSucess>
+
+		<lblInformationTitle>개인 정보</lblInformationTitle>
+		<lblFristName>이름</lblFristName>
+		<lblLastName>이름</lblLastName>
+		<lblDob>생년월일</lblDob>
+		<lblSex>성</lblSex>
+		<btnSaveInformation>변경 사항을 저장</btnSaveInformation>
+
+		<lblContactsTitle>주소 목록</lblContactsTitle>
+		<lblContactsFullname>전체 이름</lblContactsFullname>
+		<lblContactsTelephone>전화 번호</lblContactsTelephone>
+		<lblContactsStateProvince>주</lblContactsStateProvince>
+		<lblContactsCity>도시</lblContactsCity>
+		<lblContactsAddress>특정 주소</lblContactsAddress>
+
+		<btnAddNewContact>새 주소 추가</btnAddNewContact>
+		<btnUpdateContact>편집 주소</btnUpdateContact>
+		<msgUpdateContactError>실패한 주소를 편집</msgUpdateContactError>
+		<msgUpdateContactSucess>이 업데이트는 해결</msgUpdateContactSucess>
+	</portalaccount_userInformation>
+	<portalaccount_userOrderHistory>
+		<menuItemSecurity>계정 보안</menuItemSecurity>
+		<menuItemInformation>계정 정보</menuItemInformation>
+		<menuItemOrderHistory>순서의 역사</menuItemOrderHistory>
+		<menuItemLogout>로그 아웃</menuItemLogout>
+		<title>거래 내역</title>
+		<orderStatusOrderPlace>인증 없음</orderStatusOrderPlace>
+		<orderStatusVerifying>인증 대기 중</orderStatusVerifying>
+		<orderStatusShipping>상품 이동</orderStatusShipping>
+		<orderStatusDelivered>완료</orderStatusDelivered>
+		<orderStatusRejected>받아들이 기 어려운</orderStatusRejected>
+		<orderStatusOrderCancelled>고객의 요청에 의해 취소</orderStatusOrderCancelled>
+
+		<lblTitleNotify>발표</lblTitleNotify>
+		<lblNotifyNoneOrder>당신은 그것을 주문할 수 없습니다</lblNotifyNoneOrder>
+		<lblNotifyNoneInvoice>당신은 그것을 주문할 수 없습니다</lblNotifyNoneInvoice>
+		<lblOrderId>주문 코드</lblOrderId>
+		<lblOrderCreatedDate>만든 날짜</lblOrderCreatedDate>
+		<lblOrderTotalPrices>총 가치</lblOrderTotalPrices>
+		<btnOrdeDetail> 라인 항목</btnOrdeDetail>
+		<btnOrderCanncel>주문 취소</btnOrderCanncel>
+		<btnOrderPayment>계속</btnOrderPayment>
+
+		<lblNameProduct>이름</lblNameProduct>
+		<lblQuanityProduct>수</lblQuanityProduct>
+		<btnProductDetail>제품 상세 정보</btnProductDetail>
+		<btnProductWriteReview>상품 리뷰를 써</btnProductWriteReview>
+		<lblDesTitle>기술</lblDesTitle>
+		<lblTaxTitle>세금</lblTaxTitle>
+		<lblPriceTitle>가격</lblPriceTitle>
+		<lblInvoicePay>법안</lblInvoicePay>
+		<lblInvoiceReturn>송장 반환</lblInvoiceReturn>
+		<lblInvoiceTotal>지폐의 총 가치</lblInvoiceTotal>
+		<lblInvoiceId>빌 코드</lblInvoiceId>
+		<lblCreatedDate>만든 날짜</lblCreatedDate>
+		<lblPaidDate>지불 날짜</lblPaidDate>
+		<lblPaidType>지불 방법</lblPaidType>
+		<lblShippingType>수송의 형태</lblShippingType>
+		<lblPersonInCharge>받는 사람</lblPersonInCharge>
+		<lblPersonPhone>받는 사람 전화 번호</lblPersonPhone>
+		<lblState>상태</lblState>
+		<lblDetail>상세 주소</lblDetail>
+		<lblCity>도시</lblCity>
+		<lblStatus>지위</lblStatus>
+		<lblTitleRootCause>원인은 주문을 취소</lblTitleRootCause>
+		<msgCancelOrderComplete>성공적으로 주문 취소, 주문 확인 메일을 확인하시기 바랍니다.</msgCancelOrderComplete>
+	</portalaccount_userOrderHistory>
+	<product_list></product_list>
+	<admin_sellerFind></admin_sellerFind>
+	<category_show>
+		<title>범주</title>
+		<lblLoading>로딩, 대기하십시오...</lblLoading>
+		<lblShowMore>더보기</lblShowMore>
+		<lblSortNew>새로운</lblSortNew>
+		<lblSortBestbuy>베스트셀러</lblSortBestbuy>
+		<lblSortPriceDown>최저 가격</lblSortPriceDown>
+		<lblSortPriceUp>최고 가격</lblSortPriceUp>
+		<lblSortSaleoff>할인</lblSortSaleoff>
+		<lblSortHot>뜨거운</lblSortHot>
+		<lblSortLike>같은</lblSortLike>
+	</category_show>
+	<page></page>
+	<portalPayment_orderVefiry></portalPayment_orderVefiry>
+	<portalPayment_paymentChoice>
+		<title>지불 방법을 선택</title>
+		<paymentProcessCart>카트</paymentProcessCart>
+		<paymentProcessPlaceOrder>체크 아웃 카운터</paymentProcessPlaceOrder>
+		<paymentProcessShipping>배송 정보</paymentProcessShipping>
+		<paymentProcessPaymentInfor>지불 방법</paymentProcessPaymentInfor>
+		<paymentProcessPayment>지불</paymentProcessPayment>
+
+		<lblGoBack>백</lblGoBack>
+
+		<lblShippingAddress>수취인 주소</lblShippingAddress>
+		<lblShippingInvoiceAddress>청구 지 주소</lblShippingInvoiceAddress>
+		<lblFullname>전체 이름 : </lblFullname>
+		<lblPhone>전화 번호 : </lblPhone>
+		<lblAddress>주소 : </lblAddress>
+
+		<lblProducts> 제품 목록</lblProducts>
+		<colProduct>제품</colProduct>
+		<colPrice>가격</colPrice>
+		<colQty>수</colQty>
+		<colSubTotal>합계</colSubTotal>
+
+		<lblPaymentType>지불 방법</lblPaymentType>
+		<colPlaymentType>지불의 종류</colPlaymentType>
+		<colPlaymentFreeType>어떻게 충전하는</colPlaymentFreeType>
+		<colPlaymentFree>비용 (VND)</colPlaymentFree>
+
+		<lblOrderSummaries>합성 주문</lblOrderSummaries>
+		<lblOrderId>주문 코드 : </lblOrderId>
+		<lblInvoiceId>코드 법안 : </lblInvoiceId>
+		<lblCreateDate>만든 날짜 : </lblCreateDate>
+		<lblOrderSummariesDetail>순서는 다음과 같습니다</lblOrderSummariesDetail>
+		<lblProducts>제품</lblProducts>
+		<lblOrderShipping>배송 정보 : </lblOrderShipping>
+		<lblOrderSubtotal>총 상품 : </lblOrderSubtotal>
+		<lblOrderTax>세금 : </lblOrderTax>
+		<lblOrderTotal>지폐의 총 가치 : </lblOrderTotal>
+		<btnNext>다음</btnNext>
+		<btnBack>위로 카트</btnBack>
+	</portalPayment_paymentChoice>
+	<portalPayment_orderReview></portalPayment_orderReview>
+	<seller_product_details></seller_product_details>
+	<portalPayment_paymentSuccess>
+		<title>성공적인 거래</title>
+		<lblNotify>성공적인 거래</lblNotify>
+		<lblSucessMsg>성공적으로 결제 확인 메일을 주시기 바랍니다했습니다. {br} 영업 직원은 즉시 연락 드리겠습니다.</lblSucessMsg>
+		<lblFaileMsg>지불 실패, 정보를 확인하시기 바랍니다.</lblFaileMsg>
+	</portalPayment_paymentSuccess>
+	<file_browse_file></file_browse_file>
+	<search_show_page>
+		<title>수색</title>
+		<lblResult>결과</lblResult>
+		<lblResultCount>장바구니 {{total_record}}</lblResultCount>
+		<colProduct>상품</colProduct>
+		<colPrices>가격</colPrices>
+		<colAction></colAction>
+	</search_show_page>
+	<dialog_findUser>
+		<title>Tìm kiếm user</title>
+	</dialog_findUser>
+	<admin_product>
+
+	</admin_product>
+</data>

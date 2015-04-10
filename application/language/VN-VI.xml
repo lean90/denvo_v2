@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<home>
+		<lblBestSeller>SẢN PHẨM BÁN CHẠY</lblBestSeller>
+		<lblNewProduct>NEW PRODUCT</lblNewProduct>
+	</home>
+	<login>
+		<title>PROJECT E Đăng nhập</title>
+		<loginTitle>Đăng nhập</loginTitle>
+		<registeTitle>Đăng Ký</registeTitle>
+		<lblUs>Tên Đăng nhập : </lblUs>
+		<lblPs>Mật khẩu :</lblPs>
+		<btnLogin>Đăng nhập</btnLogin>
+		<lblForgetPassword>Bạn không thể đăng nhập tài khoản </lblForgetPassword>
+		<lblCreateNewAccount>Đăng ký tài khoản mới </lblCreateNewAccount>
+		<lblError>Tên đăng nhập hoặc mật khẩu không đúng.</lblError>
+		<lblCreateFristName>Họ và tên đệm </lblCreateFristName>
+		<lblCreateLastName> Tên </lblCreateLastName>
+		<lblDOB>Ngày sinh </lblDOB>
+		<lblEmail>Email </lblEmail>
+		<lblPassword>Mật khẩu </lblPassword>
+		<lblPasswordRetry> Nhập lại mật khẩu </lblPasswordRetry>
+		<lblSex>Giới tính </lblSex>
+		<lblSexM>Nam</lblSexM>
+		<lblSexF>Nữ</lblSexF>
+		<lblSexO>Khác</lblSexO>
+		<lblQuestion>Câu hỏi bí mật</lblQuestion>
+		<lblQ0>Bạn thích chơi game nào nhất ?</lblQ0>
+		<lblQ1>Tên thuở nhỏ của bạn là gì ? </lblQ1>
+		<lblQ2>Trường cấp 3 của bạn là gì ?</lblQ2>
+		<lblQ3>Cuốn sách mà bạn thích nhất ?</lblQ3>
+		<lblQ4>Tên vật nuôi của bạn là gì ?</lblQ4>
+		<lblQ5>Bạn thích con vật nào nhất ?</lblQ5>
+		<lblanswer>Trả lời</lblanswer>
+		<btnResg>Đồng ý điều khoản sử dụng và Đăng ký </btnResg>
+		<lblLinkPolice>Chi tiết điều khoản sử dụng và điều lệ của website.</lblLinkPolice>
+		<msgWoringEmail>Email sai địng dạng hoặc dài quá 254 ký tự</msgWoringEmail>
+		<msgWoringPass>Mật khẩu không khớp và chỉ chứa ký tự từ 0-9, A-Z </msgWoringPass>
+		<msgExitEmail>Địa chỉ mail đã tồn tại</msgExitEmail>
+		<msgWoringFristName>Họ và tên đệm dài quá 50 ký tự</msgWoringFristName>
+		<msgWoringLastName>Tên dài quá 50 ký tự</msgWoringLastName>
+		<msgWoringAns>Tên dài quá 50 ký tự</msgWoringAns>
+	</login>
+	<registercomplete>
+		<title>Đăng ký thành công</title>
+		<des>Bạn đã đăng ký thành công vui lòng kiểm tra mail để xác nhận đăng
+			ký này.</des>
+	</registercomplete>
+	<Details>
+		<label>abc{0}</label>
+
+	</Details>
+	<layout>
+		<lblSellerOffice>Bán hàng</lblSellerOffice>
+		<lblMyOrder>Kiểm tra đơn hàng</lblMyOrder>
+		<lblRegister>Đăng kí</lblRegister>
+		<lblMadeinVietnam>Hàng Việt Nam</lblMadeinVietnam>
+		<lblHot>Hot</lblHot>
+
+		<lblHeadSell>BÁN</lblHeadSell>
+		<lblLiveChat>LIVE CHAT</lblLiveChat>
+		<lblLanguage>NGÔN NGỮ</lblLanguage>
+		<lblMakeMoneyWithUs>Hợp tác và phát triển</lblMakeMoneyWithUs>
+		<lblSell>Bán sản phẩm</lblSell>
+		<lblAdve>Liên hệ quảng cáo</lblAdve>
+		<lblCustomerService>Khách hàng</lblCustomerService>
+		<lblFAQs>FAQs</lblFAQs>
+		<lblContact>Liên hệ</lblContact>
+		<lblShippingvsReturn>Vận chuyển và trả hàng </lblShippingvsReturn>
+		<lblSafeShopping>Mua bán an toàn</lblSafeShopping>
+		<lblGuaranteeSecureShopping>Đảm bảo bán hàng</lblGuaranteeSecureShopping>
+		<lblAboutSfriendly>Về Sfriendly</lblAboutSfriendly>
+		<lblAbout>Về chúng tôi</lblAbout>
+		<lblJobs>Công việc</lblJobs>
+		<lblCustomerTestimonials>Khách hàng thực</lblCustomerTestimonials>
+		<lblAssociatesProgram>Chương trình đối tác</lblAssociatesProgram>
+		<lblGlossaryofTerms>Thuật ngữ</lblGlossaryofTerms>
+		<lblDailyShowDigest>Gian hàng hằng ngày</lblDailyShowDigest>
+		<lblFeedback>Feedback</lblFeedback>
+		<lblHowLikeOurWebsite>Góp ý cho website</lblHowLikeOurWebsite>
+		<lblCart>Xem giỏ hàng</lblCart>
+		<lblViewCartWidthProductNumber>Xem giỏ hàng ({{cart.length}} sản phẩm)</lblViewCartWidthProductNumber>
+		<lblViewCart>{{cart.length}} sản phẩm</lblViewCart>
+		<lblCartAlert>Bạn chưa có sản phẩm nào trong giỏ hàng</lblCartAlert>
+		<lblCartQuantity>Số lượng</lblCartQuantity>
+		<lblUserStatus>Chào, {1} tài khoản của bạn</lblUserStatus>
+		<lblUserStatusNotSign>Đăng nhập</lblUserStatusNotSign>
+		<lblUserLogout>Đăng xuất</lblUserLogout>
+		<lblUserAccount>Thông tin tài khoản</lblUserAccount>
+		<lblUserOrder>Thông tin order</lblUserOrder>
+		<lblUserWishlist>Wishlist</lblUserWishlist>
+		<lblUserPinlist>Pinlist</lblUserPinlist>
+		<lblSearch>Tìm kiếm</lblSearch>
+		<lblMenu>Danh mục</lblMenu>
+	</layout>
+
+	<sitemap>
+		<title>Sitemap</title>
+	</sitemap>
+	<product_details>
+		<title>Chi tiết sản phẩm - Sfriendly</title>
+		<productInfomation>Thông tin sản phẩm</productInfomation>
+		<lblshpping>Miễn phí giao hàng</lblshpping>
+		<lblQuantity>Số lượng</lblQuantity>
+		<btnBuyNow>Mua Ngay</btnBuyNow>
+		<lblAddTo>Thêm vào</lblAddTo>
+		<btnCart>Giỏ hàng</btnCart>
+		<btnWishList>Mong Muốn</btnWishList>
+		<lblShare>Chia sẻ </lblShare>
+		<lblDes>Mô tả sản phẩm</lblDes>
+		<lblOther>Thông tin khác</lblOther>
+		<lblWarranty>Bảo hành &amp; trả hàng</lblWarranty>
+		<lblRelated>Sản phẩm liên quan</lblRelated>
+		<lblBrand>Nhãn hiệu</lblBrand>
+		<lblMadeIn>Sản xuất tại</lblMadeIn>
+		<lblImportFrom>Nhập khẩu từ</lblImportFrom>
+		<lblReturnPolicy>Có thể hoàn trả sản phẩm trong vòng: {0} ngày.</lblReturnPolicy>
+		<lblNoReturnPolicy>Sản phẩm này không có điều khoản hoàn trả.</lblNoReturnPolicy>
+		<lblWarrantyPolicy>Thời hạn bảo hành:</lblWarrantyPolicy>
+		<lblWarrantyValue>{0} ngày.</lblWarrantyValue>
+		<lblWarrantyLifeTime>trong suốt thời gian sử dụng.</lblWarrantyLifeTime>
+		<lblNoWarrantyPolicy>Sản phẩm này không có điều khoản bảo hành.</lblNoWarrantyPolicy>
+	</product_details>
+	<wishlist_show>
+		<title>Sản phẩm mong muốn</title>
+		<colProduct>Sản phẩm</colProduct>
+		<colPrice>Giá</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>Còn hàng</lblInstock>
+		<lblInstockQty>Còn {{product.stock}} sản phẩm</lblInstockQty>
+		<lblOutOfstock>Hết hàng</lblOutOfstock>
+		<lblAddToCart>Thêm vào giỏ hàng</lblAddToCart>
+		<lblRemoveItem>Xóa khỏi dánh sach</lblRemoveItem>
+		<lblNoProduct>Bạn chưa thêm sản phẩm nào</lblNoProduct>
+	</wishlist_show>
+	<portalaccount_account>
+		<title>Thông tin tài khoản cá nhân</title>
+	</portalaccount_account>
+	<portalaccount_active>
+		<title>Xác minh tài khoản</title>
+		<msgComplete>Xác minh tài khoản thành công</msgComplete>
+		<linkComplete>Trở về trang chủ</linkComplete>
+		<msgErrorActived>Tài khoản đã được active</msgErrorActived>
+	</portalaccount_active>
+	<cart_showCart>
+		<title>Giỏ hàng</title>
+		<lblYourcart>Giỏ hàng</lblYourcart>
+		<lblPlaceOrder>Place order</lblPlaceOrder>
+		<lblShippingInfor>Thông tin vận chuyển</lblShippingInfor>
+		<lblPaymentInfor>Thông tin thanh toán</lblPaymentInfor>
+		<lblNotification>Thông báo</lblNotification>
+		<lblGoBack>Trở về</lblGoBack>
+		<colProduct>Sản phẩm</colProduct>
+		<colPrice>Giá</colPrice>
+		<colQty>SL</colQty>
+		<colSubtotal>Thành tiền</colSubtotal>
+		<colTotal>Tổng tiền</colTotal>
+		<lblInstock>Còn hàng</lblInstock>
+		<lblInstockQty>Còn {{product.stock}} sản phẩm</lblInstockQty>
+		<lblOutOfstock>Hết hàng</lblOutOfstock>
+		<btnRemoveFormCart>Xóa khỏi giỏ hàng</btnRemoveFormCart>
+		<btnMoveToWishlist>Chuyển sang wishlist</btnMoveToWishlist>
+		<lblContinueShopping>Tiếp tục mua hàng</lblContinueShopping>
+		<lblWishlist>Sản phẩm mong muốn / Wishlist</lblWishlist>
+		<lblRemoveWishlist>Hủy</lblRemoveWishlist>
+		<lblViewWishlist>Hiển thị sản phẩm mong muốn</lblViewWishlist>
+		<lblCartsum>Tóm tắt</lblCartsum>
+		<lblProductCount>Sản phẩm ({{products.length}})</lblProductCount>
+		<lblShipping>Vận chuyển</lblShipping>
+		<lblTax>Thuế</lblTax>
+		<lblTotal>Tổng</lblTotal>
+		<btncheckout>Tiếp tục</btncheckout>
+		<btnAddToCart>Chuyển vào giỏ hàng</btnAddToCart>
+		<lblNoProduct>Không có sản phẩm nào trong giỏ</lblNoProduct>
+	</cart_showCart>
+	<cart_shipping>
+		<title>Thông tin vận chuyển</title>
+		<lblYourcart>Giỏ hàng</lblYourcart>
+		<lblPlaceOrder>Place order</lblPlaceOrder>
+		<lblShippingInfor>Thông tin vận chuyển</lblShippingInfor>
+		<lblPaymentInfor>Thông tin thanh toán</lblPaymentInfor>
+		<lblShippingAddress>Địa chỉ</lblShippingAddress>
+		<lblPhone>Số điện thoại</lblPhone>
+		<lblAddress>Địa chỉ</lblAddress>
+		<lblCity>Thành phố</lblCity>
+		<lblProvince>Tỉnh</lblProvince>
+		<lblShippingMethods>Phương thức vận chuyển</lblShippingMethods>
+		<lblName>Họ và tên</lblName>
+		<colName>Tên</colName>
+		<colTime>Thời gian vận chuyển</colTime>
+		<lblGift>Quà</lblGift>
+		<lblIsGift>Sản phẩm làm quà tặng</lblIsGift>
+		<lblGiftNoiceLine1>Sản phẩm làm quà tặng</lblGiftNoiceLine1>
+		<lblGiftNoice>(Miễn phí bọc quà)</lblGiftNoice>
+		<lblIsNotGift>Không phải là quà</lblIsNotGift>
+		<btnContinue>Tiếp tục</btnContinue>
+		<btnBacktoCart>Trở về giỏ hàng</btnBacktoCart>
+		<lblCartsum>Tóm tắt</lblCartsum>
+		<lblProduct>Sản phẩm </lblProduct>
+		<lblShipping>Vận chuyển</lblShipping>
+		<lblTax>Thuế</lblTax>
+		<lblSubtotal>Thành tiền</lblSubtotal>
+		<lblTotal>Tổng</lblTotal>
+		<lblAdvanceMode>Lựa chọn nâng cao</lblAdvanceMode>
+		<lblSimpleMode>Lựa chọn đơn giản</lblSimpleMode>
+		<lblProduct>Sản phẩm</lblProduct>
+		<lblQuantity>Số lượng</lblQuantity>
+		<lblShipTotal>Thành tiền</lblShipTotal>
+	</cart_shipping>
+	<mail>
+		<registerconfirm>Welcome to,Sfriendly website</registerconfirm>
+		<OrderShipping>Your Sfriendly.com order has shipped! (#{order_number})</OrderShipping>
+		<OrderDelivered>Your Sfriendly.com order has delivered
+			(#{order_number})</OrderDelivered>
+		<SellerOrderDelivered>Your Sfriendly.com order has delivered</SellerOrderDelivered>
+		<OrderPlace>Your Sfriendly.com order has placed (#{order_number})</OrderPlace>
+		<OrderAskReview>Would you like to rate your transaction at
+			Sfriendly.com?</OrderAskReview>
+		<SellerPaymentVerified>You sold an item from your customer – Ship now</SellerPaymentVerified>
+		<OrderRejected>Fail to Attempt Your Sfriendly.com order
+			(#{order_number})</OrderRejected>
+		<SellerOrderRejected>Your item failed to attempt your customer!</SellerOrderRejected>
+		<orderCancel>Your Sfriendly.com order has cancelled</orderCancel>
+		<newpasswordNofication>Reset password</newpasswordNofication>
+		<passwordNotify>Changed password</passwordNotify>
+	</mail>
+
+	<portalaccount_resetPassword></portalaccount_resetPassword>
+	<order_placeOrder></order_placeOrder>
+	<pin_showPage>
+		<title>Sản phẩm đánh dấu</title>
+		<colProduct>Sản phẩm</colProduct>
+		<colPrice>Giá</colPrice>
+		<colAction>
+		</colAction>
+		<lblInstock>Còn hàng</lblInstock>
+		<lblInstockQty>Còn {{product.stock}} sản phẩm</lblInstockQty>
+		<lblOutOfstock>Hết hàng</lblOutOfstock>
+		<lblAddToCart>Chuyển sang giỏ hàng</lblAddToCart>
+		<lblMoveToWishlist>Chuyển sang wishlist </lblMoveToWishlist>
+		<lblRemoveItem>Hủy Đánh dấu</lblRemoveItem>
+		<lblNoProduct>Chưa có sản phẩm nào trong danh sách</lblNoProduct>
+	</pin_showPage>
+	<admin_login></admin_login>
+	<admin_mainpage></admin_mainpage>
+	<portalAdmin_support></portalAdmin_support>
+	<portalHelp_contact_us></portalHelp_contact_us>
+	<portalHelp_contact_by_email></portalHelp_contact_by_email>
+	<portalHelp_contact_by_chat></portalHelp_contact_by_chat>
+	<portalHelp_start_chat></portalHelp_start_chat>
+	<portalOrder_orderCheckinComplete></portalOrder_orderCheckinComplete>
+	<seller_show_products></seller_show_products>
+	<seller_add_product></seller_add_product>
+	<seller_dashboard></seller_dashboard>
+	<seller_product></seller_product>
+	<portalaccount_lostPassword>
+		<title>Khôi phục mật khẩu</title>
+		<lblStepDes>Các Bước thực hiện reset mật khẩu bao gôm </lblStepDes>
+		<lblStep1>Bạn cần nhập địa chỉ mail của bạn</lblStep1>
+		<lblStep2>Bạn Kiểm tra mail và lấy thông tin mật khẩu của bạn</lblStep2>
+		<lblStep3>Đăng nhập với thông tin mật khẩu mới</lblStep3>
+		<lblMail>Địa chỉ mail</lblMail>
+		<btnMailler>Xác nhận</btnMailler>
+		<lblMsgOk>Reset Mật khẩu thành công, bạn hãy kiểm tra mail để biết
+			thêm thông tin.</lblMsgOk>
+		<lblMsgNotOk>Email bạn vừa nhập chưa chính xác.</lblMsgNotOk>
+	</portalaccount_lostPassword>
+	<portalHelp_policy></portalHelp_policy>
+
+	<portalaccount_userSecurity>
+		<menuItemSecurity>Bảo mật tài khoản</menuItemSecurity>
+		<menuItemInformation>Thông tin tài khoản</menuItemInformation>
+		<menuItemOrderHistory>Lịch sử order</menuItemOrderHistory>
+		<menuItemLogout>Đăng xuất</menuItemLogout>
+		<title>Bảo mật tài khoản - PROJECT E</title>
+		<errorMsgWorngOldPassword>Mật khẩu cũ không khớp</errorMsgWorngOldPassword>
+		<errorMsgWorngNewPassword>Mật khẩu mới không khớp</errorMsgWorngNewPassword>
+		<errorMsgWorngComparePassword>Mật khẩu mới không hợp lệ</errorMsgWorngComparePassword>
+		<msgUpdatePasswordComplete>Cập nhật mật khẩu thành công</msgUpdatePasswordComplete>
+		<passwordTitle>Thay đổi mật khẩu : </passwordTitle>
+		<passwordOld>Mật khẩu cũ: </passwordOld>
+		<passwordNew>Mật khẩu mới: </passwordNew>
+		<passwordRepeat>Nhập lại mật khẩu mới: </passwordRepeat>
+		<btnSavePassword>Cập nhật mật khẩu</btnSavePassword>
+
+		<emailInvalidMsg>COMMING SOOM...</emailInvalidMsg>
+		<emailTitle>Thay đổi mail thông báo</emailTitle>
+		<lblEmail>Email</lblEmail>
+		<btnEmail>Cập nhật email</btnEmail>
+
+		<loginHistoryTitle>10 lần đăng nhập gần đây nhất</loginHistoryTitle>
+		<historyIpColTitle>IP</historyIpColTitle>
+		<historyTimeColTitle>Thời gian</historyTimeColTitle>
+		<historyUserAgrentColTitle>User Agrent</historyUserAgrentColTitle>
+		<historySystemColTitle>Hệ thống</historySystemColTitle>
+
+	</portalaccount_userSecurity>
+	<portalaccount_userInformation>
+		<menuItemSecurity>Bảo mật tài khoản</menuItemSecurity>
+		<menuItemInformation>Thông tin tài khoản</menuItemInformation>
+		<menuItemOrderHistory>Lịch sử order</menuItemOrderHistory>
+		<menuItemLogout>Đăng xuất</menuItemLogout>
+		<title>Thông tin cá nhân - PROJECT E</title>
+		<sexM>Nam</sexM>
+		<sexF>Nữ</sexF>
+		<sexO>Khác</sexO>
+		<userInformationMsgFirstname>Họ và tên đệm không hợp lệ</userInformationMsgFirstname>
+		<userInformationMsgLastName>Tên không hợp lệ</userInformationMsgLastName>
+		<userInformationMsgDob>Ngày sinh không hợp lệ</userInformationMsgDob>
+		<userInformationMsgSex>Giới tính không hợp lệ</userInformationMsgSex>
+		<userInformationMsgSucess>Cập nhật thông tin thành công</userInformationMsgSucess>
+
+		<lblInformationTitle>Thông tin cá nhân</lblInformationTitle>
+		<lblFristName>Họ và tên đệm</lblFristName>
+		<lblLastName>Tên</lblLastName>
+		<lblDob>Ngày sinh</lblDob>
+		<lblSex>Giới tính</lblSex>
+		<btnSaveInformation>Lưu thay đổi</btnSaveInformation>
+
+		<lblContactsTitle>Danh sách địa chỉ</lblContactsTitle>
+		<lblContactsFullname>Họ tên đầy đủ</lblContactsFullname>
+		<lblContactsTelephone>Số điện thoại</lblContactsTelephone>
+		<lblContactsStateProvince>Tỉnh</lblContactsStateProvince>
+		<lblContactsCity>Thành phố</lblContactsCity>
+		<lblContactsAddress>Địa chỉ cụ thể</lblContactsAddress>
+
+		<btnAddNewContact>Thêm mới địa chỉ</btnAddNewContact>
+		<btnUpdateContact>Chỉnh sửa địa chỉ</btnUpdateContact>
+		<msgUpdateContactError>Chỉnh sửa địa chỉ Không thành công</msgUpdateContactError>
+		<msgUpdateContactSucess>Cập nhật địa chỉ Thành công</msgUpdateContactSucess>
+	</portalaccount_userInformation>
+	<portalaccount_userOrderHistory>
+		<menuItemSecurity>Bảo mật tài khoản</menuItemSecurity>
+		<menuItemInformation>Thông tin tài khoản</menuItemInformation>
+		<menuItemOrderHistory>Lịch sử order</menuItemOrderHistory>
+		<menuItemLogout>Đăng xuất</menuItemLogout>
+		<title>Lịch sử giao dịch - PROJECT E</title>
+		<orderStatusOrderPlace>Chưa xác thực</orderStatusOrderPlace>
+		<orderStatusVerifying>Đang chờ xác thực</orderStatusVerifying>
+		<orderStatusShipping>Đang chuyển hàng</orderStatusShipping>
+		<orderStatusDelivered>Đã hoàn thành</orderStatusDelivered>
+		<orderStatusRejected>Không được chấp nhận</orderStatusRejected>
+		<orderStatusOrderCancelled>Đã hủy do yêu cầu của khác hàng</orderStatusOrderCancelled>
+
+		<lblTitleNotify>Thông báo</lblTitleNotify>
+		<lblNotifyNoneOrder>Bạn chưa có order nào</lblNotifyNoneOrder>
+		<lblNotifyNoneInvoice>Bạn chưa có order nào</lblNotifyNoneInvoice>
+		<lblOrderId>Mã đơn hàng</lblOrderId>
+		<lblOrderCreatedDate>Ngày tạo</lblOrderCreatedDate>
+		<lblOrderTotalPrices>Tổng giá trị</lblOrderTotalPrices>
+		<btnOrdeDetail>Chi tiết đơn hàng</btnOrdeDetail>
+		<btnOrderCanncel>Hủy đơn hàng</btnOrderCanncel>
+		<btnOrderPayment>Tiếp tục</btnOrderPayment>
+
+		<lblNameProduct>Tên</lblNameProduct>
+		<lblQuanityProduct>Số lượng</lblQuanityProduct>
+		<btnProductDetail>Chi tiết sản phẩm</btnProductDetail>
+		<btnProductWriteReview>Viết review về sản phẩm</btnProductWriteReview>
+		<lblDesTitle>Mô tả</lblDesTitle>
+		<lblTaxTitle>Thuế</lblTaxTitle>
+		<lblPriceTitle>Giá</lblPriceTitle>
+		<lblInvoicePay>Hóa đơn thanh toán</lblInvoicePay>
+		<lblInvoiceReturn>Hóa đơn Trả hàng</lblInvoiceReturn>
+		<lblInvoiceTotal>Tổng giá trị hóa đơn</lblInvoiceTotal>
+		<lblInvoiceId>Mã Hóa đơn</lblInvoiceId>
+		<lblCreatedDate>Ngày tạo</lblCreatedDate>
+		<lblPaidDate>Ngày thanh toán</lblPaidDate>
+		<lblPaidType>Phương thức thanh toán</lblPaidType>
+		<lblShippingType>Hình thức vận chuyển</lblShippingType>
+		<lblPersonInCharge>Người nhận</lblPersonInCharge>
+		<lblPersonPhone>SĐT Người nhận</lblPersonPhone>
+		<lblPersonPhone>SĐT Người nhận</lblPersonPhone>
+		<lblState>Quốc gia</lblState>
+		<lblDetail>Quốc gia</lblDetail>
+		<lblCity>Thành phố</lblCity>
+		<lblStatus>Tình trạng</lblStatus>
+		<lblTitleRootCause>Nguyên nhân hủy đơn hàng</lblTitleRootCause>
+		<msgCancelOrderComplete>Hủy đơn hàng thành công, vui lòng kiểm tra
+			mail để xác nhận đơn hàng.</msgCancelOrderComplete>
+	</portalaccount_userOrderHistory>
+	<product_list></product_list>
+	<admin_sellerFind></admin_sellerFind>
+	<category_show>
+		<title>Danh mục sản phẩm</title>
+		<lblLoading>Đang tải sản phẩm, vui lòng chờ...</lblLoading>
+		<lblShowMore>Xem thêm</lblShowMore>
+		<lblSortNew>Mới nhất</lblSortNew>
+		<lblSortBestbuy>Bán chạy nhất</lblSortBestbuy>
+		<lblSortPriceDown>Giá thấp nhất</lblSortPriceDown>
+		<lblSortPriceUp>Giá cao nhất</lblSortPriceUp>
+		<lblSortSaleoff>Giảm giá mạnh</lblSortSaleoff>
+		<lblSortHot>Sản phẩm hot</lblSortHot>
+		<lblSortLike>Sản phẩm yêu thích</lblSortLike>
+	</category_show>
+	<page></page>
+	<portalPayment_orderVefiry></portalPayment_orderVefiry>
+	<portalPayment_paymentChoice>
+		<title>Lựa chọn phương thức thanh toán</title>
+		<paymentProcessCart>Giỏ hàng</paymentProcessCart>
+		<paymentProcessPlaceOrder>Quầy Thanh toán</paymentProcessPlaceOrder>
+		<paymentProcessShipping>Thông tin vận chuyển</paymentProcessShipping>
+		<paymentProcessPaymentInfor>Phương thức thanh toán</paymentProcessPaymentInfor>
+		<paymentProcessPayment>Thanh toán</paymentProcessPayment>
+
+		<lblGoBack>Trở lại</lblGoBack>
+
+		<lblShippingAddress>Địa chỉ nhận hàng</lblShippingAddress>
+		<lblShippingInvoiceAddress>Địa chỉ nhận hóa đơn</lblShippingInvoiceAddress>
+		<lblFullname>Họ và tên : </lblFullname>
+		<lblPhone>Số điện thoại : </lblPhone>
+		<lblAddress>Địa chỉ : </lblAddress>
+
+		<lblProducts>Sản phẩm</lblProducts>
+		<colProduct>Sản phẩm</colProduct>
+		<colPrice>Giá</colPrice>
+		<colQty>Số lượng</colQty>
+		<colSubTotal>Tổng</colSubTotal>
+
+		<lblPaymentType>Phương thức thanh toán</lblPaymentType>
+		<colPlaymentType>Loại thanh toán</colPlaymentType>
+		<colPlaymentFreeType>Cách tính phí</colPlaymentFreeType>
+		<colPlaymentFree>Chi phí (VND)</colPlaymentFree>
+
+		<lblOrderSummaries>Tổng hợp đơn hàng</lblOrderSummaries>
+		<lblOrderId>Mã đơn hàng : </lblOrderId>
+		<lblInvoiceId>Mã hóa đơn : </lblInvoiceId>
+		<lblCreateDate>Ngày tạo : </lblCreateDate>
+		<lblOrderSummariesDetail>Đơn hàng gồm có</lblOrderSummariesDetail>
+		<lblProducts>Sản phẩm</lblProducts>
+		<lblOrderShipping>Thông tin vận chuyển : </lblOrderShipping>
+		<lblOrderSubtotal>Tổng hàng : </lblOrderSubtotal>
+		<lblOrderTax>Thuế : </lblOrderTax>
+		<lblOrderTotal>Tổng giá trị hóa đơn : </lblOrderTotal>
+		<btnNext>Tiếp theo</btnNext>
+		<btnBack>Trở lại giỏ hàng</btnBack>
+	</portalPayment_paymentChoice>
+	<portalPayment_orderReview></portalPayment_orderReview>
+	<seller_product_details></seller_product_details>
+	<portalPayment_paymentSuccess>
+		<title>Giao dịch thành công</title>
+		<lblNotify>Giao dịch thành công</lblNotify>
+		<lblSucessMsg>Bạn vừa thanh toán thành công vui lòng kiểm tra mail.
+			{br} Nhân viên bán hàng sẽ liên hệ sớm nhất với bạn.</lblSucessMsg>
+		<lblFaileMsg>Thanh toán thất bại, vui lòng kiểm tra lại thông tin.</lblFaileMsg>
+	</portalPayment_paymentSuccess>
+	<file_browse_file></file_browse_file>
+	<search_show_page>
+		<title>Tìm kiếm</title>
+		<lblResult>Kết quả tìm kiếm</lblResult>
+		<lblResultCount>{{total_record}} kết quả</lblResultCount>
+		<colProduct>Sản phẩm</colProduct>
+		<colPrices>Giá</colPrices>
+		<colAction>
+		</colAction>
+	</search_show_page>
+	<dialog_findUser>
+		<title>Tìm kiếm user</title>
+	</dialog_findUser>
+	<admin_product>
+
+	</admin_product>
+</data>

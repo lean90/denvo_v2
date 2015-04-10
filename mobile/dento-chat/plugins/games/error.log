@@ -1,0 +1,1 @@
+[30-Jul-2014 17:29:32 Europe/Berlin] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in E:\OTHER\DENTO\SRC\docroot\dento-chat\plugins\games\index.php on line 211

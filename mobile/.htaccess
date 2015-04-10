@@ -1,0 +1,6 @@
+Redirect /uploads/ http://dento.vn/uploads/
+RewriteEngine on
+RewriteBase /
+RewriteCond $1 !^(index\.php|crossdomain\.xml|thumbnail\.php|test\.php|img|images|export|bootstrap-3.1.1-dist|cometchat|fonts|swf|genghis|phpmyadmin|css|uploads|audios|style|js|mp3|robots\.txt|favicon\.ico)
+RewriteCond %{REQUEST_FILENAME} !^(.*)\.(swf|gif|txt|png|ico|jpg|jpeg|html|css|js|mp3|zip|tgz|wav|woff|ttf|svg|eot|php|csv|xlsx|xls|xml)$ [NC]
+RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
