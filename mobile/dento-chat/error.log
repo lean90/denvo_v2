@@ -435,3 +435,19 @@
 [10-Apr-2015 10:44:50 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
 [10-Apr-2015 10:56:34 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
 [10-Apr-2015 10:56:34 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:32:27 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:32:27 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:32:46 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:32:46 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:33:40 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:33:40 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:34:19 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:34:19 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:34:57 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:34:57 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:35:14 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:35:14 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:47:15 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:47:15 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149
+[12-Apr-2015 15:48:50 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[12-Apr-2015 15:48:50 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149

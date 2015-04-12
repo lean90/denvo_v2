@@ -40,13 +40,13 @@ class Home extends BaseController {
 		$postRepository->created_at = date ( 'Y-m-d', strtotime ( "-2 days" ) );
 		$postRepository->delete = 0;
 		$results = $postRepository->getWhereGte(T_post::created_at,null,true);
-		//echo $postRepository->db->last_query(); die;
 		$reObj->chamSocRangMieng = false;
 		$reObj->cheDoDinhDuong = false;
 		$reObj->benhLy = false;
 		$reObj->capNhat = FALSE;
 		$reObj->video = false;
 		$reObj->kienThucChung = false;
+		//$reObj->datasource = $results;
 		foreach ( $results as $result ) {
 			switch ($result->category_id) {
 				case 2 :

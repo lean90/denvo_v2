@@ -423,4 +423,39 @@ class BaseController extends MY_Controller {
 		$reObj->onlineCount = $sessionRepository->getCountCondition ();
 		return $reObj;
 	}
+	
+	
+    function getNewMenuStatus() {
+        $reObj = new stdClass ();
+        $postRepository = new PostRepository ();
+        $postRepository->created_at = date ( 'Y-m-d', strtotime ( "-1000 days" ) );
+        $postRepository->delete = 0;
+        $results = $postRepository->getWhereGte(T_post::created_at,null,true);
+        $reObj->tintuc = false;
+        $reObj->sanpham = false;
+        $reObj->trochoi = false;
+        $reObj->kythuat = FALSE;
+        $reObj->datasource = $results;
+        foreach ( $results as $result ) {
+            switch ($result->category_id) {
+                case 2 :case 4 :case 5 :case 6 :case 7 :case 8 :case 9 :case 3 :case 10 :case 11 :
+                    $reObj->tintuc = true;
+                    $result->item_type="tintuc";
+                break;
+                case 12 :case 13 :case 14 :case 15 :case 16 :case 19 :
+                    $reObj->sanpham = true;
+                    $result->item_type="sanpham";
+                break;
+                case 20 :case 25 :case 26 :case 27 :case 28 :case 29 :case 30 :case 31 :
+                   $reObj->kythuat = true;
+                   $result->item_type="kythuat";
+                break;
+                case 32 :case 33 :case 34 :case 35 :
+                    $reObj->trochoi = true;
+                    $result->item_type="trochoi";
+                break;
+            }
+        }
+        return $reObj;
+    }
 }

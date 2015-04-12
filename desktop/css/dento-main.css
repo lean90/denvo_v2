@@ -1234,3 +1234,33 @@ ul.child > li > ul {
 ul.child > li:hover > ul{
     display:block;
 }
+
+
+
+ul.child > li.topMenu-newItem {
+	position:absolute;
+	float:right;
+	width: 300px;
+    right:-300px;
+	margin-top: -10px;
+    padding: 0px 10px 10px 10px;
+	background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    min-width: 200px;
+}
+
+ li.topMenu-newItem  p.newItem-head{
+    border-bottom: solid 2px #128EE4;
+    color: #128EE4;
+}
+ li.topMenu-newItem  img{
+    margin-top:-5px;
+}
+li.topMenu-newItem ul.menu-newlist a{
+	display: inline-block;
+	line-height: 20px;
+}
+li.topMenu-newItem .new-title{
+	color: #128EE4;
+	margin: 0px;
+}

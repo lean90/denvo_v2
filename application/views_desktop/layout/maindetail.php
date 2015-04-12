@@ -58,6 +58,11 @@
 				</div>
 			</div>
 		</div>
+		<?php 
+		  $__controller__ = get_instance();
+		  $__controller__ instanceof  BaseController;
+		  $__newStatus__ = $__controller__->getNewMenuStatus();
+		?>
 		<div class="menu-conatiner width-960">
 			<ul class="cursor-pointer">
 				<li class="child-home text-left" style=""><a href="/home"><img
@@ -71,6 +76,24 @@
 				</li>
 				<li>
 					<ul class="child text-left">
+					   <li class="topMenu-newItem" style="display:<?php echo $__newStatus__->tintuc == false ? "none" : "block;"?>">
+                            <div>
+                                <p class="newItem-head"><img src="/img/menu-icon-new-top.png"/> Tin Mới</p>
+                                <ul class="menu-newlist">
+                                    <?php foreach ($__newStatus__->datasource as $item){
+                                        if($item->item_type != 'tintuc'){ continue;}
+                                        ?>
+                                        <li>
+                                            <a href="<?php echo $item->part_url;?>">
+                                                <p class="new-title"><?php echo $item->title;?></p>
+                                                <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
+                                            </a>
+                                        </li>
+                                    <?php }?>
+                                    
+                                </ul>
+                            </div>
+					   </li>
                         <?php
                         $cateRepository = new CategoryRepository ();
                         $cateRepository->category_id = 1; // part: /tin-tuc
@@ -93,11 +116,33 @@
                             <?php 
                         }
                         ?>
-                    </ul> <a href="/tin-tuc">Tin tức</a>
-
+                    </ul> 
+                    <a href="/tin-tuc">Tin tức
+                        <?php if($__newStatus__->tintuc){?>
+                            <img alt="" src="/img/menu-new-icon.gif">
+                        <?php }?>
+                    </a>
 				</li>
 				<li>
 					<ul class="child text-left">
+					   <li class="topMenu-newItem" style="display:<?php echo $__newStatus__->sanpham == false ? "none" : "block;"?>">
+                            <div>
+                                <p class="newItem-head"><img src="/img/menu-icon-new-top.png"/> Tin Mới</p>
+                                <ul class="menu-newlist">
+                                    <?php foreach ($__newStatus__->datasource as $item){
+                                        if($item->item_type != 'sanpham'){ continue;}
+                                        ?>
+                                        <li>
+                                            <a href="<?php echo $item->part_url;?>">
+                                                <p class="new-title"><?php echo $item->title;?></p>
+                                                <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
+                                            </a>
+                                        </li>
+                                    <?php }?>
+                                    
+                                </ul>
+                            </div>
+					   </li>
                         <?php
                         $cateRepository = new CategoryRepository ();
                         $cateRepository->category_id = 12; // part: /san-pham
@@ -106,10 +151,33 @@
                             echo "<li><a href='{$result->part_url}'>{$result->name}</a></li>";
                         }
                         ?>
-                    </ul> <a href="/san-pham">Sản phẩm</a>
+                    </ul>
+                    <a href="/san-pham">Sản phẩm
+                        <?php if($__newStatus__->sanpham){?>
+                            <img alt="" src="/img/menu-new-icon.gif">
+                        <?php }?>
+                    </a>
 				</li>
 				<li>
 					<ul class="child text-left">
+					   <li class="topMenu-newItem" style="display:<?php echo $__newStatus__->trochoi == false ? "none" : "block;"?>">
+                            <div>
+                                <p class="newItem-head"><img src="/img/menu-icon-new-top.png"/> Tin Mới</p>
+                                <ul class="menu-newlist">
+                                    <?php foreach ($__newStatus__->datasource as $item){
+                                        if($item->item_type != 'trochoi'){ continue;}
+                                        ?>
+                                        <li>
+                                            <a href="<?php echo $item->part_url;?>">
+                                                <p class="new-title"><?php echo $item->title;?></p>
+                                                <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
+                                            </a>
+                                        </li>
+                                    <?php }?>
+                                    
+                                </ul>
+                            </div>
+					   </li>
                         <?php
                         $cateRepository = new CategoryRepository ();
                         $cateRepository->category_id = 32; // part: /tro-choi
@@ -118,10 +186,32 @@
                             echo "<li><a href='{$result->part_url}'>{$result->name}</a></li>";
                         }
                         ?>
-                    </ul> <a href="/tro-choi">Trò chơi</a>
+                    </ul> <a href="/tro-choi">Trò chơi
+                        <?php if($__newStatus__->trochoi){?>
+                            <img alt="" src="/img/menu-new-icon.gif">
+                        <?php }?>
+                    </a>
 				</li>
 				<li>
 					<ul class="child text-left">
+					   <li class="topMenu-newItem" style="display:<?php echo $__newStatus__->kythuat == false ? "none" : "block;"?>">
+                            <div>
+                                <p class="newItem-head"><img src="/img/menu-icon-new-top.png"/> Tin Mới</p>
+                                <ul class="menu-newlist">
+                                    <?php foreach ($__newStatus__->datasource as $item){
+                                        if($item->item_type != 'kythuat'){ continue;}
+                                        ?>
+                                        <li>
+                                            <a href="<?php echo $item->part_url;?>">
+                                                <p class="new-title"><?php echo $item->title;?></p>
+                                                <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
+                                            </a>
+                                        </li>
+                                    <?php }?>
+                                    
+                                </ul>
+                            </div>
+					   </li>
                         <?php
                         $cateRepository = new CategoryRepository ();
                         $cateRepository->category_id = 20; // part: /cac-ky-thuat
@@ -130,10 +220,13 @@
                             echo "<li><a href='{$result->part_url}'>{$result->name}</a></li>";
                         }
                         ?>
-                    </ul> <a href="/ky-thuat"> Kỹ thuật </a>
+                    </ul> <a href="/ky-thuat"> Kỹ thuật 
+                        <?php if($__newStatus__->kythuat){?>
+                            <img alt="" src="/img/menu-new-icon.gif">
+                        <?php }?>
+                    </a>
 				</li>
 				<li>
-
 					<ul class="child text-left">
                         <?php
                         $user = Common::getCurrentUser ();
@@ -155,8 +248,7 @@
                                 ";
                         }
                         ?>
-					</ul> 
-					<a href="#">Tư vấn</a>
+					</ul> <a href="#">Tư vấn</a>
 				</li>
 			</ul>
 		</div>

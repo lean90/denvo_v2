@@ -1479,3 +1479,9 @@ body .fb-like {
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
   display: none !important;
 }
+.overlay-menu .mobile-main-menu li>a span img{
+	  float: right;
+	  margin-top: 25px;
+	  margin-right: 10px;
+	
+}
