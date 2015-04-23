@@ -1,0 +1,16 @@
+[01-Feb-2015 03:48:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 03:48:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113
+[01-Feb-2015 03:48:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php:109) in /home/anhthu/public_html/dento/docroot/dento-chat/plugins/smilies/settings.php on line 92
+[01-Feb-2015 03:53:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 03:53:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113
+[01-Feb-2015 03:53:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php:109) in /home/anhthu/public_html/dento/docroot/dento-chat/plugins/smilies/settings.php on line 92
+[01-Feb-2015 03:54:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 03:54:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113
+[01-Feb-2015 03:54:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 03:54:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113
+[01-Feb-2015 03:54:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php:109) in /home/anhthu/public_html/dento/docroot/dento-chat/admin/plugins.m.php on line 197
+[01-Feb-2015 03:55:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 03:55:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113
+[01-Feb-2015 03:55:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php:109) in /home/anhthu/public_html/dento/docroot/dento-chat/admin/plugins.m.php on line 197
+[01-Feb-2015 04:07:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 109
+[01-Feb-2015 04:07:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/anhthu/public_html/dento/docroot/dento-chat/admin/shared.php on line 113

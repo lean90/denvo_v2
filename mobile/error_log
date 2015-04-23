@@ -1,0 +1,134 @@
+[21-Jan-2015 08:46:15 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 08:46:17 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 08:48:24 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento_mobile/application/models/repositories/QuestionRepository.php:2)' in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php:675
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'Cannot modify h...', '/home/anhthu/pu...', 675, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(675): setcookie('lynx_sess', 'FxVWEWF0nC0kUSZ...', 0, '/', '', false)
+#2 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(332): CI_Session->_set_cookie()
+#3 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(108): CI_Session->sess_create()
+#4 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(1097): CI_Session->__construct()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(973): CI_Loader->_ci_init_class('Session', '', NULL, NULL)
+#6 /home/anhthu/public_html/dento_mobile/ in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php on line 675
+[21-Jan-2015 23:36:05 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:05 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:07 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:08 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:08 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:08 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:08 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES)' in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php:72
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'mysqli_connect(...', '/home/anhthu/pu...', 72, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(72): mysqli_connect('127.0.0.1', 'root', 'root', 'dento', 3306)
+#2 /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php(91): CI_DB_mysqli_driver->db_connect()
+#3 /home/anhthu/public_html/dento_mobile/system/database/DB_driver.php(115): CI_DB_mysqli_driver->db_pconnect()
+#4 /home/anhthu/public_html/dento_mobile/system/database/DB.php(148): CI_DB_driver->initialize()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(344): DB('', NULL)
+#6 /home/anhthu/public_htm in /home/anhthu/public_html/dento_mobile/system/database/drivers/mysqli/mysqli_driver.php on line 72
+[21-Jan-2015 23:36:56 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento_mobile/application/models/repositories/QuestionRepository.php:2)' in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php:416
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'Cannot modify h...', '/home/anhthu/pu...', 416, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(416): setcookie('lynx_sess', 'a:0:{}', 1390358216, '/', '', false)
+#2 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(218): CI_Session->sess_destroy()
+#3 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(106): CI_Session->sess_read()
+#4 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(1097): CI_Session->__construct()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(973): CI_Loader->_ci_init_class('Session', '', NULL, NULL)
+#6 /home/anhthu/public_html/dento_mobile/syst in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php on line 416
+[21-Jan-2015 23:37:37 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento_mobile/application/models/repositories/QuestionRepository.php:2)' in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php:416
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'Cannot modify h...', '/home/anhthu/pu...', 416, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(416): setcookie('lynx_sess', 'a:0:{}', 1390358257, '/', '', false)
+#2 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(218): CI_Session->sess_destroy()
+#3 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(106): CI_Session->sess_read()
+#4 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(1097): CI_Session->__construct()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(973): CI_Loader->_ci_init_class('Session', '', NULL, NULL)
+#6 /home/anhthu/public_html/dento_mobile/syst in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php on line 416
+[21-Jan-2015 23:37:38 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento_mobile/application/models/repositories/QuestionRepository.php:2)' in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php:416
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'Cannot modify h...', '/home/anhthu/pu...', 416, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(416): setcookie('lynx_sess', 'a:0:{}', 1390358258, '/', '', false)
+#2 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(218): CI_Session->sess_destroy()
+#3 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(106): CI_Session->sess_read()
+#4 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(1097): CI_Session->__construct()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(973): CI_Loader->_ci_init_class('Session', '', NULL, NULL)
+#6 /home/anhthu/public_html/dento_mobile/syst in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php on line 416
+[21-Jan-2015 23:37:39 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento_mobile/application/models/repositories/QuestionRepository.php:2)' in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php:416
+Stack trace:
+#0 [internal function]: _exception_handler(2, 'Cannot modify h...', '/home/anhthu/pu...', 416, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(416): setcookie('lynx_sess', 'a:0:{}', 1390358259, '/', '', false)
+#2 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(218): CI_Session->sess_destroy()
+#3 /home/anhthu/public_html/dento_mobile/system/libraries/Session.php(106): CI_Session->sess_read()
+#4 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(1097): CI_Session->__construct()
+#5 /home/anhthu/public_html/dento_mobile/system/core/Loader.php(973): CI_Loader->_ci_init_class('Session', '', NULL, NULL)
+#6 /home/anhthu/public_html/dento_mobile/syst in /home/anhthu/public_html/dento_mobile/system/libraries/Session.php on line 416
+[22-Jan-2015 23:56:31 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Lynx_ErrorException' with message 'Object of class UserModel could not be converted to string' in /home/anhthu/public_html/dento_mobile/system/core/Output.php:366
+Stack trace:
+#0 [internal function]: _exception_handler(4096, 'Object of class...', '/home/anhthu/pu...', 366, Array)
+#1 /home/anhthu/public_html/dento_mobile/system/core/Output.php(366): str_replace('{elapsed_time}', '0.1224', 'Object')
+#2 /home/anhthu/public_html/dento_mobile/system/core/CodeIgniter.php(380): CI_Output->_display()
+#3 /home/anhthu/public_html/dento_mobile/docroot/index.php(233): require_once('/home/anhthu/pu...')
+#4 {main}
+  thrown in /home/anhthu/public_html/dento_mobile/system/core/Output.php on line 366

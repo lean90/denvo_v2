@@ -13,7 +13,7 @@
     <div class="detail-view post-view">
         <div class="question left" ng-controller="QuestionController" style="background: white">
             <div class="question-item">
-                <a ng-cloak class="btn btn-primary" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép hiển thị</a>
+                <a ng-cloak style="float:right" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép</a>
                 <table class="q-detail">
                     <tr class="question">
                         <td class="q-icon">

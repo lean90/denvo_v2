@@ -1,0 +1,988 @@
+[20-Sep-2014 16:15:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/07/7c2c3c57bdd668bf8c7db3b2a2cc9c60.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:15:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:16:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/07/7c2c3c57bdd668bf8c7db3b2a2cc9c60.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:16:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:16:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/07/7c2c3c57bdd668bf8c7db3b2a2cc9c60.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:16:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:16:05 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/07/7c2c3c57bdd668bf8c7db3b2a2cc9c60.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:16:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:16:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/07/7c2c3c57bdd668bf8c7db3b2a2cc9c60.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:16:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:17:00 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:17:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:17:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:17:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:17:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:17:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:17:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:17:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:17:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:17:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:18:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:18:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:18:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:18:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:18:48 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:18:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[20-Sep-2014 16:20:43 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/08/2a11e8a8c6e46452154ddf6a771221ea.jpg?140) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[20-Sep-2014 16:20:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 05:43:13 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 05:43:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 05:43:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 05:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 14:51:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 14:51:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 14:53:22 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 14:53:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 14:54:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 14:54:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 14:55:25 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 14:55:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 15:07:09 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[22-Sep-2014 15:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Sep-2014 22:58:58 Asia/Saigon] PHP Parse error:  syntax error, unexpected '[' in /home/anhthu/public_html/dento/application/controllers/lost_password.php on line 46
+[22-Sep-2014 22:59:00 Asia/Saigon] PHP Parse error:  syntax error, unexpected '[' in /home/anhthu/public_html/dento/application/controllers/lost_password.php on line 46
+[22-Sep-2014 22:59:00 Asia/Saigon] PHP Parse error:  syntax error, unexpected '[' in /home/anhthu/public_html/dento/application/controllers/lost_password.php on line 46
+[22-Sep-2014 22:59:00 Asia/Saigon] PHP Parse error:  syntax error, unexpected '[' in /home/anhthu/public_html/dento/application/controllers/lost_password.php on line 46
+[22-Sep-2014 23:03:01 Asia/Saigon] PHP Fatal error:  Call to undefined method MailService::sendMailResetPassword() in /home/anhthu/public_html/dento/application/controllers/lost_password.php on line 35
+[23-Sep-2014 05:00:53 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 05:00:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 05:03:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 05:03:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 06:13:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 06:13:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 06:17:29 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 06:17:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 14:05:14 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 14:05:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 14:05:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/8fed34631153812e6c9e0d8914ed1711.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 14:05:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 14:19:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 14:19:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 14:20:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 14:20:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 15:04:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 15:04:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[23-Sep-2014 15:14:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[23-Sep-2014 15:14:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:12:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:12:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:13:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:22:21 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:22:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:27:12 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:27:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:28:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:28:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:28:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:28:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 01:43:33 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 01:43:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:26:00 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:26:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:26:19 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:26:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:31:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:31:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:31:43 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:31:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:31:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:31:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:35:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:35:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:36:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:36:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:38:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:38:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:38:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:39:56 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:39:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:40:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:40:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:42:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:42:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:42:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:45:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:45:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:46:01 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:46:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 02:47:05 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 02:47:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:38:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:38:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:40:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:40:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:41:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:41:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:41:34 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:41:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:44:11 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:44:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:44:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:44:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:44:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:44:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:44:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:44:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:44:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:44:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:45:15 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:45:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:45:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:45:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:45:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:45:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:45:49 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:46:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:46:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:46:19 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:46:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:47:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:47:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:48:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:48:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:48:47 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:48:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:50:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:50:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 03:50:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 03:50:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:02:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:02:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:03:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:03:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:03:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:07:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:07:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:07:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:08:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:08:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:08:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:08:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:11:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:11:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 04:11:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 04:11:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:33:34 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:33:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:33:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:33:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:35:53 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:35:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:36:01 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:40:42 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:40:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:42:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:43:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:43:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:48:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:48:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 06:52:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 06:52:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 08:56:47 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 08:56:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:11:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:11:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:11:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:11:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:11:47 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:11:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:18:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:18:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:27:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:27:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:28:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:28:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:28:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:29:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:29:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:29:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:29:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:29:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:29:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 13:31:40 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 13:31:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:02:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:02:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:02:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:02:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:25:11 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:25:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:25:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:25:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:25:43 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:25:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:42:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:42:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:42:44 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:42:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:42:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:43:21 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:43:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:43:26 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:43:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:43:33 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:43:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:43:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:43:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:48:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:48:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:48:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:48:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:48:44 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:48:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:48:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:48:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:49:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:49:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[25-Sep-2014 15:50:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[25-Sep-2014 15:50:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:33:49 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:33:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:36:24 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:36:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:36:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:37:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:37:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:37:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:37:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 12:40:40 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 12:40:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 14:22:56 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 14:22:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 14:23:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 14:23:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 14:23:15 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 14:23:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[26-Sep-2014 14:48:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[26-Sep-2014 14:48:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:13:00 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:13:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:13:02 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:13:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:13:05 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:13:13 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:13:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:52:24 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:52:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:52:26 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 03:52:34 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 03:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 04:21:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 04:21:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 04:26:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 04:26:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 04:35:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 04:35:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 04:35:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 04:35:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 06:55:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 06:55:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 06:57:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/09/22/9c96b566b935eaa82c1a647255fe2636.jpg?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 06:57:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:12:42 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:12:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:13:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:13:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:13:26 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:13:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:16:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:16:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:16:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:16:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:17:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:17:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:17:11 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:17:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:40:42 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:40:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:41:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:44:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:44:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:45:11 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:45:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:45:34 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:45:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:46:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:46:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:51:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:51:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:51:25 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:51:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:51:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:51:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:51:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:51:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:53:07 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:53:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:53:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:53:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:53:58 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:54:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 10:54:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 10:54:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 11:26:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 11:26:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 11:26:12 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 11:26:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 11:55:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 11:55:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 11:56:00 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 11:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 11:56:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 11:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:11:15 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:11:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:11:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:11:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:11:48 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:11:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:44:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:44:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:44:33 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:44:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:44:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 12:50:53 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 12:50:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 13:28:53 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 13:28:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:26:09 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:26:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:33:45 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:33:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:34:21 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:34:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:39:32 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:39:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:42:15 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:42:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:42:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:42:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:46:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:46:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:46:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:46:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:47:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:47:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:48:27 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:48:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:50:51 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:50:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 14:57:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 14:57:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 15:57:53 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 15:57:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 15:58:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 15:58:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:20:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:20:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:20:47 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:20:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:23:29 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:26:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:26:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:26:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:27:04 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:27:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:27:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:27:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:27:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:27:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:27:56 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:27:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:28:56 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:28:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:29:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:29:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[27-Sep-2014 16:29:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[27-Sep-2014 16:29:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 00:55:15 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 00:55:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 00:55:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 00:55:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:53:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:53:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:53:30 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:53:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:53:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:53:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:55:21 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:55:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:56:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:56:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:59:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:59:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 03:59:42 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 03:59:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 04:08:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 04:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 04:08:42 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 04:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:42:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:42:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:43:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:43:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:43:17 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:44:01 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:44:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:44:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:44:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:44:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:50:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:50:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:50:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:50:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 06:51:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 06:51:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 08:15:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 08:15:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 08:15:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 08:15:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:11:24 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:11:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:17:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:17:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:23:41 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:23:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:24:49 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:24:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:25:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:25:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:25:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:25:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:26:25 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:26:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:26:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:26:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:26:49 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:27:13 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:27:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:27:47 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:27:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:28:19 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:28:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:28:51 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:28:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:31:01 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:31:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 09:32:45 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 09:32:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 10:53:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 10:53:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:00:32 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:00:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:01:40 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:01:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:03:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:04:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:04:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:19:56 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:19:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:23:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:23:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:30:32 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:30:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:30:43 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:30:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:31:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:31:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:34:12 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:34:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:36:13 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:36:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:42:09 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 11:57:19 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 11:57:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 13:32:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 13:32:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 13:32:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 13:32:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 13:34:41 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 13:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 13:34:48 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 13:34:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 14:00:19 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 14:00:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 14:00:37 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 14:00:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[28-Sep-2014 14:00:40 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[28-Sep-2014 14:00:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:18:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:18:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:19:24 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:19:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:20:55 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:20:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:29:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:29:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:29:38 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:29:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 11:29:51 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 11:29:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 13:37:14 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 13:37:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 13:37:44 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 13:37:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 13:37:49 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 13:37:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 13:53:29 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 13:53:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 14:00:41 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 14:00:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 15:15:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 15:15:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 16:14:58 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 16:14:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[29-Sep-2014 16:17:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[29-Sep-2014 16:17:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 14:31:51 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 14:31:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 14:34:01 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 14:34:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 14:36:40 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 14:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 14:52:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 14:52:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 14:53:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 14:53:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 17:13:03 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 17:13:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 17:13:21 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 17:13:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 17:14:31 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 17:14:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 17:15:02 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 17:15:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[01-Oct-2014 17:15:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[01-Oct-2014 17:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:44:06 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:47:13 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:47:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:47:18 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:47:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:47:52 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:47:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:48:26 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:48:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:48:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 11:49:02 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 11:49:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 13:59:11 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 13:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 13:59:24 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 13:59:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 13:59:46 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 13:59:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:16:36 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:16:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:16:45 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:16:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:16:50 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:16:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:17:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:17:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:26:12 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:26:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 14:26:23 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 14:26:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:05:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:05:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:05:43 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:05:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:06:54 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:06:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:07:39 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:07:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:10:41 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:10:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:11:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:11:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:13:08 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:13:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:16:35 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:16:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:33:16 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:33:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:34:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:34:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:38:25 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:38:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:48:20 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:48:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:48:59 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:48:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:53:10 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:53:28 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:53:45 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:53:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[02-Oct-2014 15:55:57 UTC] PHP Warning:  getimagesize(http://115.84.177.59:80/uploads/2014/08/01/bf4afe79fb84139ef701b8f91c2feeb6.JPG?40) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 64
+[02-Oct-2014 15:55:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/anhthu/public_html/dento/docroot/thumbnail.php:64) in /home/anhthu/public_html/dento/docroot/thumbnail.php on line 36
+[22-Jan-2015 12:00:42 Asia/Saigon] PHP Fatal error:  Call to undefined method Home::getRootUser() in /home/anhthu/public_html/dento/application/views/home.php on line 1
+[21-Mar-2015 18:11:56 Asia/Saigon] PHP Fatal error:  Call to a member function format() on a non-object in /home/anhthu/public_html/dento/application/controllers/Authen.php on line 51

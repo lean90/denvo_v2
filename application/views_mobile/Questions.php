@@ -24,7 +24,7 @@ $(document).ready(function(){
     </ul>
     <div class="tab-title">{{tabtitle}}</div>
     <div class="question-item" ng-repeat="question in questions">
-        <a ng-cloak style="float: right" class="btn btn-primary" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép hiển thị</a>
+        <a ng-cloak style="float: right" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép</a>
         <a ng-href="/cau-hoi/{{question.id}}">
             <table class="q-detail">
                 <tr class="question">

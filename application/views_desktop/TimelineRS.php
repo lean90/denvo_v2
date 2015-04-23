@@ -33,7 +33,7 @@
 		</div>
 
 		<div class="right">
-            <?php include APPPATH.'views/many_view_time.php'; ?>
+            <?php include APPPATH.VIEW_PATH.'/many_view_time.php'; ?>
         </div>
 		<div class="right clear-bg">
 			<ul class="link-shortcut">

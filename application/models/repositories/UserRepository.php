@@ -63,13 +63,9 @@ class UserRepository extends BaseRepository {
 		return $result;
 	}
 	function exportUser($fullname, $email) {
-		$this->load->dbutil ();
 		$this->db->like ( T_user::email, $email, 'both' );
 		$this->db->like ( T_user::full_name, $fullname, 'both' );
 		$query = $this->db->get ( T_user::tableName );
-		
-		$delimiter = ",";
-		$newline = "\r\n";
-		return $this->dbutil->csv_from_result ( $query, $delimiter, $newline );
+		return $query->result();
 	}
 }

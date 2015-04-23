@@ -1,7 +1,7 @@
 
 <section class="content-header">
 	<h1>
-		Dashboard <small>Control panel</small>
+		Dashboard <small><a href="/report/sys">Downloads system report</a></small>
 	</h1>
 </section>
 

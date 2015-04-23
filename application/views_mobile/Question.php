@@ -5,7 +5,7 @@
 </script>
 <div class="question body-content width-960" ng-controller="QuestionController">
     <div class="question-item">
-        <a ng-cloak style="float: right" class="btn btn-primary" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép hiển thị</a>
+        <a ng-cloak style="float: right" ng-show="(me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS') && question.q_status != 1" ng-href="/question/public/{{question.id}}">Cho phép</a>
         <table class="q-detail">
             <tr class="question">
                 <td class="q-icon">

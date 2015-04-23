@@ -27,6 +27,25 @@ class TeethGrow extends BaseController {
 		$data ['histories'] = $this->loadHistory ( $userId );
 		$data ['userid'] = $userId;
 		
+		
+		$currentDateKey = "REQUEST_TEETH_GROW_COUNT_" . date ( 'Ymd' );
+		$settingRespository = new SettingRepository ();
+		$settingRespository->key = $currentDateKey;
+		$results = $settingRespository->getMutilCondition ();
+		if (count ( $results ) == 0) {
+			$settingRespository = new SettingRepository ();
+			$settingRespository->key = $currentDateKey;
+			$settingRespository->value = 1;
+			$settingRespository->insert ();
+		} else {
+			$result = $results [0];
+			$settingRespository = new SettingRepository ();
+			$settingRespository->id = $result->id;
+			$settingRespository->value = intval ( $result->value ) + 1;
+			$settingRespository->updateById ();
+		}
+		
+		
 		LayoutFactory::getLayout ( LayoutFactory::MAIN_DETAIL )->setData ( $data )->setJavascript ( array (
 				'/js/controllers/TeethGrowController.js',
 				'/js/plugins/ckeditor/ckeditor.js' 

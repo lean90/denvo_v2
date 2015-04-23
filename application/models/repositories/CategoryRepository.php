@@ -7,6 +7,7 @@ class CategoryRepository extends BaseRepository {
 	var $visible;
 	var $part_tree;
 	var $order;
+	var $category_type;
 	function __construct() {
 		parent::__construct ();
 	}
@@ -14,11 +15,14 @@ class CategoryRepository extends BaseRepository {
 		$sql = "
         SELECT * FROM `t_category`
         WHERE 
+        (
             `t_category`.part_tree LIKE (SELECT  CONCAT('',`t_category`.`part_tree`,',%') FROM `t_category` WHERE `t_category`.`id` = {$categoriesId})
         OR 
             `t_category`.part_tree LIKE (SELECT  CONCAT('%,',`t_category`.`part_tree`,'') FROM `t_category` WHERE `t_category`.`id` = {$categoriesId})
         OR 
             `t_category`.part_tree = (SELECT  `t_category`.`part_tree` FROM `t_category` WHERE `t_category`.`id` = {$categoriesId})
+	    ) 
+        AND `delete` = 0 
         ORDER BY t_category.`category_id`,`t_category`.`order`
         ";
 		$query = $this->db->query ( $sql );
@@ -47,6 +51,7 @@ class CategoryRepository extends BaseRepository {
 	function getAllCategoriesWithOrder() {
 		$sql = "
             SELECT * FROM `t_category`
+			`delete` = 0
             ORDER BY t_category.`category_id`,`t_category`.`order`
         ";
 		$query = $this->db->query ( $sql );

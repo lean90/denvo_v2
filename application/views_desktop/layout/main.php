@@ -130,7 +130,7 @@
 					<ul class="child text-left">
 					   <li class="topMenu-newItem" style="display:<?php echo $__newStatus__->sanpham == false ? "none" : "block;"?>">
                             <div>
-                                <p class="newItem-head"><img src="/img/menu-icon-new-top.gif"/> Tin Mới</p>
+                                <p class="newItem-head"><img src="/img/menu-icon-new-top.png"/> Tin Mới</p>
                                 <ul class="menu-newlist">
                                     <?php foreach ($__newStatus__->datasource as $item){
                                         if($item->item_type != 'sanpham'){ continue;}
@@ -467,6 +467,16 @@
         });
 
     });
-        </script>
+</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62181160-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>

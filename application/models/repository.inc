@@ -21,6 +21,8 @@ require_once APPPATH . 'models/repositories/TeethGrowRepository.php';
 require_once APPPATH . 'models/repositories/SessionRepository.php';
 require_once APPPATH . 'models/repositories/AnswerRepository.php';
 require_once APPPATH . 'models/repositories/QuestionRepository.php';
+require_once APPPATH . 'models/repositories/PositionRepository.php';
+
 
 
 

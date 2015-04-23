@@ -12,4 +12,7 @@ class BaseAdminController extends MY_Controller {
 			throw new Lynx_AuthenticationException ( 'Bạn không có quyền truy cập nội dung này' );
 		}
 	}
+	function removeVietnameseAaccents($str) {
+		return Common::removeVietnameseAaccents($str);
+	}
 }

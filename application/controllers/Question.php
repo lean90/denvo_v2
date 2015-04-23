@@ -61,7 +61,7 @@ class Question extends BaseController {
 	        $userRepository->id = $question->fk_user;
 	        $user = $userRepository->getOneById();
 	        unset($user->pw);
-	        $data['question']->user = $user;
+	        $data['question']->user = $user[0];
 	    }
 	    $data['question']->friendly_time = TimeService::convertDatetimeToFriendlyMessage($data['question']->created_at);
 	    
@@ -186,7 +186,7 @@ class Question extends BaseController {
 		        $userRepository->id = $question->fk_user;
 		        $user = $userRepository->getOneById();
 		        unset($user->pw);
-		        $question->user = $user;
+		        $question->user = $user[0];
 		    }
 		}
 		

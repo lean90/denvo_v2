@@ -428,7 +428,7 @@ class BaseController extends MY_Controller {
     function getNewMenuStatus() {
         $reObj = new stdClass ();
         $postRepository = new PostRepository ();
-        $postRepository->created_at = date ( 'Y-m-d', strtotime ( "-1000 days" ) );
+        $postRepository->created_at = date ( 'Y-m-d', strtotime ( "-2 days" ) );
         $postRepository->delete = 0;
         $results = $postRepository->getWhereGte(T_post::created_at,null,true);
         $reObj->tintuc = false;

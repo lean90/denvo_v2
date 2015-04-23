@@ -1264,3 +1264,63 @@ li.topMenu-newItem .new-title{
 	color: #128EE4;
 	margin: 0px;
 }
+#mang-luoi-map {
+  height: 540px;
+  width:100%;
+}
+@media (max-width: 600px) and (min-width: 120px){
+	#mang-luoi-map {
+	  height: 230px;
+	}
+}
+.location-container{
+	position:relative;
+	background: white;
+	margin:auto;
+	z-index: 100;
+	margin-top:-100px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 5px 0px;
+}
+.location-container > .filter{
+	padding: 10px 10px 0px 10px;
+	display: inline-block; 
+	width:100%;
+	margin-bottom:0px;
+}
+.location-container > .filter li{
+	float:left;
+	margin-left: 10px;
+}
+.location-container > .filter li.select{
+    float:left;
+	width:250px;
+}
+.location-container .area-container {
+    width:100%;
+	
+}
+.location-container .area-container > h3{
+    margin:0px;
+	margin-left:4%;
+	width:93%;
+	color:#0F75BB;
+	border-bottom: 1px solid #eee;
+	
+}
+
+.location-container .area-container ul {
+    display: inline-block;
+}
+
+.location-container .area-container li{
+	width: 45%;
+	margin-left:4%;
+	cursor: pointer;
+	float:left;
+	padding: 0px 5px;
+}
+.location-container .area-container li:hover{
+    background: #f3f7f8;
+}
+
+    

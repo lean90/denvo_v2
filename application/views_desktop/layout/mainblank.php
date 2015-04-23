@@ -6,51 +6,39 @@
 <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/ionicons.min.css" rel="stylesheet" type="text/css" />
-<link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css"
-	rel="stylesheet" type="text/css" />
-<link href="/css/iCheck/minimal/blue.css" rel="stylesheet"
-	type="text/css" />
+<link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+<link href="/css/iCheck/minimal/blue.css" rel="stylesheet" type="text/css" />
 <link href="/css/AdminLTE.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main.css" rel="stylesheet" type="text/css" />
 <!-- jQuery 2.0.2 -->
-<script
-	src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 </head>
 <body class="skin-blue">
     <?php require_once APPPATH . VIEW_PATH . $view->view . '.php'; ?>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/js/plugins/input-mask/jquery.inputmask.js"
-		type="text/javascript"></script>
-	<script
-		src="/js/plugins/input-mask/jquery.inputmask.date.extensions.js"
-		type="text/javascript"></script>
-	<script src="/js/plugins/input-mask/jquery.inputmask.extensions.js"
-		type="text/javascript"></script>
-	<script src="/js/plugins/daterangepicker/daterangepicker.js"
-		type="text/javascript"></script>
-	<script src="/js/plugins/colorpicker/bootstrap-colorpicker.min.js"
-		type="text/javascript"></script>
-	<script src="/js/plugins/timepicker/bootstrap-timepicker.min.js"
-		type="text/javascript"></script>
-	<script
-		src="/js/plugins/DataTables-1.10.0/media/js/jquery.dataTables.min.js"></script>
-	<script
-		src="/js/plugins/DataTables-1.10.0/media/js/custom.dataTables.js"></script>
-	<script src="/js/plugins/gritter/js/jquery.gritter.min.js"></script>
-	<script src="/js/plugins/validation/jquery.validate.min.js"></script>
-	<script src="/js/plugins/config-plugins.js"></script>
-	<script src="/js/plugins/validation/additional-methods.min.js"></script>
-	<script src="/js/AdminLTE/app.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.date.extensions.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.extensions.js" type="text/javascript"></script>
+    <script src="/js/plugins/daterangepicker/daterangepicker.js" type="text/javascript"></script>
+    <script src="/js/plugins/colorpicker/bootstrap-colorpicker.min.js" type="text/javascript"></script>
+    <script src="/js/plugins/timepicker/bootstrap-timepicker.min.js" type="text/javascript"></script>
+    <script src="/js/plugins/DataTables-1.10.0/media/js/jquery.dataTables.min.js"></script>
+    <script src="/js/plugins/DataTables-1.10.0/media/js/custom.dataTables.js"></script>
+    <script src="/js/plugins/gritter/js/jquery.gritter.min.js"></script>
+    <script src="/js/plugins/validation/jquery.validate.min.js"></script>
+    <script src="/js/plugins/config-plugins.js"></script>
+    <script src="/js/plugins/validation/additional-methods.min.js"></script>
+    <script src="/js/AdminLTE/app.js" type="text/javascript"></script>
 
-	<script src="/js/angular/angular.min.js" type="text/javascript"></script>
-	<script src="/js/angular/ng-tags-input.min.js" type="text/javascript"></script>
-	<script src="/js/angular/angular-route.min.js" type="text/javascript"></script>
-	<script src="/js/angular/filters.js" type="text/javascript"></script>
-	<script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
-	<script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
-	<script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
-	<script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
-	<script src="/js/controllers/LoginController.js" type="text/javascript"></script>
+    <script src="/js/angular/angular.min.js" type="text/javascript"></script>
+    <script src="/js/angular/ng-tags-input.min.js" type="text/javascript"></script>
+    <script src="/js/angular/angular-route.min.js" type="text/javascript"></script>
+    <script src="/js/angular/filters.js" type="text/javascript"></script>
+    <script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
+    <script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
+    <script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
+    <script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
+    <script src="/js/controllers/LoginController.js" type="text/javascript"></script>
     
     
     <?php

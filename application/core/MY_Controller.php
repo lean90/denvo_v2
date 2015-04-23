@@ -4,6 +4,7 @@ if (! defined ( 'BASEPATH' ))
 
 require_once 'lynx_exceptions.php';
 require_once 'lynx_masters.php';
+require_once APPPATH . '../vendor/autoload.php';
 require_once APPPATH . 'libraries/mail/mail.inc';
 require_once APPPATH . 'libraries/security/security.inc';
 require_once APPPATH . 'libraries/AsyncResult.php';

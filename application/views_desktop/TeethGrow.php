@@ -55,7 +55,7 @@
 					ng-show="!onCreateNewProfile"> <i
 					class="glyphicon glyphicon-plus-sign"></i> &nbsp; Thêm hồ sơ
 				</a>
-                    <?php include APPPATH.'views/TeethGrowNew.php'; ?>
+                    <?php include APPPATH.VIEW_PATH.'/TeethGrowNew.php'; ?>
                     <div class="panel-group" id="accordion"
 					style="margin-top: 15px">
 					<div class="panel panel-default" ng-repeat="history in histories">
@@ -80,7 +80,7 @@
 			</div>
 			<div class="right clear-bg">
 				<div class="right">
-                    <?php include APPPATH.'views/many_view_time.php'; ?>
+                    <?php include APPPATH.VIEW_PATH.'/many_view_time.php'; ?>
                 </div>
 				<div class="right clear-bg">
 					<ul class="link-shortcut">
@@ -98,10 +98,10 @@
 	</form>
 </div>
 <script type="text/ng-template" id="view.html">
-    <?php include APPPATH.'views/TeethGrowDetail.php'; ?>
+    <?php include APPPATH.VIEW_PATH.'/TeethGrowDetail.php'; ?>
 </script>
 <script type="text/ng-template" id="edit.html">
-    <?php include APPPATH.'views/TeethGrowEdit.php'; ?>
+    <?php include APPPATH.VIEW_PATH.'/TeethGrowEdit.php'; ?>
 </script>
 
 <script type="text/javascript">

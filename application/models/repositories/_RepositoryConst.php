@@ -28,6 +28,7 @@ class T_category extends T_base {
 	CONST part_url = 'part_url';
 	CONST name = 'name';
 	CONST visible = 'visible';
+	CONST category_type = 'category_type';
 }
 class T_comment extends T_base {
 	CONST tableName = "t_comment";
@@ -133,6 +134,7 @@ class T_questions extends T_base{
     CONST question_type = 'question_type';
     CONST file_url = "file_url";
     CONST file_name = "file_name";
+    CONST fk_user = "fk_user";
     CONST q_status = "q_status";
     CONST attached_img_1 = "attached_img_1";
     CONST attached_img_2 = "attached_img_2";
@@ -144,4 +146,13 @@ class T_answers extends T_base{
     CONST fk_user = 'fk_user';
     CONST answer = 'answer';
     CONST total_like_number = 'total_like_number';
+}
+class T_position extends  T_base{
+    CONST tableName = "t_position";
+    CONST fk_category = 'fk_category';
+    CONST name = 'name';
+    CONST description = 'description';
+    CONST latitude = 'latitude';
+    CONST longitude = 'longitude';
+    CONST website_link = 'website_link';
 }

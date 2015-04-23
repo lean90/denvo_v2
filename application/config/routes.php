@@ -22,11 +22,13 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['questions/remove-to-most/(:any)'] = 'Question/removeToMostQuestion/$1';
 		$route ['question/public/(:any)'] = 'Question/publicQuestion/$1';
 		$route ['question/reject/(:any)'] = 'Question/rejectQuestion/$1';
-		
+		$route ['map/get-near-position/(:num)'] = 'Hospital/LoadTopPositionNearCurrentPosition/$1';
+		 
 		$route ['answer/remove/(:any)'] = 'Question/removeAnswer/$1';
-		
-		
 		$route ['answer/like/(:num)'] = 'Question/like/$1';
+		
+		$route ['report/sys'] = 'report/report_system';
+		$route ['report/usr/(:num)'] = 'report/report_user/$1';
 		
 		$route ['timeline/rang-vinh-vien'] = 'Timeline/rvv';
 		$route ['timeline/rang-sua'] = 'Timeline/rs';
@@ -38,6 +40,10 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['__admin/setting_support'] = 'admin/SettingSupport/ShowPage';
 		$route ['__admin/account'] = 'admin/Account/ShowPage';
 		$route ['__admin/account/export'] = 'admin/Account/export';
+		$route ['__admin/maps'] = 'admin/Location/ShowPage';
+		$route ['__admin/search-localtion'] = 'admin/Location/getLocationByName';
+		
+		
 		$route ['api/__admin/account/(:num)/history'] = 'admin/Account/history/$1';
 		$route ['api/__admin/account/(:num)/ticket_support'] = 'admin/Account/ticketSupport/$1';
 		
@@ -48,6 +54,8 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['google/callback'] = 'Google/callback';
 		$route ['zing/auth'] = 'Zing/auth';
 		$route ['zing/callback'] = 'Zing/callback';
+		
+		$route ['phong-kham'] = 'Hospital/ShowPage';
 		
 		$route ['api/categories/get_child/(:any)'] = "CategoryAPI/getCategories/$1";
 		$route ['api/tags/search'] = "TagAPI/searchTag";
@@ -80,7 +88,16 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['__admin/setting/save_product'] = 'admin/Setting/SaveProduct';
 		$route ['__admin/setting/save_game'] = 'admin/Setting/SaveGame';
 		$route ['__admin/setting_support/(:num)'] = 'admin/SettingSupport/save/$1';
+		$route ['__admin/add-position'] = 'admin/Location/add';
+		$route ['__admin/update-position'] = 'admin/Location/update';
+		$route ['__admin/del-position'] = 'admin/Location/del';
+		$route ['__admin/add-area'] = 'admin/Location/addArea';
+		$route ['__admin/del-area'] = 'admin/Location/removeArea';
+		$route ['__admin/update-area'] = 'admin/Location/updateArea';
 		
+		
+		
+				
 		$route ['__admin/account/(:num)/set_permission'] = 'admin/Account/setPermission/$1';
 		$route ['__admin/account/(:num)/set_banned_status'] = 'admin/Account/setBannedStatus/$1';
 		$route ['files'] = 'Files/saveFile';
