@@ -332,7 +332,7 @@
 					<ul>
 						<li><a>Hotline: 0933.22.8001</a></li>
 						<li><a>Email: admin@dento.vn</a></li>
-						<li><a>Địa chỉ : Số 6, ngõ 6, tổ 6, <br/>tập thể Nhà máy In Quân Đội, Cầu Diễn,<br/> Bắc Từ Liêm, Hà Nội</a></li>
+						<li><a>Địa chỉ: Số 6, ngõ 6, tổ 6, <br/>tập thể Nhà máy In Quân Đội, Cầu Diễn,<br/> Bắc Từ Liêm, Hà Nội</a></li>
 						<li><br /></li>
 						<li><a class="btn btn-primary"
 							style="color: white; font-size: 15px"

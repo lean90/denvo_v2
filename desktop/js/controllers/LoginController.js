@@ -15,6 +15,7 @@ function LoginController($scope,$http){
     $scope.us = '';
     $scope.ps = '';
     $scope.re = '';
+    $scope.loginMsg = '';
     $scope.cp =  common.getParameterByName('cp') != undefined || common.getParameterByName('cp') != null ?
                  common.getParameterByName('cp') : window.location;
     $scope.loginedResult = false;
@@ -24,9 +25,12 @@ function LoginController($scope,$http){
                 $.param({data:{us:$scope.us, pw:$scope.ps, re:$scope.re}}),
                 {headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT",'Content-Type':'application/x-www-form-urlencoded;charset=utf-8'}}
         ).success(function(data){
-        	data = data.trim();
-            $scope.loginedResult = data == "false";
-            if(data == "true"){
+        	if(typeof data != 'object'){
+        		alert("Network error");
+        	}
+            $scope.loginedResult = !data.status;
+            $scope.loginMsg = data.message;
+            if(data.status){
                 window.location = $scope.cp;
             }
         }).error(function(xhr, status, error){

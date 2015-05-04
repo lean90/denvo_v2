@@ -3,7 +3,7 @@ function TimelineRSController($scope,$http){
                   {index:0,x:-14,y:-9,lable:"Sơ sinh",ntooth:["Chưa mọc chiếc răng nào"],tooth:[]},
                   {index:1,x:73,y:186,lable:"6-10 Tháng",ntooth:[],tooth:['2 Răng cửa giữa sữa hàm dưới 2 bên']},
                   {index:2,x:102,y:251,lable:"8-12 Tháng",ntooth:[],tooth:['2 Răng cửa giữa sữa hàm trên 2 bên']},
-                  {index:3,x:116,y:284,lable:"9-13 Tháng",ntooth:[],tooth:['2 Răng cửa bên sữa hàm trên 2 bê']},
+                  {index:3,x:116,y:284,lable:"9-13 Tháng",ntooth:[],tooth:['2 Răng cửa bên sữa hàm trên 2 bên']},
                   {index:4,x:130,y:316,lable:"10-16 Tháng",ntooth:[],tooth:['2 Răng cửa bên sữa hàm dưới 2 bên']},
                   {index:5,x:174,y:414,lable:"13-19 Tháng",ntooth:[],tooth:['2 Răng hàm sữa thứ nhất hàm trên 2 bên']},
                   {index:6,x:188,y:446,lable:"14-18 Tháng",ntooth:[],tooth:['2 Răng hàm sữa thứ nhất hàm dưới 2 bên']},

@@ -8,7 +8,7 @@
     	</ul>
     	<form id="login-frm">
     		<div class="form-group login-frm col-xs-12 text-left">
-    			<div class="login-invalid" ng-show="error">Tên đăng nhập hoặc mật khẩu không đúng.</div>
+    			<div class="login-invalid" ng-show="error">{{loginMsg}}</div>
     			<input name="us" ng-model="us" type="text" class="form-control" placeholder="Email" /> <input name="ps" ng-model="ps" type="password" class="form-control" placeholder="Password" />
     			<p style="margin-top:10px;">
     			    <input style="width:30px;height:30px;font-size: 35px;margin-top:5px;position: absolute;" ng-model="re" id="cbkRemember" name="cbkRemember" type="checkbox" class="simple"/> <label for="cbkRemember" style="margin-left: 35px;line-height: 35px;margin-top:5px;">Ghi nhớ đăng nhập</label> 

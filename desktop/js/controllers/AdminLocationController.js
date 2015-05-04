@@ -88,7 +88,8 @@ function AdminLocationController($scope,$http,$cookieStore,$cookies){
                 $.param(
                 		{
 							data : {
-								fk_category : $scope.selectedCategoryId,
+								position_type : $scope.selectedLocation.position_type,
+								fk_category : $scope.selectedLocation.fk_category,
 								name : $scope.selectedLocation.name,
 								description : $content,
 								website_link : $scope.selectedLocation.website_link,
@@ -117,8 +118,9 @@ function AdminLocationController($scope,$http,$cookieStore,$cookies){
                 $.param(
                 		{
 							data : {
+								position_type : $scope.selectedLocation.position_type,
 								id:$scope.selectedLocation.id,
-								fk_category : $scope.selectedCategoryId,
+								fk_category : $scope.selectedLocation.fk_category,
 								name : $scope.selectedLocation.name,
 								description : $content,
 								website_link : $scope.selectedLocation.website_link,

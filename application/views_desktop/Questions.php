@@ -97,8 +97,8 @@ $(document).ready(function(){
 		<ul class="link-shortcut">
 			<li><a href="/timeline/rang-sua"><img alt="" src="/img/link_RS.fw.png"></a></li>
 			<li><a href="/timeline/rang-vinh-vien"><img alt="" src="/img/link_RVV.fw.png"></a></li>
-			<li style="display: <?php echo  isset(Common::getCurrentUser()->id) ? "block" : 'none'; ?>">
-			<a href="/profile/<?php echo Common::getCurrentUser()->id; ?>/ho-so-rang-mieng"><img alt="" src="/img/link_hsrm.fw.png"></a></li>
+			<li style="display: <?php echo  isset(Common::getCurrentUser()->id) ? "block" : 'none'; ?>"><a href="/profile/<?php echo Common::getCurrentUser()->id; ?>/ho-so-rang-mieng"><img alt="" src="/img/link_hsrm.fw.png"></a></li>
+			<li style="display: <?php echo  isset(Common::getCurrentUser()->id) ? "block" : 'none'; ?>"><a href="/profile/<?php echo Common::getCurrentUser()->id;?>/tuoi-moc-rang"><img alt="" src="/img/link_tmr.fw.png"></a></li>
 		</ul>
 	</div>
 	<div class="left" style="width:580px;min-height:0px">

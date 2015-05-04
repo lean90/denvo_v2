@@ -155,4 +155,5 @@ class T_position extends  T_base{
     CONST latitude = 'latitude';
     CONST longitude = 'longitude';
     CONST website_link = 'website_link';
+    CONST position_type = 'position_type';
 }

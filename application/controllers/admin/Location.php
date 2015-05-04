@@ -45,6 +45,7 @@ class Location extends BaseAdminController {
 		$location->latitude = $data['lat'];
 		$location->longitude = $data['long'];
 		$location->created_at = $location->getDate();
+		$location->position_type = $data['position_type'];
 		$result = $location->insert();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );
 	}
@@ -61,6 +62,7 @@ class Location extends BaseAdminController {
 		$location->latitude = $data['lat'];
 		$location->longitude = $data['long'];
 		$location->created_at = $location->getDate();
+		$location->position_type = $data['position_type'];
 		$result = $location->updateById();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );
 	}

@@ -723,6 +723,7 @@ body .header-container #resgitor-window .btn {
 .login-invalid {
 	background-color: white;
 	margin-top: -24px;
+	height:28px;
 }
 
 body>.body-content {

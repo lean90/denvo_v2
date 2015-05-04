@@ -21,11 +21,22 @@ class UserApi extends BaseController {
 		$userRepository->us = $logindt ['us'];
 		$userRepository->pw = md5 ( $logindt ['pw'] );
 		$result = $userRepository->getMutilCondition ();
+		$stdReturnObject = new stdClass();
 		if (count ( $result ) <= 0) {
-			$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( false, true ) );
+			$stdReturnObject->status = false;
+			$stdReturnObject->message = "Sai tên đăng nhập/ mật khẩu";
+			$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $stdReturnObject, true ) );
 			return;
 		}
 		$userModel = $userRepository->getUser ( $result [0]->id );
+		
+		if($userModel->account_status != 1 && $userModel->account_status != 0){
+			$stdReturnObject->status = false;
+			$stdReturnObject->message = "Tài khoản đã bị khóa";
+			$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $stdReturnObject, true ) );
+			return;
+		}
+		
 		
 		$this->set_obj_user_to_me ( $userModel, $logindt ['re'] );
 		
@@ -35,7 +46,10 @@ class UserApi extends BaseController {
 		$userSessionRepository->session_id = $this->session->userdata ( 'session_id' );
 		$userSessionRepository->insert ();
 		
-		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( true, true ) );
+		$stdReturnObject->status = true;
+		$stdReturnObject->message = "Đăng nhập thành công";
+		
+		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $stdReturnObject, true ) );
 	}
 	function loginFacebook() {
 		$logindt = $this->input->post ( 'data' );

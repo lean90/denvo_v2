@@ -33,6 +33,7 @@ function LoginController($scope,$http){
     }
     $scope.loginedResult = false;
     $scope.error = false;
+    $scope.loginMsg = '';
     $scope.Login = function(){
     	$("#overlap").show();
         $http.post('/api/login/pf',
@@ -40,9 +41,10 @@ function LoginController($scope,$http){
                 {headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT",'Content-Type':'application/x-www-form-urlencoded;charset=utf-8'}}
         ).success(function(data){
         	$("#overlap").hide();
-        	if(data == "false" || data == false){
+        	if(data.status == false){
         		$scope.loginedResult = false;
         		$scope.error = true;
+        		$scope.loginMsg =  data.message;
         		return;
         	}
         	

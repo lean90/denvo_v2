@@ -7,4 +7,5 @@ class PositionRepository extends BaseRepository {
     var $latitude;
     var $longitude;
     var $website_link;
+    var $position_type;
 }

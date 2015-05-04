@@ -14,7 +14,7 @@ $supporters = get_instance ()->getSupporter ();
 				<ul class="chat-dialog-modal">
     		         <li><a href="javascript:jqcc.cometchat.chatWith('<?php echo $supporter->user->id; ?>');"></a></li>
     		         <li><a href="ymsgr:sendim?<?php echo $supporter->yahooAccount; ?>"></a></li>
-    		         <li><a href="mailto:<?php echo $supporter->user->email; ?>"></a></li>
+    		         <li><a href="javascript:void(0)" onclick="window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')"></a></li>
     		         <li><a href="skype:<?php echo $supporter->skypeAccount; ?>?chat"></a></li>
     		         <li><a href="<?php echo $supporter->facebookUrl; ?>"></a></li>
     		         <li><a href="callto:<?php echo $supporter->viberAccount; ?>"></a></li>

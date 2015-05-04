@@ -79,10 +79,18 @@
                 <div style="text-align: center;">
                 	<img style="float: none;margin: auto;margin-top: -335px;position: relative;" src="/img/rwanda-plus-icon.png"/>
                 </div>
+                
                 <br/>
                 <label>Vùng</label> 
                 <select class="form-control" ng-model="selectedLocation.fk_category" ng-options="i.id as i.name for i in allowCategories"></select> 
                 <input name="category" type="hidden" value="{{selectedLocation.fk_category}}" />
+                
+                <br/>
+                <label>Loại địa điểm</label>
+                <select id="position-type" ng-model="selectedLocation.position_type" name="position-type" class="form-control">
+                     <option value="phong-kham">Phòng khám</option>
+                </select>
+                
                 <br/>
                 <label>Tên</label>
                 <input type="text" ng-model="selectedLocation.name" class="form-control"/> 

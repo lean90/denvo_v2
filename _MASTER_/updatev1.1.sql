@@ -40,4 +40,13 @@ CREATE TABLE `t_position` (
 ALTER TABLE `t_category`   
   CHANGE `part_url` `part_url` TEXT NOT NULL  COMMENT 'chứa đường dẫn khi query', 
   DROP INDEX `part_url`;
+  
+ALTER `t_position`   
+  ADD COLUMN `postion_type` VARCHAR(127) NULL  COMMENT 'PHONG-KHAM' AFTER `id`;
+
+ALTER TABLE `t_position`
+  CHANGE `postion_type` `position_type` VARCHAR(127) CHARSET utf8 COLLATE utf8_unicode_ci NULL  COMMENT 'PHONG-KHAM';
+
+
+
 
