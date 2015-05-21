@@ -156,4 +156,15 @@ class T_position extends  T_base{
     CONST longitude = 'longitude';
     CONST website_link = 'website_link';
     CONST position_type = 'position_type';
+    CONST img1 = "img1";
+    CONST img2 = "img2";
+    CONST img3 = "img3";
+    CONST img4 = "img4";
+    CONST hotline = "hotline";
+    CONST logo = "logo";
+    CONST sort_description = "sort_description";
+    CONST detail_address = "detail_address";
+    CONST like_number = "like_number";
+    CONST email = "email";
+    CONST working_time = "working_time";
 }

@@ -10,7 +10,7 @@
 <div id="error"></div>
 <script>
 	window.onload = function() {
-		var mobileDevice = navigator.userAgent.match(/ipad|ipod|iphone|android|windows ce|blackberry|palm|symbian/i);
+		var mobileDevice = navigator.userAgent.match(/ipad|ipod|iphone|android|windows ce|IEMobile|Windows Phone|blackberry|palm|symbian/i);
 		if ( mobileDevice ) {			
 			location.href = 'extensions/mobile/';			
 		} 

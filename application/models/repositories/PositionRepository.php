@@ -8,4 +8,53 @@ class PositionRepository extends BaseRepository {
     var $longitude;
     var $website_link;
     var $position_type;
+    var $img1;
+    var $img2;
+    var $img3;
+    var $img4;
+    var $sort_description;
+    var $detail_address;
+    var $hotline;
+    var $logo;
+    var $like_number;
+    var $email;
+    var $working_time;
+    
+    function searchPosition($name,$categoryIds,$orderBy,$type,$limit,$offset){
+    	$catesString = implode(",", $categoryIds);
+    	$orderLogic = "ASC";
+    	if($orderBy == T_position::like_number){
+    		$orderLogic = "DESC";
+    	}
+    	if(empty($catesString)){
+    		$catesString = "-1";
+    	}
+    	$sql = "
+    	SELECT * FROM `t_position`
+		WHERE 
+		('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND 
+		('' = '{$type}' OR `position_type` = '{$type}') AND 
+		`t_position`.`name` LIKE CONCAT('%','{$name}','%')
+		ORDER BY `t_position`.`{$orderBy}` {$orderLogic}
+		LIMIT {$offset},{$limit}";
+    	$query = $this->db->query ( $sql );
+    	$results = $query->result ();
+    	return $results;
+    }
+    
+    function getCountSearchPosition($name,$categoryIds,$type){
+    	$catesString = implode(",", $categoryIds);
+    	if(empty($catesString)){
+    		$catesString = "-1";
+    	}
+    	$sql = "
+    	SELECT count(id) as 'count' FROM `t_position`
+    	WHERE
+    	('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND
+    	('' = '{$type}' OR `position_type` = '{$type}') AND
+    	`t_position`.`name` LIKE CONCAT('%','{$name}','%')";
+    	$query = $this->db->query ( $sql );
+    	$results = $query->result ();
+    	return $results;
+    }
 }

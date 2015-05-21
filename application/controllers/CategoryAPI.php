@@ -33,7 +33,11 @@ class CategoryAPI extends BaseController {
 	function getCategories($cateid = null) {
 		$categoryRepository = new CategoryRepository ();
 		$categories = array ();
-		$categories = $cateid == "all" ? $categoryRepository->getAllCategoriesWithOrder () : $categoryRepository->getChildCategoriesWithOrder ( $cateid );
+		if($cateid == "all"){
+			$categories = $categoryRepository->getAllCategoriesWithOrder ();
+		}else{
+			$categories = $categoryRepository->getChildCategoriesWithOrder ( $cateid );
+		}
 		
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $categories, true ) );
 	}

@@ -23,9 +23,7 @@ class Location extends BaseAdminController {
 		$q = $this->input->get("q");
 		$location = new PositionRepository();
 		$location->name = $q;
-		$location->delete = 0;
 	    $results = $location->getWhereLike(T_position::name,'both');
-	    
 	    foreach (array_keys($results) as $key) {
 	    	if($results[$key]->delete == "1" || $results[$key]->delete == 1){
 	    		unset($results[$key]);
@@ -46,6 +44,15 @@ class Location extends BaseAdminController {
 		$location->longitude = $data['long'];
 		$location->created_at = $location->getDate();
 		$location->position_type = $data['position_type'];
+		$location->img1 = $data['img1'];
+		$location->img2 = $data['img2'];
+		$location->img3 = $data['img3'];
+		$location->img4 = $data['img4'];
+		$location->detail_address = $data['detail_address'];
+		$location->sort_description = $data['sort_description'];
+		$location->email = $data['email'];
+		$location->hotline = $data['hotline'];
+		$location->working_time  = $data['working_time'];
 		$result = $location->insert();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );
 	}
@@ -63,6 +70,15 @@ class Location extends BaseAdminController {
 		$location->longitude = $data['long'];
 		$location->created_at = $location->getDate();
 		$location->position_type = $data['position_type'];
+		$location->img1 = $data['img1'];
+		$location->img2 = $data['img2'];
+		$location->img3 = $data['img3'];
+		$location->img4 = $data['img4'];
+		$location->detail_address = $data['detail_address'];
+		$location->sort_description = $data['sort_description'];
+		$location->email = $data['email'];
+		$location->hotline = $data['hotline'];
+		$location->working_time  = $data['working_time'];
 		$result = $location->updateById();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );
 	}

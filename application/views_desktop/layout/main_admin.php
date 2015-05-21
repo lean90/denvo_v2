@@ -6,6 +6,7 @@
 <title>DENTO | <?php echo $view->title;?></title>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
 <!-- bootstrap 3.0.2 -->
+
 <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <!-- font Awesome -->
 <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -13,7 +14,8 @@
 <link href="/css/ionicons.min.css" rel="stylesheet" type="text/css" />
 <!-- Theme style -->
 <link href="/css/AdminLTE.css" rel="stylesheet" type="text/css" />
-
+<link href="/css/autocomplete/angucomplete.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/css/angular-ui-tree/angular-ui-tree.css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 </head>
 <body class="skin-blue">
@@ -105,7 +107,6 @@
     <script src="/js/plugins/config-plugins.js"></script>
     <script src="/js/plugins/validation/additional-methods.min.js"></script>
     <script src="/js/AdminLTE/app.js" type="text/javascript"></script>
-
     <script src="/js/angular/angular.min.js" type="text/javascript"></script>
     <script src="/js/angular/angular-cookies.js" type="text/javascript"></script>
     <script src="/js/angular/ng-tags-input.min.js" type="text/javascript"></script>
@@ -113,15 +114,19 @@
     <script src="/js/angular/filters.js" type="text/javascript"></script>
     <script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
     <script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
-    <script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
+    <script src="/js/plugins/autocomplete/angucomplete.js" type="text/javascript"></script>
+    
+	<script src="/js/plugins/angular-ui-tree/angular-ui-tree.js"></script>
+	
+    <script src="/js/controllers/lynx-app-admin.js" type="text/javascript"></script>
     <script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
     <script src="/js/controllers/LoginController.js" type="text/javascript"></script>
     <script src="/js/controllers/SearchPopController.js" type="text/javascript"></script>
         <?php
-								// Thêm các js riêng biệt
-								foreach ( $view->javascript as $jsItem ) {
-									echo '<script src="' . $jsItem . '"></script>';
-								}
-								?>
+			// Thêm các js riêng biệt
+			foreach ( $view->javascript as $jsItem ) {
+				echo '<script src="' . $jsItem . '"></script>';
+			}
+			?>
     </body>
 </html>

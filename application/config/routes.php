@@ -22,8 +22,11 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['questions/remove-to-most/(:any)'] = 'Question/removeToMostQuestion/$1';
 		$route ['question/public/(:any)'] = 'Question/publicQuestion/$1';
 		$route ['question/reject/(:any)'] = 'Question/rejectQuestion/$1';
-		$route ['map/get-near-position/(:num)'] = 'Hospital/LoadTopPositionNearCurrentPosition/$1';
-		 
+		$route ['map/get-near-position'] = 'Hospital/LoadTopPositionNearCurrentPosition';
+		$route ['map/search'] = 'Hospital/searchPosition';
+		$route ['map/(:num)/like'] = 'Hospital/like_position/$1';
+		$route ['ban-do/(:num)'] = "Hospital/detail/$1";
+		
 		$route ['answer/remove/(:any)'] = 'Question/removeAnswer/$1';
 		$route ['answer/like/(:num)'] = 'Question/like/$1';
 		
@@ -55,7 +58,7 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['zing/auth'] = 'Zing/auth';
 		$route ['zing/callback'] = 'Zing/callback';
 		
-		$route ['phong-kham'] = 'Hospital/ShowPage';
+		$route ['ban-do'] = 'Hospital/ShowPage';
 		
 		$route ['api/categories/get_child/(:any)'] = "CategoryAPI/getCategories/$1";
 		$route ['api/tags/search'] = "TagAPI/searchTag";

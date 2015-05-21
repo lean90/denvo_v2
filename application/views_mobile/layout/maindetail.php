@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html ng-app="lynx">
 <head>
-<meta name="viewport"
-	content="width=640, user-scalable=true, initial-scale=0.5" />
+<meta name="viewport" content="width=640, user-scalable=true, initial-scale=0.5" />
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
 <title>DENTO | <?php echo $view->title;?></title>
@@ -11,8 +10,8 @@
 <link href="/css/ng-tags-input.min.css" rel="stylesheet" />
 <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/ionicons.min.css" rel="stylesheet" type="text/css" />
-<link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css"
-	rel="stylesheet" type="text/css" />
+<link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+<link href="/css/autocomplete/angucomplete.css" rel="stylesheet" type="text/css" />
 <link href="/css/AdminLTE.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main-detail.css" rel="stylesheet" type="text/css" />
@@ -28,53 +27,52 @@
 	<script type="text/javascript">
 	   var me =  <?php echo json_encode(Common::getCurrentUser());?>;
     </script>
-	<div id="header-container" class="header col-xs-12 text-center">
-		<a class="mn-btn" href="#"></a> <a class="logo" href="/home"><img
-			src="/img/Logo-detail.fw.png" /></a> <a class="search-btn"
-			href="/search"></a>
-	</div>
+    <div id="header-container" class="header col-xs-12 text-center">
+        <a class="mn-btn" href="#"></a> <a class="logo" href="/home"><img src="/img/Logo-detail.fw.png" /></a> <a class="search-btn" href="/search"></a>
+    </div>
 	<?php require_once APPPATH .VIEW_PATH . '/main_menu.php';?>
     <?php require_once APPPATH .VIEW_PATH . $view->view . '.php'; ?>
     <?php require_once APPPATH .VIEW_PATH . '/chat_dialog.php';?>
 	<div id="overlap" style="display: none; background: rgba(0, 0, 0, 0.5) url(); position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 9999">
-		<div class="progress progress-striped active" style="height: 5px">
-			<div style="width: 100%;" class="bar"></div>
-		</div>
-	</div>
-	<script type="text/javascript">
+        <div class="progress progress-striped active" style="height: 5px">
+            <div style="width: 100%;" class="bar"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
           $(document).bind("ajaxSend", function(){
     	     $("#overlap").show();
     	  }).bind("ajaxComplete", function(){
     		 $("#overlap").hide();
     	  });
     </script>
-	<script src="/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/js/plugins/input-mask/jquery.inputmask.js" type="text/javascript"></script>
-	<script src="/js/plugins/input-mask/jquery.inputmask.date.extensions.js" type="text/javascript"></script>
-	<script src="/js/plugins/input-mask/jquery.inputmask.extensions.js" type="text/javascript"></script>
-	<script src="/js/plugins/daterangepicker/daterangepicker.js" type="text/javascript"></script>
-	<script src="/js/plugins/colorpicker/bootstrap-colorpicker.min.js" type="text/javascript"></script>
-	<script src="/js/plugins/timepicker/bootstrap-timepicker.min.js" type="text/javascript"></script>
-	<script src="/js/plugins/DataTables-1.10.0/media/js/jquery.dataTables.min.js"></script>
-	<script src="/js/plugins/DataTables-1.10.0/media/js/custom.dataTables.js"></script>
-	<script src="/js/plugins/gritter/js/jquery.gritter.min.js"></script>
-	<script src="/js/plugins/validation/jquery.validate.min.js"></script>
-	<script src="/js/plugins/config-plugins.js"></script>
-	<script src="/js/plugins/validation/additional-methods.min.js"></script>
-	<script src="/js/AdminLTE/app.js" type="text/javascript"></script>
-	<script src="/js/angular/angular.min.js" type="text/javascript"></script>
-	<script src="/js/angular/angular-cookies.js" type="text/javascript"></script>
-	<script src="/js/angular/ng-tags-input.min.js" type="text/javascript"></script>
-	<script src="/js/angular/angular-route.min.js" type="text/javascript"></script>
-	<script src="/js/angular/filters.js" type="text/javascript"></script>
-	<script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
-	<script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
-	<script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
-	<script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
-	<script src="/js/controllers/LoginController.js" type="text/javascript"></script>
-	<script src="/js/controllers/SearchPopController.js" type="text/javascript"></script>
-	<script src="/js/controllers/ChatController.js" type="text/javascript"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.date.extensions.js" type="text/javascript"></script>
+    <script src="/js/plugins/input-mask/jquery.inputmask.extensions.js" type="text/javascript"></script>
+    <script src="/js/plugins/daterangepicker/daterangepicker.js" type="text/javascript"></script>
+    <script src="/js/plugins/colorpicker/bootstrap-colorpicker.min.js" type="text/javascript"></script>
+    <script src="/js/plugins/timepicker/bootstrap-timepicker.min.js" type="text/javascript"></script>
+    <script src="/js/plugins/DataTables-1.10.0/media/js/jquery.dataTables.min.js"></script>
+    <script src="/js/plugins/DataTables-1.10.0/media/js/custom.dataTables.js"></script>
+    <script src="/js/plugins/gritter/js/jquery.gritter.min.js"></script>
+    <script src="/js/plugins/validation/jquery.validate.min.js"></script>
+    <script src="/js/plugins/config-plugins.js"></script>
+    <script src="/js/plugins/validation/additional-methods.min.js"></script>
+    <script src="/js/AdminLTE/app.js" type="text/javascript"></script>
+    <script src="/js/angular/angular.min.js" type="text/javascript"></script>
+    <script src="/js/angular/angular-cookies.js" type="text/javascript"></script>
+    <script src="/js/angular/ng-tags-input.min.js" type="text/javascript"></script>
+    <script src="/js/angular/angular-route.min.js" type="text/javascript"></script>
+    <script src="/js/angular/filters.js" type="text/javascript"></script>
+    <script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
+    <script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
+	<script src="/js/plugins/autocomplete/angucomplete.js" type="text/javascript"></script>
+    <script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
+    <script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
+    <script src="/js/controllers/LoginController.js" type="text/javascript"></script>
+    <script src="/js/controllers/SearchPopController.js" type="text/javascript"></script>
+    <script src="/js/controllers/ChatController.js" type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 	
 	<?php foreach ( $view->javascript as $jsItem ) {echo '<script src="' . $jsItem . '"></script>';}?>
 	
@@ -95,7 +93,7 @@
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
      </script>
-	<script type="text/javascript">
+    <script type="text/javascript">
             $(document).ready(function(){
 
                 $("[data-mask]").inputmask();
@@ -132,7 +130,7 @@
 
             });
         </script>
-<script type="text/javascript">
+    <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

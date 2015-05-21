@@ -220,7 +220,7 @@ class Question extends BaseController {
 	    $cookie = $this->input->cookie("liked_{$this->obj_user->id}_{$question_id}");
 	    $cookie = $cookie !== false ? json_decode($cookie) : array();
 	    array_push($cookie, $answerId);
-	    setcookie("liked_{$this->obj_user->id}_{$question_id}",json_encode($cookie),time() + (86400 * 3650),"/question");
+	    setcookie("liked_{$this->obj_user->id}_{$question_id}",json_encode($cookie),time() + (86400 * 3650),"/");
 	    redirect('/cau-hoi/'.$question_id);
 	}
 	

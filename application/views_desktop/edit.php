@@ -1,5 +1,5 @@
 <div class="body-content width-960">
-    <?php include APPPATH.'views/scrummap.php';?>
+    <?php include APPPATH .VIEW_PATH.'/scrummap.php'; ?>
     <script type="text/javascript">
          var editPost = <?php echo json_encode($post);?>;
          var editTag = <?php echo json_encode($tags);?>;
@@ -23,11 +23,11 @@
 </div>
 
 <script type="text/ng-template" id="editPost.html">
-    <?php include APPPATH.'views/editPost.php'; ?>
+    <?php include APPPATH .VIEW_PATH.'/editPost.php'; ?>
 </script>
 <script type="text/ng-template" id="editVideo.html">
-    <?php include APPPATH.'views/editVideo.php'; ?>
+    <?php include APPPATH .VIEW_PATH.'/editVideo.php'; ?>
 </script>
 <script type="text/ng-template" id="editGame.html">
-    <?php include APPPATH.'views/editGame.php'; ?>
+    <?php include APPPATH .VIEW_PATH.'/editGame.php'; ?>
 </script>

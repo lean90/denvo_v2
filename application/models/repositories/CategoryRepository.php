@@ -50,9 +50,10 @@ class CategoryRepository extends BaseRepository {
 	}
 	function getAllCategoriesWithOrder() {
 		$sql = "
-            SELECT * FROM `t_category`
-			`delete` = 0
-            ORDER BY t_category.`category_id`,`t_category`.`order`
+            SELECT * FROM `t_category` 
+			where `delete` = 0 
+			AND part_tree NOT LIKE '%46,%' 
+            ORDER BY t_category.`category_id` , `t_category`.`order`
         ";
 		$query = $this->db->query ( $sql );
 		$results = $query->result ();

@@ -1,0 +1,2 @@
+[18-May-2015 08:51:12 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 144
+[18-May-2015 08:51:12 Europe/Berlin] PHP Deprecated:  Function mysql_selectdb() is deprecated in E:\DENTO_PHASE_2\dento_v2\mobile\dento-chat\cometchat_init.php on line 149

@@ -11,6 +11,7 @@
 <link href="/css/ionicons.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/AdminLTE.css" rel="stylesheet" type="text/css" />
+<link href="/css/autocomplete/angucomplete.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main-detail.css" rel="stylesheet" type="text/css" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
@@ -84,7 +85,7 @@
                                         if($item->item_type != 'tintuc'){ continue;}
                                         ?>
                                         <li>
-                                            <a href="<?php echo $item->part_url;?>">
+                                            <a href="<?php echo $item->part_url.'-'.$item->id.'.html';?>">
                                                 <p class="new-title"><?php echo $item->title;?></p>
                                                 <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
                                             </a>
@@ -119,7 +120,7 @@
                     </ul> 
                     <a href="/tin-tuc">Tin tức
                         <?php if($__newStatus__->tintuc){?>
-                            <img alt="" src="/img/menu-new-icon.gif">
+                            <img alt="" src="/img/menu-new-icon.png">
                         <?php }?>
                     </a>
 				</li>
@@ -133,7 +134,7 @@
                                         if($item->item_type != 'sanpham'){ continue;}
                                         ?>
                                         <li>
-                                            <a href="<?php echo $item->part_url;?>">
+                                            <a href="<?php echo $item->part_url.'-'.$item->id.'.html';?>">
                                                 <p class="new-title"><?php echo $item->title;?></p>
                                                 <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
                                             </a>
@@ -154,7 +155,7 @@
                     </ul>
                     <a href="/san-pham">Sản phẩm
                         <?php if($__newStatus__->sanpham){?>
-                            <img alt="" src="/img/menu-new-icon.gif">
+                            <img alt="" src="/img/menu-new-icon.png">
                         <?php }?>
                     </a>
 				</li>
@@ -168,7 +169,7 @@
                                         if($item->item_type != 'trochoi'){ continue;}
                                         ?>
                                         <li>
-                                            <a href="<?php echo $item->part_url;?>">
+                                            <a href="<?php echo $item->part_url.'-'.$item->id.'.html';?>">
                                                 <p class="new-title"><?php echo $item->title;?></p>
                                                 <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
                                             </a>
@@ -188,7 +189,7 @@
                         ?>
                     </ul> <a href="/tro-choi">Trò chơi
                         <?php if($__newStatus__->trochoi){?>
-                            <img alt="" src="/img/menu-new-icon.gif">
+                            <img alt="" src="/img/menu-new-icon.png">
                         <?php }?>
                     </a>
 				</li>
@@ -202,7 +203,7 @@
                                         if($item->item_type != 'kythuat'){ continue;}
                                         ?>
                                         <li>
-                                            <a href="<?php echo $item->part_url;?>">
+                                            <a href="<?php echo $item->part_url.'-'.$item->id.'.html';?>">
                                                 <p class="new-title"><?php echo $item->title;?></p>
                                                 <p class="new-content"><?php echo mb_substr($item->description, 0,75)."...";?></p>
                                             </a>
@@ -222,7 +223,7 @@
                         ?>
                     </ul> <a href="/ky-thuat"> Kỹ thuật 
                         <?php if($__newStatus__->kythuat){?>
-                            <img alt="" src="/img/menu-new-icon.gif">
+                            <img alt="" src="/img/menu-new-icon.png">
                         <?php }?>
                     </a>
 				</li>
@@ -237,6 +238,7 @@
                                 <li><a href='/profile/{$user->id}/tuoi-moc-rang'>Tuổi mọc răng của bạn</a></li>
                                 <li><a href='/profile/{$user->id}/ho-so-rang-mieng'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
+                                <li><a href='/ban-do'>Bản đồ</a></li>
                                 ";
                         } else {
                             echo "
@@ -245,6 +247,7 @@
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Tuổi mọc răng của bạn</a></li>
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
+								<li><a href='/ban-do'>Bản đồ</a></li>
                                 ";
                         }
                         ?>
@@ -360,6 +363,7 @@
 	</div>
 
 	<a class="chat-btn" href="/danh-sach-cau-hoi"></a>
+	<a class="map-btn" href="/ban-do"></a>
 	<?php include_once APPPATH.VIEW_PATH. '/chat_dialog.php';?>
     <div id="fb-root"></div>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
@@ -383,6 +387,7 @@
 	<script src="/js/angular/filters.js" type="text/javascript"></script>
 	<script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
 	<script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
+	<script src="/js/plugins/autocomplete/angucomplete.js" type="text/javascript"></script>
 	<script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
 	<script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
 	<script src="/js/controllers/LoginController.js" type="text/javascript"></script>

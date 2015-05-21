@@ -86,11 +86,16 @@ if (file_exists (dirname(dirname(dirname(__FILE__))).DIRECTORY_SEPARATOR."module
 	$("#createChatroom").live('pageshow', function() {
 		document.title = "<?php echo $mobile_language[22]?>";
 	});
+	
+	function returnToDento(){
+		window.location = "/";
+	}
 </script>
 </head>
 <body style="background:#f1f1f1;">
 	<div data-role="page" id="buddy" style="background:inherit;">
 		<div class="pageHeader" data-role="header" data-position="fixed">
+			<a data-role="button" data-icon="back" data-iconpos="notext" onclick="javascript:returnToDento()"><?php echo $mobile_language[24]?></a>
 			<h1><?php echo $mobile_language[18];?></h1>
 		</div>
 		<div data-role="content" id="wocontent">
@@ -135,6 +140,7 @@ if (file_exists (dirname(dirname(dirname(__FILE__))).DIRECTORY_SEPARATOR."module
 	
 	<div data-role="page" id="lobby" style="background:inherit;">
 		<div class="pageHeader" data-role="header" data-position="fixed">
+			<a data-role="button" data-icon="back" data-iconpos="notext" onclick="javascript:returnToDento()"><?php echo $mobile_language[24]?></a>
 			<h1><?php echo $mobile_language[19];?></h1>
 			<a href="javascript:void(0);" data-role="button" data-icon="plus" data-iconpos="notext" class="ui-btn-right" onclick="javascript:createChatroom()"></a>
 		</div>

@@ -84,8 +84,11 @@ class MY_Controller extends CI_Controller {
 		}
 		try {
 		    if($this->is_mobile() && ENVIRONMENT != "development"){
-		        $mobile_url = str_replace("http://", "http://m.", Common::curPageURL());
-		        redirect($mobile_url);
+		    	$url = Common::curPageURL();
+		    	if(strpos($url,'m.') === false){
+		    		$mobile_url = str_replace("http://", "http://m.", Common::curPageURL());
+		    		redirect($mobile_url);
+		    	}
 		    }
 		    
 			$this->config->load ( 'mailler' );

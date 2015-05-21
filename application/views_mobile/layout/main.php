@@ -10,6 +10,7 @@
 <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/ionicons.min.css" rel="stylesheet" type="text/css" />
 <link href="/css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+<link href="/css/autocomplete/angucomplete.css" rel="stylesheet" type="text/css" />
 <link href="/css/AdminLTE.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main.css" rel="stylesheet" type="text/css" />
 <link href="/css/dento-main-detail.css" rel="stylesheet" type="text/css" />
@@ -92,6 +93,7 @@
     <script src="/js/angular/filters.js" type="text/javascript"></script>
     <script src="/js/angular/ng-grid.min.js" type="text/javascript"></script>
     <script src="/js/angular/ui-bootstrap-tpls-0.10.0.min.js" type="text/javascript"></script>
+	<script src="/js/plugins/autocomplete/angucomplete.js" type="text/javascript"></script>
     <script src="/js/controllers/lynx-app.js" type="text/javascript"></script>
     <script src="/js/controllers/LynxCommon.js" type="text/javascript"></script>
     <script src="/js/controllers/LoginController.js" type="text/javascript"></script>
