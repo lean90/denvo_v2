@@ -238,7 +238,7 @@
                                 <li><a href='/profile/{$user->id}/tuoi-moc-rang'>Tuổi mọc răng của bạn</a></li>
                                 <li><a href='/profile/{$user->id}/ho-so-rang-mieng'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-                                <li><a href='/ban-do'>Bản đồ</a></li>
+                                <li><a href='/ban-do'>&beta;Finder</a></li>
                                 ";
                         } else {
                             echo "
@@ -247,7 +247,7 @@
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Tuổi mọc răng của bạn</a></li>
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-								<li><a href='/ban-do'>Bản đồ</a></li>
+								<li><a href='/ban-do'>&beta;Finder</a></li>
                                 ";
                         }
                         ?>

@@ -29,6 +29,7 @@ class Location extends BaseAdminController {
 	    		unset($results[$key]);
 	    	}
 	    }
+	    //echo $location->db->last_query(); die;
 	    $this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $results, true ) );
 	}
 	
@@ -117,9 +118,12 @@ class Location extends BaseAdminController {
 		$category->part_url = $parentCategory->part_url ."/".$nameClear;
 		$category->part_tree = $parentCategory->part_tree.",{$newId}";
 		$category->updateById();
-		$query =  $category->db->last_query();
 		
-		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( true, true ) );
+		$category = new CategoryRepository();
+		$category->id = $newId;
+		$results = $category->getOneById();
+		
+		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $results[0], true ) );
 	}
 	
 	function removeArea(){

@@ -22,17 +22,13 @@
                         <td class="q-des">
                             <p class="name">
                                 {{question.question}}
-                                
                             </p>
                         </td>
                     </tr>
                     <tr class="answers">
-                        <td class="q-icon" style="text-align: center;">
-                            <img alt="" width="41px"  src="/img/answers.fw.png" />
-                        </td>
+                        <td class="q-icon" style="text-align: center;"></td>
                         <td class="q-des">
-                            
-                            <p class="answer-detail">
+                        	<p class="answer-detail">
                                 {{getFullName()}}
                             </p>
                             <p class="more-info">
@@ -40,8 +36,8 @@
                                 <a ng-show="me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS' " ng-href="/question/delete/{{question.id}}">Xóa</a>
                                 <a ng-show="me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS' " ng-href="/questions/set-to-most/{{question.id}}"> | Câu hỏi thường gặp</a>
                                 <a ng-show="me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS' " ng-href="/questions/remove-to-most/{{question.id}}"> | Bỏ câu hỏi thường gặp</a>
-                                
                             </p>
+                            
                         </td>
                     </tr>
                     <tr class="image-row">
@@ -106,7 +102,10 @@
                         </td>
                         <td class="a-des" style="padding: 5px">
                             <p class="name">
-                               <a href="">{{answer.user.full_name}} : </a> {{answer.answer}}
+                                {{answer.answer}}
+                            </p>
+                            <p style="color: #A5A6B2;font-style: italic;">
+                                {{answer.user.full_name}}
                             </p>
                             <p class="more-info">
                                 <a ng-href="{{get_like_link(answer)}}"><img src="/img/icon-like-answer.fw.png"/> {{answer.total_like_number}} Lượt thích</a> · {{answer.friendly_time}}

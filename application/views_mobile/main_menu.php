@@ -55,13 +55,13 @@
             <li><a href="/tin-tuc/video"><img src="/img/mn-icon-video.fw.png" /><span>Video <?php if(in_array(11,$__categoryCollection__)) echo '<img src="/img/menu-new-icon.png" style="height:35px;"/>';?></span></a></li>
             <li><a href="/tin-tuc/tin-khac"><img src="/img/mn-icon-tin-khac.fw.png" /><span>Tin khác <?php if(in_array(44,$__categoryCollection__)) echo '<img src="/img/menu-new-icon.png" style="height:35px;"/>';?></span></a></li>
             
-            <li class="big-item"><a href="#">TƯ VẤN</a></li>
+            <li class="big-item"><a href="/home?#support">TƯ VẤN</a></li>
             <li><a href="javascript:openChatDialog()"> <img src="/img/mn-icon-support.png" /> <span>Trợ giúp </span></a>  </li>
             <li><a href="/timeline/rang-sua"> <img src="/img/mn-icon-time-line-rang-sua.fw.png" /> <span>Tuổi mọc răng sữa </span></a>  </li>
             <li><a href="/timeline/rang-vinh-vien"> <img src="/img/mn-icon-time-line-rang-vinh-vien.fw.png" /> <span> Tuổi mọc răng vĩnh viễn </span></a>  </li>
             <li><a href="/login?action=tuoi-moc-rang-ca-nhan"> <img src="/img/mn-icon-teeth-growup.fw.png" /><span> Tuổi mọc răng của bạn</span></a>  </li>
             <li><a href="/login?action=ho-so-rang-mieng"><img src="/img/mn-icon-profiles.fw.png" /><span> Hồ sơ răng miệng của tôi </span></a>  </li>
-            <li><a href="/ban-do"><img src="/img/mn-icon-maps.png" /><span> Bản đồ </span></a>  </li>
+            <li><a href="/ban-do"><img src="/img/mn-icon-maps.png" /><span> Finder </span></a>  </li>
             
             <li class="big-item"><a href="/san-pham">SẢN PHẨM</a></li>
             <li><a href="/san-pham/ban-chai-danh-rang"><img src="/img/mn-icon-ban-chai-danh-rang.fw.png" /><span>Bàn chải đánh răng <?php if(in_array(13,$__categoryCollection__)) echo '<img src="/img/menu-new-icon.png" style="height:35px;"/>';?></span></a></li>

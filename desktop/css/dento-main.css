@@ -1159,6 +1159,8 @@ body .question{
 }
 .left .a-detail .answers .a-des .name{
     border-radius : 5px;
+	padding:0px;
+	margin:0px;
 }
 .right .a-detail .answers .a-des .name{
     border-radius : 5px;

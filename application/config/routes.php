@@ -30,8 +30,8 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['answer/remove/(:any)'] = 'Question/removeAnswer/$1';
 		$route ['answer/like/(:num)'] = 'Question/like/$1';
 		
-		$route ['report/sys'] = 'report/report_system';
-		$route ['report/usr/(:num)'] = 'report/report_user/$1';
+		$route ['report/sys'] = 'Report/report_system';
+		$route ['report/usr/(:num)'] = 'Report/report_user/$1';
 		
 		$route ['timeline/rang-vinh-vien'] = 'Timeline/rvv';
 		$route ['timeline/rang-sua'] = 'Timeline/rs';

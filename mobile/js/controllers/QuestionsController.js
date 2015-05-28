@@ -24,7 +24,7 @@ function QuestionsController($scope,$http){
 		case "many-view":
 			$http.get('/questions/get/MOST?page='+page,{headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT"}})
 			.success(function(data){
-				$scope.tabtitle = "Câu hỏi được thường gặp";
+				$scope.tabtitle = "Câu hỏi thường gặp";
 				$scope.questions = data['data']['questions'];
 				$scope.current_page = data['page'];
 				$("#overlap").hide();

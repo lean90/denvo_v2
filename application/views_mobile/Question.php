@@ -18,13 +18,10 @@
                 </td>
             </tr>
             <tr class="answers">
-                <td class="q-icon">
-                    <img alt="" src="/img/answers.fw.png" />
-                </td>
+                <td class="q-icon"></td>
                 <td class="q-des">
                     <p class="answer-detail">
                         {{getFullName()}}
-                        
                     </p>
                     <p class="more-info">
                         {{answers.length}} câu trả lời · {{question.friendly_time}}
@@ -93,11 +90,13 @@
                 </td>
                 <td class="a-des">
                     <p class="name">
-                       <a href="">{{answer.user.full_name}} : </a> {{answer.answer}}
+                       {{answer.answer}}
                     </p>
+                    <p style="font-size: 25px;color: #A5A6B2;font-style: italic;">{{answer.user.full_name}}</p> 
                     <p class="more-info">
                         <a ng-href="{{get_like_link(answer)}}"><img src="/img/icon-like-answer.fw.png"/> {{answer.total_like_number}} Lượt thích</a> · {{answer.friendly_time}}
                     </p>
+                    
                 </td>
             </tr>
         </table>

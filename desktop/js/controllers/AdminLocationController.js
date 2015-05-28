@@ -18,12 +18,35 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 	$scope.dumpDragableAreaList = [];
 	$scope.treeOptions = {
 		dropped: function(sourceNodeScope) {
+			var scope = sourceNodeScope.source.nodeScope
+			var name = scope.$modelValue.name;
+			var parentId = sourceNodeScope.dest.nodesScope.$parent.$modelValue == undefined ? 46 : sourceNodeScope.dest.nodesScope.$parent.$modelValue.id;
+			parentId = parentId == undefined ? 46 : parentId;
+			$scope.updateArea(scope.$modelValue.id,name,parentId,function(data){
+		        $scope.reloadCategory();
+	        });
            return true;
        },
     };
-	$scope.edit = function(scope){
-		var name = scope.$modelValue.name;
-		var parentId = $scope.getParentFromDragableAreaList(scope.$modelValue.id,$scope.dragableAreaList);
+	
+	$scope.getShowAddStatus = function(scope){
+		return scope.depth() < 3;
+	};
+	
+	$scope.removeSubArea = function(scope){
+		var id = scope.$modelValue.id;
+		var r = confirm("Bạn có chắc chắn muốn xóa địa điểm này !");
+		if (r == true) {
+			$scope.delArea(id,function(data){
+				alert('Xóa khu vực thành công');
+				scope.remove(scope);
+				$scope.reloadCategory();
+			});
+		}
+		
+	};
+	$scope.addSubArea = function(scope){
+		var parentId = scope  == undefined ? 46 : scope.$modelValue.id;
 		$modal.open({
 		      animation: true,
 		      templateUrl: 'edit-dialog.html',
@@ -34,8 +57,40 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 		        }
 		      }
 		    }).result.then(function (name) {
-		        $scope.updateArea(scope.$modelValue.id,name,parentId);
-		        scope.$modelValue.name = name;
+		        $scope.addArea(name,parentId,function(data){
+		        	data.childs = [];
+		        	if(scope != undefined){
+		        		scope.$modelValue.childs.push(data);
+		        	}else{
+		        		$scope.dragableAreaList.push(data);
+		        	}
+		            
+		            $scope.reloadCategory();
+		        });
+		    }, function () {
+		        $log.info('Modal dismissed at: ' + new Date());
+		    });
+		return true;
+	};
+	
+	$scope.edit = function(scope){
+		var name = scope.$modelValue.name;
+		var parentId = $scope.getParentFromDragableAreaList(scope.$modelValue.id,$scope.dragableAreaList);
+		parentId = parentId == undefined ? 46 : parentId;
+		$modal.open({
+		      animation: true,
+		      templateUrl: 'edit-dialog.html',
+		      controller: 'editDialogController',
+		      resolve: {
+		        item: function () {
+		          return name;
+		        }
+		      }
+		    }).result.then(function (name) {
+		        $scope.updateArea(scope.$modelValue.id,name,parentId,function(data){
+		            scope.$modelValue.name = name;
+			        $scope.reloadCategory();
+		        });
 		    }, function () {
 		        $log.info('Modal dismissed at: ' + new Date());
 		    });
@@ -294,24 +349,26 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 	 };
 
 	
-	$scope.addArea = function(){
+	$scope.addArea = function(name,parent,callback){
 		$http.post('/__admin/add-area',
 				$.param({
 							data : {
-								name : $("#areaname").val(),
-								parent : $scope.selectedEditParentArea
+								name : name,
+								parent : parent
 							}
 						}),
                 {headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT",'Content-Type':'application/x-www-form-urlencoded;charset=utf-8'}}
         ).success(function(data){
-        	alert("Thêm khu vực mới thành công");
-        	$scope.reloadCategory();
+           if(typeof callback == 'function'){
+               callback(data);
+           }
         }).error(function(xhr, status, error){
-            alert("Thêm khu vực thất bại"); 
+            alert("Thêm khu vực thất bại");
+            window.reload();
         });
 	};
 	 
-	$scope.delArea = function(selectedEditArea){
+	$scope.delArea = function(selectedEditArea,callback){
 		$http.post('/__admin/del-area',
 				$.param({
 							data : {
@@ -320,14 +377,16 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 						}),
                 {headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT",'Content-Type':'application/x-www-form-urlencoded;charset=utf-8'}}
         ).success(function(data){
-        	alert("Xóa khu vực mới thành công");
-        	$scope.reloadCategory();
+        	if(typeof callback == 'function'){
+        		callback(data);
+        	}
         }).error(function(xhr, status, error){
-            alert("Xóa khu vực thất bại"); 
+            alert("Xóa khu vực thất bại");
+            window.reload();
         });
 	};
 	
-	$scope.updateArea = function(id,name,parent){
+	$scope.updateArea = function(id,name,parent,callback){
 		$http.post('/__admin/update-area',
 				$.param({
 							data : {
@@ -338,10 +397,12 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 						}),
                 {headers:{"If-Modified-Since":"Thu,01 Jun 1970 00:00:00 GMT",'Content-Type':'application/x-www-form-urlencoded;charset=utf-8'}}
         ).success(function(data){
-        	alert("Cập nhật khu vực mới thành công");
-        	$scope.reloadCategory();
+        	if(typeof callback == 'function'){
+        		callback(data);
+        	}
         }).error(function(xhr, status, error){
             alert("Cập nhật khu vực thất bại"); 
+            window.reload();
         });
 	};
 	

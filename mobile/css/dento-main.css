@@ -380,7 +380,7 @@ body>.support {
 	margin-top: 40px;
 	color: white;
 	font-weight: bold;
-	font-size: 23px;
+	font-size: 28px;
 }
 
 .support  .region-content  .support-title>a.left {
@@ -829,7 +829,7 @@ body>.body-content {
 
 .footer-container>ul>li a {
 	color: #4D4D4F;
-	font-size: 17px;
+	font-size: 25px;
 }
 
 .footer-container>ul>li {
@@ -1218,7 +1218,7 @@ body>.question {
 }
 
 .q-detail .answers .q-des .more-info {
-	font-size: 15px;
+	font-size: 25px;
 	color: #C9CADC;
 }
 
@@ -1289,7 +1289,7 @@ body>.question {
 }
 
 .a-detail .answers .a-des .name {
-	font-size: 20px;
+	font-size: 28px;
 }
 
 .left .a-detail .answers .a-des .name {
@@ -1306,8 +1306,8 @@ body>.question {
 }
 
 .a-detail .answers .a-des .more-info,.a-detail .answers .a-des .more-info a
-	{
-	font-size: 15px;
+{
+	font-size: 25px;
 	color: #C9CADC;
 }
 
@@ -1577,8 +1577,8 @@ li.localtion_item  td > img{
 .filter-on-map {
     position: absolute;
     z-index: 100;
-    margin-left:75px;
-    width:560px;
+    margin-left:50px;
+    width:600px;
 }
 .like-number{
     float: right;

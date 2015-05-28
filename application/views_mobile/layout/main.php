@@ -34,9 +34,13 @@
     <div class="footer">
         <div class="footer-container width-960">
             <ul class="static-col">
-                <li>Thông tin liên hệ
+                <li>THÔNG TIN LIÊN HỆ
                     <div style="position: absolute; margin-top: -35px; margin-left: 348px;">
-                        <a class="btn btn-primary" style="color: white; font-size: 30px" onclick="window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')"><i style="color: white; font-size: 20px" class="fa fa-envelope"></i> &nbsp; <span style="color: white; font-size: 20px">|</span> &nbsp; Contact us!</a>
+                        <a class="btn btn-primary" style="color: white; font-size: 30px" onclick="window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')">
+                        	<i style="color: white;" class="fa fa-envelope"></i>
+                        		<span style="color: white;margin-left:5px; margin-right:5px">|</span> 
+                        	<span style="color: white;">Contact us!</span>
+                        	</a>
                     </div>
                     <ul>
                         <li><a><img src="/img/footer-icon-phone.fw.png" /> Hotline: 0933.22.8001</a></li>

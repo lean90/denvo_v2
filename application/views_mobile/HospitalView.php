@@ -1,7 +1,7 @@
 
     <div style="margin-bottom: 100px" ng-controller="PositionController" class="location-container">
         <div class="filter-on-map">
-            <select class="form-control" ng-model="selectedFilterByName" style="width: 115px; float: left;">
+            <select class="form-control" ng-model="selectedFilterByName" style="width: 210px; float: left;">
                 <option value="PHONG-KHAM">Phòng khám</option>
                 <option value="LABO">Labo</option>
                 <option value="CO-SO-VLNK">Cơ sở VLNK</option>

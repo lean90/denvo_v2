@@ -46,11 +46,10 @@
             </div>
             <!-- /.box-header -->
             <div class="box-body">
-                <select class="form-control" ng-model="selectedEditArea" ng-options="i.id as i.name for i in allowCategories"></select>
-                <hr />
-                Khu vực cha <select class="form-control" ng-model="selectedEditParentArea" ng-options="i.id as i.name for i in allowCategories"></select> <br /> Tên <input id="areaname" class="form-control" value="{{getSelectedAreaName()}}" /> <br /> <input id="add-area-add" type="button" ng-click="addArea()" class="btn btn-primary" value="Thêm mới" /> <input id="add-area-update" type="button" ng-click="updateArea(selectedEditArea)" class="btn btn-warning" value="Cập nhật" /> <input id="add-area-del" type="button" ng-click="delArea(selectedEditArea)" class="btn btn-danger" value="Xóa" />
-				<pre>{{dragableAreaList}}</pre>
-				<div ui-tree="treeOptions" id="tree-root" data-max-depth="5">
+            	<p style="margin: 0 0 10px;display: inline-block;margin-left: 10px;">
+            		<a class="pull-left btn btn-primary btn-xs" data-nodrag ng-click="addSubArea()" style="margin-right: 8px;"><span class="glyphicon glyphicon-plus"></span></a>
+            	</p>
+				<div ui-tree="treeOptions" id="tree-root" data-max-depth="3" >
 	                <ol ui-tree-nodes ng-model="dragableAreaList">
 	                    <li ng-repeat="item in dragableAreaList" ui-tree-node ng-include="'items_renderer.html'" collapsed="true"></li>
 	                </ol>
@@ -137,20 +136,24 @@
 <script type="text/ng-template" id="items_renderer.html">
 <div ui-tree-handle>
     <a class="btn btn-success btn-xs" data-nodrag ng-click="toggle(this)" >
-    	<span  class="glyphicon" ng-class="{'glyphicon-chevron-right': collapsed, 'glyphicon-chevron-down': !collapsed, 'glyphicon-pushpin':item.childs.length <= 0}"></span>
+    	<span  class="glyphicon" ng-class="{'glyphicon-chevron-right': collapsed, 'glyphicon-chevron-down': !collapsed, 'glyphicon-pushpin':!getShowAddStatus(this)}"></span>
     </a> 
 	{{item.name}}
-	<a class="pull-right btn btn-danger btn-xs" data-nodrag ng-click="remove(this)"><span class="glyphicon glyphicon-remove"></span></a>
+	<a class="pull-right btn btn-danger btn-xs" data-nodrag ng-click="removeSubArea(this)"><span class="glyphicon glyphicon-remove"></span></a>
 	<a class="pull-right btn btn-primary btn-xs" data-nodrag ng-click="edit(this)" style="margin-right: 8px;"><span class="glyphicon glyphicon-edit"></span></a> 
-	<a class="pull-right btn btn-primary btn-xs" data-nodrag ng-click="newSubItem(this)" style="margin-right: 8px;"><span class="glyphicon glyphicon-plus"></span></a>
+	<a ng-show="getShowAddStatus(this)" class="pull-right btn btn-primary btn-xs" data-nodrag ng-click="addSubArea(this)" style="margin-right: 8px;">
+		<span class="glyphicon glyphicon-plus"></span>
+	</a>
+
 </div>
 <ol ui-tree-nodes ng-model="item.childs" ng-class="{hidden: collapsed}" >
     <li ng-repeat="item in item.childs" ui-tree-node ng-include="'items_renderer.html'" collapsed="true"></li>
 </ol>
 </script>
+
 <script type="text/ng-template" id="edit-dialog.html">
         <div class="modal-header">
-            <h3 class="modal-title">Chỉnh sửa khu vực</h3>
+            <h3 class="modal-title">Khu vực</h3>
         </div>
         <div class="modal-body">
 			 <table style="width:100%">

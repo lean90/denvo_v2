@@ -35,6 +35,7 @@ class PositionRepository extends BaseRepository {
 		('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND 
 		('' = '{$type}' OR `position_type` = '{$type}') AND 
 		`t_position`.`name` LIKE CONCAT('%','{$name}','%')
+		AND `delete` = 0
 		ORDER BY `t_position`.`{$orderBy}` {$orderLogic}
 		LIMIT {$offset},{$limit}";
     	$query = $this->db->query ( $sql );
@@ -52,7 +53,8 @@ class PositionRepository extends BaseRepository {
     	WHERE
     	('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND
     	('' = '{$type}' OR `position_type` = '{$type}') AND
-    	`t_position`.`name` LIKE CONCAT('%','{$name}','%')";
+    	`t_position`.`name` LIKE CONCAT('%','{$name}','%') AND 
+    	`delete` = 0";
     	$query = $this->db->query ( $sql );
     	$results = $query->result ();
     	return $results;

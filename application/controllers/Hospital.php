@@ -26,7 +26,7 @@ class Hospital extends BaseController {
 	    
 	    LayoutFactory::getLayout ( LayoutFactory::MAIN_DETAIL )
 	    ->setData ( $data )
-	    ->setTitles ( 'Phòng khám ')
+	    ->setTitles ( 'BFinder ')
 	    ->setJavascript(array('/js/controllers/PositionController.js'))
 	    ->render ( 'HospitalView' );
 	}
@@ -49,6 +49,7 @@ class Hospital extends BaseController {
 	    
 	    $positionRespository = new PositionRepository();
 	    $positionRespository->position_type = $type;
+	    $positionRespository->delete = 0;
 	    $results = $positionRespository->getMutilCondition();
 	    for($i = 0 ; $i < count($results); $i++){
 	    	$result = $results[$i];

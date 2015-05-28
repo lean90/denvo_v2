@@ -117,7 +117,7 @@
             <div class="support-frm-content" ng-controller="ProfileHomeController">
                 <div class="support-content-left">
                     <span class="title">Tuổi mọc răng <br /> của bạn
-                    </span> <span class="content"> Nơi lưu trữ tuổi mọc răngcủa các thành viên<br />
+                    </span> <span class="content"> Nơi lưu trữ tuổi mọc răng của các thành viên<br />
                     <br />
                     </span> <a href="<?php echo $url;?>" class="btn btn-primary">Chi tiết &gt;&gt;</a>
                 </div>
