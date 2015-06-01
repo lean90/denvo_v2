@@ -29,6 +29,9 @@
             <h4 class="header-hightlight">Giới thiệu về phòng khám</h4>
             <div class="post-user-content">
             	<?php echo $detail->description;?>
+            	<div class="facebook-comment">
+	                <div class="fb-comments" data-href="<?php echo Common::curPageURL();?>" data-width="490px" data-numposts="5" data-colorscheme="light"></div>
+	            </div>
             </div>
         </div>
 
@@ -56,11 +59,6 @@
 
             <h4 class="header-hightlight">Bản đồ</h4>
             <div id='map' class="map"></div>
-
-            <h4 class="header-hightlight">Nhận xét</h4>
-            <div class="facebook-comment">
-                <div class="fb-comments" data-href="<?php echo Common::curPageURL();?>" data-width="360px" data-numposts="5" data-colorscheme="light"></div>
-            </div>
         </div>
     </div>
 </div>

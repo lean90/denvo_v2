@@ -34,7 +34,7 @@
     <div class="footer">
         <div class="footer-container width-960">
             <ul class="static-col">
-                <li>THÔNG TIN LIÊN HỆ
+                <li><h2>THÔNG TIN LIÊN HỆ</h2>
                     <div style="position: absolute; margin-top: -35px; margin-left: 348px;">
                         <a class="btn btn-primary" style="color: white; font-size: 30px" onclick="window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')">
                         	<i style="color: white;" class="fa fa-envelope"></i>

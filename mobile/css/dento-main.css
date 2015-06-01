@@ -966,7 +966,7 @@ body>.body-content {
 }
 
 #chat-dialog .modal-content {
-	width: 260px;
+	width: 410px;
 }
 
 .schema-conatiner .timeline-schema,.schema-conatiner .timeline-schema-men
@@ -1404,13 +1404,13 @@ body>.question {
 }
 
 .chat-dialog-modal {
-	width: 217px;
-	height: 200px;
+    width: 360px;
+    height: 331px;
 	background: white url('/img/dento-popup-bg.fw.png') no-repeat top left;
 }
 
 #chat-dialog .modal-dialog {
-	width: 260px;
+	width: 410px;
 	margin: auto;
 	margin-top: 250px;
 	transform: scale(1.5);
@@ -1418,12 +1418,12 @@ body>.question {
 
 .chat-dialog-modal li {
 	float: left;
-	margin: 0px 12px;
+	margin: 40px 15px 20px 0px;
 }
 
 .chat-dialog-modal li a {
 	display: inline-block;
-	width: 45px;
+	width: 105px;
 	height: 90px;
 }
 
@@ -1814,4 +1814,15 @@ li.localtion_item  td > img{
 }
 .location-container .angucomplete-image-holder {
   padding-top: 15px;
+}
+body .fb-comments {
+    display: block;
+  transform: scale(1.75) !important;
+  -ms-transform: scale(1.75);
+  -webkit-transform: scale(1.75);
+  -o-transform: scale(1.75);
+  -moz-transform: scale(1.75);
+  width: 578px;
+  margin-left: 0px;
+}
 }
