@@ -609,8 +609,9 @@ input {
 }
 
 .left .left-head {
-	color: #DDDDDD;
-	font-size: 20px;
+	font-size: 25px;
+	  font-weight: bold;
+	  color: #878787;
 	width: 579px;
 	margin-left: -10px;
 	border-bottom: solid 1px #E4F1F9;
