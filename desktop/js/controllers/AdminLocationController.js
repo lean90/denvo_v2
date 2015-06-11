@@ -16,6 +16,30 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 	$scope.selected_phuong_xa = {};
 	$scope.dragableAreaList = [];
 	$scope.dumpDragableAreaList = [];
+	$scope.current_lat = "";
+	$scope.current_long = "";
+	
+	
+	$scope.choiceLogo = function(){
+		window.open('/kcfinder/browse.php?type=images', 'kcfinder_single',"width=800, height=600");
+		window.KCFinder = {};
+		window.KCFinder.callBack = function(url) {
+			$scope.selectedLocation.logo = url;
+	        window.KCFinder = null;
+	        if(!$scope.$$phase) $scope.$apply();
+	    };
+	}
+	
+	$scope.onChangeLocation = function(){
+		var $location = map.getCenter();
+		var lat = $location.k == undefined ? $location.A : $location.k;
+		var long = $location.D == undefined ? $location.F : $location.D;
+		if($scope.current_lat != lat || $scope.current_long != long){
+			map.setCenter(new google.maps.LatLng(parseFloat($scope.current_lat), parseFloat($scope.current_long)));
+		}
+	};
+	
+	
 	$scope.treeOptions = {
 		dropped: function(sourceNodeScope) {
 			var scope = sourceNodeScope.source.nodeScope
@@ -185,6 +209,15 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 	    	map = new google.maps.Map(document.getElementById('main-map'), mapOptions);
 	    	google.maps.event.addListener(map, 'idle', function() {
 				var center = map.getCenter();
+				var lat = center.k == undefined ? center.A : center.k;
+				var long = center.D == undefined ? center.F : center.D;
+				if($scope.current_lat != lat || $scope.current_long != long){
+					$scope.current_lat = lat;
+					$scope.current_long = long;
+					if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
+					    $scope.$apply();
+					}
+				}
 			});
 	    }else{
 	    	map.setCenter(lat, long);
@@ -235,6 +268,7 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 								name : $scope.selectedLocation.name,
 								description : $content,
 								website_link : $scope.selectedLocation.website_link,
+								logo: $scope.selectedLocation.logo,
 								img1 : $scope.selectedLocation.img1,
 								img2 : $scope.selectedLocation.img2,
 								img3 : $scope.selectedLocation.img3,
@@ -279,6 +313,7 @@ function AdminLocationController($scope,$modal,$http,$cookieStore,$cookies){
 								img2 : $scope.selectedLocation.img2,
 								img3 : $scope.selectedLocation.img3,
 								img4 : $scope.selectedLocation.img4,
+								logo: $scope.selectedLocation.logo,
 								detail_address : $scope.selectedLocation.detail_address,
 								sort_description : $scope.selectedLocation.sort_description,
 								lat : $location.k == undefined ? $location.A : $location.k,

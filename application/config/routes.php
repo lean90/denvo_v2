@@ -26,6 +26,8 @@ if (array_key_exists ( 'REQUEST_METHOD', $_SERVER )) {
 		$route ['map/search'] = 'Hospital/searchPosition';
 		$route ['map/(:num)/like'] = 'Hospital/like_position/$1';
 		$route ['ban-do/(:num)'] = "Hospital/detail/$1";
+		$route ['profile/(:num)/ho-so-rang-mieng/(:num)/del'] = "Profiles/del/$1/$2";
+		$route ['profile/(:num)/tuoi-moc-rang/(:num)/del'] = "TeethGrow/del/$1/$2";
 		
 		$route ['answer/remove/(:any)'] = 'Question/removeAnswer/$1';
 		$route ['answer/like/(:num)'] = 'Question/like/$1';

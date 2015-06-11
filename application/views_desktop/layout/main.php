@@ -260,7 +260,7 @@ foreach ( $__newStatus__->datasource as $item ) {
                                 <li><a href='/profile/{$user->id}/tuoi-moc-rang'>Tuổi mọc răng của bạn</a></li>
                                 <li><a href='/profile/{$user->id}/ho-so-rang-mieng'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-                                <li><a href='/ban-do'>&beta;Finder</a></li>
+                                <li><a href='/ban-do'>&beta; Finder</a></li>
                                 ";
 																								} else {
 																									echo "
@@ -269,7 +269,7 @@ foreach ( $__newStatus__->datasource as $item ) {
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Tuổi mọc răng của bạn</a></li>
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-								<li><a href='/ban-do'>&beta;Finder</a></li>
+								<li><a href='/ban-do'>&beta; Finder</a></li>
                                 ";
 																								}
 																								?>
@@ -364,7 +364,7 @@ foreach ( $__newStatus__->datasource as $item ) {
                         <li><a class="btn btn-primary" style="color: white; font-size: 15px" onclick="window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')"><i style="color: white; font-size: 20px" class="fa fa-envelope"></i> &nbsp; <span style="color: white; font-size: 20px">|</span> &nbsp; Contact us now!</a></li>
                     </ul>
                 </li>
-                <li class="static-col">Bản đồ <a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase; text-decoration: underline;">(Mở bản đồ lớn)<a />
+                <li class="static-col">Bản đồ <a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase; text-decoration: underline;">(Phóng to)<a />
                         <?php $countResult = get_instance()->getSysUserInformation()?>
                         <ul>
                             <li><a><div id="dento-map" frameborder="0" style="border: 0; width: 255px; height: 210px"></div></a></li>

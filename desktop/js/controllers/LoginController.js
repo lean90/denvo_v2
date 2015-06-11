@@ -41,12 +41,11 @@ function LoginController($scope,$http){
     $scope.loginFacebook = function(){
         FB.login(function(response) {
             if (response.authResponse) {
-              console.log('Welcome!  Fetching your information.... ');
-              FB.api('/me', $scope.loggedinFacebook,{fields: "id,birthday,email,name,picture,gender"});
+              FB.api('/me', $scope.loggedinFacebook);
             } else {
               console.log('User cancelled login or did not fully authorize.');
             }
-        },{scope: 'email,user_likes,public_profile,user_birthday,user_likes,user_photos,user_about_me'});
+        },{scope: 'email,public_profile,user_birthday',return_scopes: true});
     };
     
     $scope.loggedinFacebook = function(response){

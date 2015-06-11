@@ -319,7 +319,7 @@ input {
 
 .many-view-item-header>span.title {
 	margin-left: 10px;
-	font-size: 25px;
+	font-size: 33px;
 	font-weight: bold;
 	color: #878787;
 	line-height: 60px;
@@ -609,7 +609,7 @@ input {
 }
 
 .left .left-head {
-	font-size: 25px;
+	font-size: 33px;
 	  font-weight: bold;
 	  color: #878787;
 	width: 579px;
@@ -777,7 +777,7 @@ input {
 }
 
 #detail-dialog .timeline-box span {
-	font-size: 19px;
+	font-size: 23px;
 }
 
 .timeline-box .timeline-dialog-close-btn {

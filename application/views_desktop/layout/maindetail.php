@@ -238,7 +238,7 @@
                                 <li><a href='/profile/{$user->id}/tuoi-moc-rang'>Tuổi mọc răng của bạn</a></li>
                                 <li><a href='/profile/{$user->id}/ho-so-rang-mieng'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-                                <li><a href='/ban-do'>&beta;Finder</a></li>
+                                <li><a href='/ban-do'>&beta; Finder</a></li>
                                 ";
                         } else {
                             echo "
@@ -247,7 +247,7 @@
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Tuổi mọc răng của bạn</a></li>
                                 <li><a action='callLoginDialog' href='javascript:void(0)'>Hồ sơ răng miệng cá nhân</a></li>
                                 <li><a href='javascript:openChatDialog()'>Trợ giúp</a></li>
-								<li><a href='/ban-do'>&beta;Finder</a></li>
+								<li><a href='/ban-do'>&beta; Finder</a></li>
                                 ";
                         }
                         ?>
@@ -346,7 +346,7 @@
 					</ul>
 				</li>
 				<li class="static-col">
-                        Bản đồ <a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase;text-decoration: underline;">(Mở bản đồ lớn)<a/> 
+                        Bản đồ <a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase;text-decoration: underline;">(Phóng to)<a/> 
                         <?php $countResult = get_instance()->getSysUserInformation()?>
                         <ul>
 						<li>

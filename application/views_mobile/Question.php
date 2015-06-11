@@ -15,14 +15,14 @@
                     <p class="name">
                        {{question.question}}
                     </p>
+                    <p class="answer-detail">
+                        {{getFullName()}}
+                    </p>
                 </td>
             </tr>
             <tr class="answers">
                 <td class="q-icon"></td>
                 <td class="q-des">
-                    <p class="answer-detail">
-                        {{getFullName()}}
-                    </p>
                     <p class="more-info">
                         {{answers.length}} câu trả lời · {{question.friendly_time}}
                     </p>
@@ -94,7 +94,7 @@
                     </p>
                     <p style="font-size: 25px;color: #A5A6B2;font-style: italic;">{{answer.user.full_name}}</p> 
                     <p class="more-info">
-                        <a ng-href="{{get_like_link(answer)}}"><img src="/img/icon-like-answer.fw.png"/> {{answer.total_like_number}} Lượt thích</a> · {{answer.friendly_time}}
+                        <a ng-href="{{get_like_link(answer)}}"><img style="width: 36px;" src="/img/icon-like-answer.fw.png"/> {{answer.total_like_number}} Lượt thích</a> · {{answer.friendly_time}}
                     </p>
                     
                 </td>

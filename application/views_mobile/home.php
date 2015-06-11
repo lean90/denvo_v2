@@ -20,27 +20,21 @@
 																
 																echo "<div id='banner-des-0' class='item text-center active'>
                                 <img src='{$banners[0]['BannerImage']}' alt='{$banners[0]['BannerObject']->title}'>
-                                <div class='carousel-caption'>
-                                    <a style='color:white'  href='#' onclick=\"window.open('/send_mail','Gửi liên hệ','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=550,height=650')\"> Đang trong thời gian chạy thử bản Beta Mọi ý kiến đóng góp xin gửi <span style='text-decoration: underline;color:white;'>tại đây</span></a>
-                                </div>
+                                
                           </div>";
 																?>
                 <?php
 																
 																echo "<div id='banner-des-1' class='item text-center'>
                                 <img src='{$banners[1]['BannerImage']}' alt='{$banners[1]['BannerObject']->title}'>
-                                <div class='carousel-caption'>
-                                    <a style='color:white'  href='https://docs.google.com/forms/d/1tkVvziZ0eBo9_fpLGNtKmgzYGOqMfN0-sgTCHROj87w/viewform?usp=send_form' target='_blank'>Bạn có muốn mua Voucher các dịch vụ nha khoa trên Website Dento? Vui lòng xem <span style='text-decoration: underline;color:white;'>tại đây</span></a>
-                                </div>
+                                
                           </div>";
 																?>
                 <?php
 																
 																echo "<div id='banner-des-2' class='item text-center'>
                                 <img src='{$banners[2]['BannerImage']}' alt='{$banners[2]['BannerObject']->title}'>
-                                <div class='carousel-caption'>
-                                    <a style='color:white'  href='https://docs.google.com/forms/d/1Snsl2dojVfACWNNMAX39S8qHsHoXTsVlTmdUUL9SHeg/viewform?usp=send_form' target='_blank'>Bạn có muốn bán Voucher các dịch vụ nha khoa trên Website Dento? Vui lòng xem <span style='text-decoration: underline;color:white;'>tại đây</span></a>
-                                </div>
+                                
                           </div>";
 																?>
             </div>
@@ -110,9 +104,10 @@
         </div>
         <div class="support-frm">
                 <?php
-																$user = Common::getCurrentUser ();
-																$url = $user->is_authorized ? "/profile/{$user->id}/ho-so-rang-mieng" : Common::getCurrentHost () . '/login';
-																?>
+					$user = Common::getCurrentUser ();
+					$url = $user->is_authorized ? "/profile/{$user->id}/tuoi-moc-rang" : Common::getCurrentHost () . '/login';
+					$urlHs = $user->is_authorized ? "/profile/{$user->id}/ho-so-rang-mieng" : Common::getCurrentHost () . '/login';
+				?>
                 <span class="support-frm-title">Răng của tôi đang trong tình trạng nào nhỉ?</span>
             <div class="support-frm-content" ng-controller="ProfileHomeController">
                 <div class="support-content-left">
@@ -128,7 +123,7 @@
                         Nơi lưu trữ tình trạng răng miệng của các thành viên<br />
                         <br />
                     </div>
-                    <a ng-click="openProfilePage()" class="btn btn-primary">Tư vấn &gt;&gt;</a>
+                    <a href="<?php echo $urlHs?>" class="btn btn-primary">Chi tiết &gt;&gt;</a>
 
                 </div>
             </div>

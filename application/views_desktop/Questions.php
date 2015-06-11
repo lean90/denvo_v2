@@ -85,10 +85,6 @@ $(document).ready(function(){
                 </div>
             </form>
         </div>
-        <div class="facebook-comment" >
-        	<div class="fb-comments" data-href="<?php echo Common::curPageURL();?>"
-        		data-numposts="5" data-colorscheme="light"></div>
-        </div>
     </div>
     <div class="right">
         <?php include APPPATH.VIEW_PATH.'/many_view_time.php'; ?>

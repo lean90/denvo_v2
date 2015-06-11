@@ -10,7 +10,7 @@
         </ul>
     </div>
     <div class="detail-view post-view width-960">
-    	<div class="head" style="font-size: 25px;font-weight: bold;margin:20px 40px 0px 40px;color:#0F75BB;">Thông tin “{{info.name}}”</div>
+    	<div class="head" style="font-size: 25px;font-weight: bold;margin:20px 40px 0px 40px;color:#0F75BB;">{{info.name}}</div>
         <div class="left">
             <div class="social">
                 <div class="fb-like fb_iframe_widget" data-href="<?php echo Common::curPageURL();?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=1526647744225362&amp;container_width=558&amp;href=http%3A%2F%2Flocalhost.dev%2Ftimeline%2Frang-sua&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=true&amp;show_faces=true">
@@ -26,7 +26,7 @@
                     <li ng-click="change_img(info.img4)"><img ng-src="{{info.img4}}" /></li>
                 </ul>
             </div>
-            <h4 class="header-hightlight">Giới thiệu về phòng khám</h4>
+            <h4 class="header-hightlight">GIỚI THIỆU VỀ PHÒNG KHÁM</h4>
             <div class="post-user-content">
             	<?php echo $detail->description;?>
             	<div class="facebook-comment">
@@ -38,7 +38,7 @@
         <div class="right">
             
             <h4 class="header-hightlight">
-            	{{info.name}}
+            	THÔNG TIN CHI TIẾT
             </h4>
             <div class="like-number" ng-click="like_position(info.id)">
             	<table>
@@ -51,13 +51,13 @@
             		</tr>
             	</table>
             </div>
-            <p><b>Hotline : {{info.hotline}}</b></p>
-            <p style="color: #656565">Email : {{info.email}}</p>
-            <p style="color: #656565">website : <a ng-href="{{info.website_link}}">{{info.website_link}}</a></p>
-            <p style="color: #656565">Địa chỉ : {{info.detail_address}}</p>
-            <p><b style="color: #0F75BB">Giờ làm việc : {{info.working_time}}</b></p>
+            <p style="color: #656565"><b>Hotline : </b> {{info.hotline}}</p>
+            <p style="color: #656565"><b>Email : </b> {{info.email}}</p>
+            <p style="color: #656565"><b>Website : </b><a ng-href="{{info.website_link}}" target="_blank">{{info.website_link}}</a></p>
+            <p style="color: #656565"><b>Địa chỉ : </b> {{info.detail_address}}</p>
+            <p><b style="color: #0F75BB"><b style="color: #656565">Giờ làm việc </b> : {{info.working_time}}</b></p>
 
-            <h4 class="header-hightlight">Bản đồ</h4>
+            <h4 class="header-hightlight">BẢN ĐỒ</h4>
             <div id='map' class="map"></div>
         </div>
     </div>

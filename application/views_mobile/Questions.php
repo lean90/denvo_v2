@@ -33,7 +33,10 @@ $(document).ready(function(){
                     </td>
                     <td class="q-des">
                         <p class="name">
-                            {{question.full_name}} : {{question.question}}
+                            {{question.question}}
+                        </p>
+                        <p class="answers">
+                            {{question.full_name}}
                         </p>
                     </td>
                 </tr>
@@ -43,7 +46,7 @@ $(document).ready(function(){
                     </td>
                     <td class="q-des">
                         <p class="name">
-                            <img src="/img/icon-like-answer.fw.png"/> Câu trả lời hay nhất:
+                            <img style="width: 36px;" src="/img/icon-like-answer.fw.png"/> Câu trả lời hay nhất:
                         </p>
                         <p class="answer-detail">
                              {{question.answer.answer}}

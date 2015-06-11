@@ -53,6 +53,7 @@ class Location extends BaseAdminController {
 		$location->sort_description = $data['sort_description'];
 		$location->email = $data['email'];
 		$location->hotline = $data['hotline'];
+		$location->logo = $data['logo'];
 		$location->working_time  = $data['working_time'];
 		$result = $location->insert();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );
@@ -79,6 +80,7 @@ class Location extends BaseAdminController {
 		$location->sort_description = $data['sort_description'];
 		$location->email = $data['email'];
 		$location->hotline = $data['hotline'];
+		$location->logo = $data['logo'];
 		$location->working_time  = $data['working_time'];
 		$result = $location->updateById();
 		$this->output->set_content_type ( 'application/json' )->set_output ( json_encode ( $result, true ) );

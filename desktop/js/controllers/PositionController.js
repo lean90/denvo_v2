@@ -76,7 +76,7 @@ function PositionController($scope,$http)
             scrollTop: 550
         }, 1000);
 		 $scope.clearMarkers();
-		 $scope.callToSearchAPI("","","","like_number",$scope.currentPage,function(data){
+		 $scope.callToSearchAPI("","",$scope.selectedFilterByName,"like_number",$scope.currentPage,function(data){
 			$scope.clearMarkers();
 			$scope.appendLocation(data.results);
 			$scope.listPosition = data.results;
@@ -202,7 +202,7 @@ function PositionController($scope,$http)
 		if(selected_area == undefined || selected_area == null || selected_area == ''){
 			selected_area = $scope.selected_tinh_thanhpho;
 		}
-		$scope.callToSearchAPI("",selected_area,"","",$scope.currentPage,function(data){
+		$scope.callToSearchAPI("",selected_area,$scope.selectedFilterByName, "fk_category" ,$scope.currentPage,function(data){
 			$scope.clearMarkers();
 			$scope.appendLocation(data.results);
 			$scope.listPosition = data.results;
@@ -320,7 +320,7 @@ function PositionController($scope,$http)
 			        map: map,
 			        icon:icon_path,
 			        animation: google.maps.Animation.DROP,
-			        title: "Bạn đang ở đây!",
+			        title: value.name,
 			        datasource : value
 			    }); 
 				$scope.locationCollection.push(value);
@@ -359,8 +359,12 @@ function PositionController($scope,$http)
 		      '<p>'+ marker.datasource.detail_address +'</p>'+
 		      '<p>'+ marker.datasource.hotline +'</p>'+
 		      '<p>'+
-		        '<a href="javascript:void(0)">'+marker.datasource.website_link+'</a>'+
+		          '<a target="_blank" href="'+marker.datasource.website_link+'">'+marker.datasource.website_link+'</a>'+
 		      '</p>'+
+		      '<p>'+
+		        '<a href="javascript:void(0)">'+marker.datasource.working_time+'</a>'+
+		      '</p>'+
+		      
 		      '<div class="like-number" onclick="like_position(this,'+marker.datasource.id+')">'+
 			      '<table>'+
 		      		'<tr>'+
@@ -393,7 +397,7 @@ function PositionController($scope,$http)
 	
 	function showMyLocationInforWindow(marker){
 		var contentString = '<div id="content" class="mylocation">'+
-	      '<h4 id="firstHeading" class="firstHeading" style="color:#0F75BB">Bạn đang ở đây</h4>'+
+	      '<h4 id="firstHeading" class="firstHeading" style="color:#0F75BB;font-size:13px">Bạn đang ở đây</h4>'+
 	      '<div id="bodyContent">'+
 		      '<hr/>'+
 		      '<p style="font-weight:bold">Địa điểm trong bán kính:</p>'+

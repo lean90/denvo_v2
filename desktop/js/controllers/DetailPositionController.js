@@ -3,6 +3,9 @@ function DetailPositionController($scope,$http)
 	$scope.info = window.position_info;
 	$scope.selected_img = $scope.info.img1;
 	$scope.mylocation_marker = null;
+	var directionsDisplay;
+	var directionsService = new google.maps.DirectionsService();
+	
 	var map;
 	
 	$scope.like_position = function(id){
@@ -45,18 +48,56 @@ function DetailPositionController($scope,$http)
 	    	map.setCenter(lat, long);
 	    }
 	    
-		var icon_path = "/img/icon-map-location.png";
+	    var icon_path = "/img/icon-map-location.png";
 		icon_path = $scope.info.position_type == "LABO" ? '/img/icon-map-labo.png' : icon_path;
 		icon_path = $scope.info.position_type == "CO-SO-VLNK" ? '/img/icon-map-cs.png' : icon_path;
-	
-	    //markers
-	    $scope.mylocation_marker = new google.maps.Marker({
+		$scope.mylocation_marker = new google.maps.Marker({
 	        position: pos,
 	        map: map,
-	        icon:icon_path,
-	        title: "Bạn đang ở đây!"
+	        icon:icon_path
+	   });
+	
+		directionsDisplay = new google.maps.DirectionsRenderer({suppressMarkers: true});
+    	directionsDisplay.setMap(map);
+	};
+	
+	
+	
+	$scope.setMyLocation = function(){
+	  if(navigator.geolocation) {
+	    navigator.geolocation.getCurrentPosition(function(position) {
+    	 
+	      var pos =  new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+		  $scope.mylocation_marker = new google.maps.Marker({
+		        position: pos,
+		        map: map,
+		        icon:'/img/human.png',
+		        animation: google.maps.Animation.BOUNCE,
+		        title: "Bạn đang ở đây!"
+		   });
+		    var origin = position.coords.latitude+','+position.coords.longitude;
+			var destimation = $scope.info.latitude+','+$scope.info.longitude;
+			var request = {
+			    origin: origin,
+			    destination: destimation,
+			    travelMode: google.maps.TravelMode.DRIVING
+			};
+			directionsService.route(request, function(response, status) {
+			    if (status == google.maps.DirectionsStatus.OK) {
+			      directionsDisplay.setDirections(response);
+			    }
+			});
+	    }, function() {
+	      alert("Không lấy được vị trí");
+	      var pos =  new google.maps.LatLng(21.044829, 105.757673);
 	    });
+	  }
+	  // Browser doesn't support Geolocation
+	  else {
+	    alert("Trình duyệt không hỗ trợ");
+	  }
 	};
 	$scope.initialize($scope.info.latitude,$scope.info.longitude);
+	$scope.setMyLocation();
 }
 DetailPositionController.$inject = ['$scope','$http'];

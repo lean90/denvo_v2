@@ -458,7 +458,6 @@ body>.support {
 
 .support-content-left>.content,.support-content-right>.content {
 	font-size: 20px;
-	font-style: italic;
 	line-height: 29px;
 }
 
@@ -1174,7 +1173,6 @@ body>.question {
 
 .question .question-item {
 	margin: 0px 36px;
-	border-bottom: solid 2px #E7E8F0;
 	padding-bottom: 20px;
 	padding-top: 10px;
 }
@@ -1212,9 +1210,8 @@ body>.question {
 }
 
 .q-detail .answers .q-des .answer-detail {
-	font-size: 25px;
+	font-size: 33px;
 	color: #A5A6B2;
-	font-style: italic;
 }
 
 .q-detail .answers .q-des .more-info {
@@ -1289,7 +1286,7 @@ body>.question {
 }
 
 .a-detail .answers .a-des .name {
-	font-size: 28px;
+	font-size: 33px;
 }
 
 .left .a-detail .answers .a-des .name {
@@ -1482,7 +1479,7 @@ body .fb-like {
 .overlay-menu .mobile-main-menu li>a span img{
 	  float: right;
 	  margin-top: 25px;
-	  margin-right: 10px;
+	  margin-right: 30px;
 	
 }
 .location-container{
@@ -1577,7 +1574,7 @@ li.localtion_item  td > img{
 .filter-on-map {
     position: absolute;
     z-index: 100;
-    margin-left:50px;
+    margin-left:30px;
     width:600px;
 }
 .like-number{
@@ -1595,6 +1592,11 @@ li.localtion_item  td > img{
     margin-bottom:5px;
 }
 .firstHeading{
+    font-size: 22px;
+    color:#0051CE;
+    font-weight: bold;
+}
+.firstHeading a{
     font-size: 22px;
     color:#0051CE;
     font-weight: bold;
@@ -1631,15 +1633,14 @@ li.localtion_item  td > img{
     margin-left:10px;
 }
 .position-thubnail img{
-    width:53px;
-    height:53px;
+    height:60px;
 }
 .position-thubnail {
     width: 100%;
     display: inline-block;
 }
 .position-thubnail li{
-    width:53px;
+	margin-top:10px;
     height:53px;
     float:left;
     margin-right: 10px;
@@ -1662,7 +1663,7 @@ li.localtion_item  td > img{
     display: inline-block;
 }
 .img-info > img{
-    width:638px;
+    width:618px;
     height: auto;
 }
 .position-detail  .post-view {
@@ -1692,7 +1693,7 @@ li.localtion_item  td > img{
     color:#0F75BB;
     font-weight: bold;
     margin: 20px 0px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .position-detail .post-view>.right{
     width: 595px;
@@ -1816,6 +1817,7 @@ li.localtion_item  td > img{
   padding-top: 15px;
 }
 body .fb-comments {
+   margin-top:140px;
     display: block;
   transform: scale(1.75) !important;
   -ms-transform: scale(1.75);
@@ -1825,5 +1827,4 @@ body .fb-comments {
   width: 330px;
   margin-left: 125px;
    
-}
 }

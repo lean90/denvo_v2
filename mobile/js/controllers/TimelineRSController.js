@@ -11,7 +11,7 @@ function TimelineRSController($scope,$http){
                   {index:8,x:302,y:763,lable:"17-23 Tháng",ntooth:[],tooth:['2 Răng nanh sữa hàm dưới 2 bên']},
                   {index:9,x:377,y:955,lable:"23-31 Tháng",ntooth:[],tooth:['2 Răng hàm sữa thứ 2 hàm dưới 2 bên']},
                   {index:10,x:427,y:1082,lable:"25-33 Tháng",ntooth:[],tooth:['2 Răng hàm sữa thứ 2 hàm trên 2 bên']},
-                  {index:11,x:497,y:1274,lable:"    3 tuổi",ntooth:["Mọc đầy đủ răng sữa"],tooth:[]}
+                  {index:11,x:500,y:1271,lable:"    3 tuổi",ntooth:["Mọc đầy đủ răng sữa"],tooth:[]}
              ];
     $scope.autoSetUp = function(){
         for(var i = 0;i<$scope.datasource.length ; i++)

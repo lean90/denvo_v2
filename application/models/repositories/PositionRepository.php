@@ -30,14 +30,27 @@ class PositionRepository extends BaseRepository {
     		$catesString = "-1";
     	}
     	$sql = "
-    	SELECT * FROM `t_position`
+    	SELECT `t_position`.* FROM `t_position` INNER JOIN `t_category` ON `t_position`.`fk_category` = `t_category`.`id`
 		WHERE 
 		('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND 
 		('' = '{$type}' OR `position_type` = '{$type}') AND 
-		`t_position`.`name` LIKE CONCAT('%','{$name}','%')
-		AND `delete` = 0
-		ORDER BY `t_position`.`{$orderBy}` {$orderLogic}
+		`t_position`.`name` LIKE CONCAT('%','{$name}','%') 
+		AND `t_position`.`delete` = 0
+		ORDER BY `t_category`.`name` , `t_position`.`{$orderBy}` {$orderLogic}, `t_position`.`name`
 		LIMIT {$offset},{$limit}";
+    	
+    	if($orderBy == T_position::like_number){
+    		$sql = "
+    		SELECT `t_position`.* FROM `t_position` INNER JOIN `t_category` ON `t_position`.`fk_category` = `t_category`.`id`
+    		WHERE
+    		('-1' = '{$catesString}' OR `fk_category` IN ({$catesString}) ) AND
+    		('' = '{$type}' OR `position_type` = '{$type}') AND
+    		`t_position`.`name` LIKE CONCAT('%','{$name}','%')
+    		AND `t_position`.`delete` = 0
+    		ORDER BY `t_position`.`{$orderBy}` {$orderLogic}, `t_position`.`name`
+    		LIMIT {$offset},{$limit}";
+    	}
+    	
     	$query = $this->db->query ( $sql );
     	$results = $query->result ();
     	return $results;

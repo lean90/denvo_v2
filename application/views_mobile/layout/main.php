@@ -49,7 +49,7 @@
                     </ul>
                 </li>
                 <li class="static-col">
-                        Bản đồ <a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase;text-decoration: underline;">(Mở bản đồ lớn)<a/>
+                        <h2 >BẢN ĐỒ<a href="https://www.google.fr/maps/place/21%C2%B002'41.4%22N+105%C2%B045'27.6%22E/@21.044829,105.757673,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" style="text-transform: lowercase;text-decoration: underline;">(Phóng to)<a/></h2> 
                         <?php $countResult = get_instance()->getSysUserInformation()?>
                      <ul>
                         <li style="display: inline-block; height: 350px;">

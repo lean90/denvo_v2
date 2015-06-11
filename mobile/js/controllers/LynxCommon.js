@@ -1,4 +1,8 @@
 
+setInterval(function () {
+	$(".fb-comments").parent().height($(".fb-comments").height() * 1.75);
+	$(".fb-comments").css('margin-top',($(".fb-comments").height() * 0.5 ) + "px");
+}, 1000);
 
 function Common(){
     this.getParameterByName = function(name) {

@@ -26,7 +26,7 @@ class Hospital extends BaseController {
 	    
 	    LayoutFactory::getLayout ( LayoutFactory::MAIN_DETAIL )
 	    ->setData ( $data )
-	    ->setTitles ( 'BFinder ')
+	    ->setTitles ( 'Beta Finder ')
 	    ->setJavascript(array('/js/controllers/PositionController.js'))
 	    ->render ( 'HospitalView' );
 	}

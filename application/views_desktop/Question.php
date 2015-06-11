@@ -23,14 +23,14 @@
                             <p class="name">
                                 {{question.question}}
                             </p>
+                            <p class="answer-detail">
+                                {{getFullName()}}
+                            </p>
                         </td>
                     </tr>
                     <tr class="answers">
                         <td class="q-icon" style="text-align: center;"></td>
                         <td class="q-des">
-                        	<p class="answer-detail">
-                                {{getFullName()}}
-                            </p>
                             <p class="more-info">
                                 {{answers.length}} câu trả lời · {{question.friendly_time}}<br/>
                                 <a ng-show="me.account_role == 'ADMIN' || me.account_role == 'COLLABORATORS' " ng-href="/question/delete/{{question.id}}">Xóa</a>
@@ -124,10 +124,6 @@
                         <button id="btn-replay" class="btn btn-primary">Trả lời</button>
                     </div>
                 </form>
-            </div>
-            <div class="facebook-comment" >
-            	<div class="fb-comments" data-href="<?php echo Common::curPageURL();?>"
-            		data-numposts="5" data-colorscheme="light"></div>
             </div>
         </div>
         

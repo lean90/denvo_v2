@@ -1048,7 +1048,7 @@ body .question{
 .question .tab-title{
     margin:0px 10px;
     border-bottom:solid 2px #E7E8F0;
-    color:#A5A6B2;
+    color:#4D4D4F;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -1092,7 +1092,7 @@ body .question{
 }
 
 .q-detail .answers .q-des .answer-detail{
-    color:#A5A6B2;
+    color:#4D4D4F;
     font-style: italic;
 }
 .q-detail .answers .q-des .more-info{
@@ -1346,12 +1346,22 @@ li.localtion_item  td > img{
 	font-size: 14px;
 	font-weight: bold;
 	color:#009AEB;
+	display: inline-block;
+	width: 200px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .localtion_item .detail-address{
 	font-size: 11px;
 	color:#999999;
 	font-style: italic;
 	margin: 0px;
+	display: inline-block;
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .localtion_item .detail-address-hightlight{
 	font-size: 11px;
@@ -1382,16 +1392,21 @@ li.localtion_item  td > img{
 	margin-bottom:5px;
 }
 .firstHeading{
-	font-size: 12px;
+	font-size: 18px;
 	color:#0051CE;
 	font-weight: bold;
+}
+.firstHeading a{
+    font-size: 18px;
+    color:#0051CE;
+    font-weight: bold;
 }
 #bodyContent p{
     margin: 0px;
 	color: black;
 }
 #bodyContent p,#bodyContent a{
-	font-size: 10px;
+	font-size: 13px;
 }
 #bodyContent .like-number {
   float: none;
@@ -1418,15 +1433,14 @@ li.localtion_item  td > img{
 	margin-left:10px;
 }
 .position-thubnail img{
-	width:53px;
-	height:53px;
+	height:60px;
 }
 .position-thubnail {
     width: 100%;
     display: inline-block;
 }
 .position-thubnail li{
-	width:53px;
+	margin-top:10px;
     height:53px;
     float:left;
 	margin-right: 10px;

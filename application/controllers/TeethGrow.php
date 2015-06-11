@@ -56,6 +56,7 @@ class TeethGrow extends BaseController {
 		$histories = array ();
 		$teethGrowRepository = new TeethGrowRepository ();
 		$teethGrowRepository->user_id = $userId;
+		$teethGrowRepository->delete = 0;
 		$results = $teethGrowRepository->getMutilCondition ( T_profile::created_at, 'DESC' );
 		foreach ( $results as $result ) {
 			$history = array ();
@@ -155,5 +156,12 @@ class TeethGrow extends BaseController {
 		$userSessionRepository->insert ();
 		
 		redirect ( "/profile/{$userId}/tuoi-moc-rang{$id}" );
+	}
+	
+	function del($userId,$id){
+		$teethGrowRepository = new TeethGrowRepository();
+		$teethGrowRepository->id = $id;
+		$teethGrowRepository->delete();
+		redirect ( "/profile/{$userId}/tuoi-moc-rang" );
 	}
 }

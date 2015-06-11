@@ -55,6 +55,7 @@ class Profiles extends BaseController {
 		$histories = array ();
 		$profileRepository = new ProfileRepository ();
 		$profileRepository->user_id = $userId;
+		$profileRepository->delete = 0;
 		$profileResults = $profileRepository->getMutilCondition ( T_profile::created_at, 'DESC' );
 		
 		foreach ( $profileResults as $profileResult ) {
@@ -191,5 +192,12 @@ class Profiles extends BaseController {
 		$userSessionRepository->insert ();
 		
 		redirect ( "/profile/{$userId}/ho-so-rang-mieng{$id}" );
+	}
+	
+	function del($userId,$id){
+		$profileRepository = new ProfileRepository ();
+		$profileRepository->id = $id;
+		$profileRepository->delete();
+		redirect ( "/profile/{$userId}/ho-so-rang-mieng" );
 	}
 }

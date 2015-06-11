@@ -316,7 +316,7 @@ body>.header {
 	margin-left: 10px;
 	font-size: 20px;
 	font-weight: bold;
-	color: #878787;
+	color:  #4D4D4F;
 	line-height: 60px;
 }
 
@@ -600,7 +600,7 @@ body>.header {
 }
 
 .left .left-head {
-	color: #878787;
+	color: #4D4D4F;
 	font-size: 20px;
 	width: 579px;
 	margin-left: -10px;
